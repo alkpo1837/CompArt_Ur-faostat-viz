@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -25,5 +26,11 @@ public class FlagIcon : MonoBehaviour
         {
             Debug.LogErrorFormat("Flag {0} does not exist", flagName);
         }
+    }
+
+    public void SetFillAmount(float fillAmount, int fillOrigin)
+    {
+        _icon.fillAmount = fillAmount;
+        _icon.fillOrigin = fillOrigin;
     }
 }
