@@ -140,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &195617119
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1279,5 +1279,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StatsPoster: {fileID: 208776383}
   ButtonParent: {fileID: 1158174207}
+  InfosText: {fileID: 570612512}
   ButtonPrefab: {fileID: 1392059738986430512, guid: 72ddd4c6a9b039d4ab21a856b0183190, type: 3}
   DataTextAsset: {fileID: 4900000, guid: fedfa6d2e6a26584789998e9555c8ac8, type: 3}
