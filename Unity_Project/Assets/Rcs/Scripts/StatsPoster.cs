@@ -15,7 +15,9 @@ public class StatsPoster : MonoBehaviour
     [Header("Values")]
     public int NbrLines = 20;
     public int NbrColumns = 10;
-    public int SizeFlag = 64;
+    public float WidthFlag = 63.0f;
+    public float HeightFlag = 43.0f;
+    public float FlagSizeRatio = 1.0f;
 
     [Header("Prefab")]
     public GameObject FlagIconPrefab;
@@ -52,9 +54,10 @@ public class StatsPoster : MonoBehaviour
         FlagIcon flagIconBehaviour = flagIconGo.GetComponent<FlagIcon>();
 
         flagIconBehaviour.SetInformations(country, percentage);
+        flagIconBehaviour.SetRatioSize(FlagSizeRatio);
 
-        float posX = currCol * SizeFlag;
-        float posY = -currLine * SizeFlag;
+        float posX = currCol * WidthFlag;
+        float posY = -currLine * HeightFlag;
         flagIconGo.transform.localPosition = new Vector2(posX, posY);
 
         if (fillAmount < 1.0f)
@@ -69,19 +72,19 @@ public class StatsPoster : MonoBehaviour
         flagIconBehaviour.OnMouseOver += OnFlagMouseOver;
     }
 
-    public void InstantiateWorldFlag(int currCol, int currLine, float totalPercentage)
-    {
-        GameObject worldFlagIconGo = Instantiate(WorldFlagPrefab, FlagIconsParent);
-        WorldFlagIcon worldFlagIconBehaviour = worldFlagIconGo.GetComponent<WorldFlagIcon>();
+    //public void InstantiateWorldFlag(int currCol, int currLine, float totalPercentage)
+    //{
+    //    GameObject worldFlagIconGo = Instantiate(WorldFlagPrefab, FlagIconsParent);
+    //    WorldFlagIcon worldFlagIconBehaviour = worldFlagIconGo.GetComponent<WorldFlagIcon>();
 
-        float posX = currCol * (SizeFlag);
-        float posY = -currLine * SizeFlag;
+    //    float posX = currCol * (SizeFlag);
+    //    float posY = -currLine * SizeFlag;
 
-        worldFlagIconGo.transform.localPosition = new Vector2(posX, posY);
-        worldFlagIconBehaviour.SetSize(NbrColumns - currCol);
+    //    worldFlagIconGo.transform.localPosition = new Vector2(posX, posY);
+    //    worldFlagIconBehaviour.SetSize(NbrColumns - currCol);
 
-        worldFlagIconGo.name = string.Format("World: {0}", 100.0f - totalPercentage);
-    }
+    //    worldFlagIconGo.name = string.Format("World: {0}", 100.0f - totalPercentage);
+    //}
 
     public void FillFlags(List<JSONObject> listStats)
     {
@@ -108,8 +111,6 @@ public class StatsPoster : MonoBehaviour
         foreach (KeyValuePair<string, float> nbrFlagByCountry in nbrFlagsByCountries)
         {
             float nbrFlags = nbrFlagByCountry.Value;
-
-            Debug.Log(nbrFlagByCountry.Key + " => " + nbrFlagByCountry.Value);
 
             // That means that the previous filling was not complete
             if (currFlagFill > 0.0f && currFlagFill < 1.0f)

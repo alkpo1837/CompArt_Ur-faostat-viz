@@ -6,10 +6,12 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
-public class FlagIcon : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class FlagIcon : MonoBehaviour, IPointerEnterHandler
 {
-    private Image _icon;
+    [Header("Elements")]
+    public Image Borders;
 
+    private Image _icon;
     private string _flagName;
     private float _percentage;
 
@@ -47,18 +49,16 @@ public class FlagIcon : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
         _icon.fillOrigin = fillOrigin;
     }
 
-    //public void OnMouseOver()
-    //{
-        //Debug.Log("ON MOUSE OVER");
-
-    //}
-
     public void OnPointerEnter(PointerEventData eventData)
     {
-        OnMouseOver(this);
+        if (OnMouseOver!= null)
+            OnMouseOver(this);
     }
 
-    public void OnPointerExit(PointerEventData eventData)
-    { }
-
+    internal void SetRatioSize(float flagSizeRatio)
+    {
+        _icon.GetComponent<RectTransform>().sizeDelta *= flagSizeRatio;
+        Borders.GetComponent<RectTransform>().offsetMin *= flagSizeRatio;
+        Borders.GetComponent<RectTransform>().offsetMax *= flagSizeRatio;
+    }
 }
