@@ -10,6 +10,7 @@ public class StatsPoster : MonoBehaviour
     public TextAsset DataJSON;
 
     [Header("Elements")]
+    public Transform FlagSlotsParent;
     public Transform FlagIconsParent;
 
     [Header("Values")]
@@ -21,18 +22,15 @@ public class StatsPoster : MonoBehaviour
 
     [Header("Prefab")]
     public GameObject FlagIconPrefab;
-    public GameObject WorldFlagPrefab;
+    public GameObject FlagSlotPrefab;
 
     public Action<FlagIcon> OnFlagMouseOver;
 
     private List<FlagIcon> _flagsIcon = new List<FlagIcon>();
     private JSONObject _jsonObject;
 
-    private float _ratioPerFlag = 0.0f;
-
     public const float DECIMAL_MARGIN = 0.001f;
-
-
+    
     public struct Flag
     {
         public string Country;
@@ -63,12 +61,7 @@ public class StatsPoster : MonoBehaviour
 
     public void Awake()
     {
-        _ratioPerFlag = 100.0f / (NbrLines * NbrColumns);
-        // Only 2 decimals
-        _ratioPerFlag = Mathf.Round(_ratioPerFlag * 100.0f) / 100.0f;
-
         _jsonObject = new JSONObject(DataJSON.text);
-
 
         _flags = new List<Flag>();
     }
@@ -77,34 +70,22 @@ public class StatsPoster : MonoBehaviour
     {
         List<JSONObject> dataCropTomatoes = GetDataCrop(cropText);
 
+        for (int i = 0; i < NbrColumns * NbrLines; i++)
+        {
+            GameObject flagSlot = Instantiate(FlagSlotPrefab, FlagSlotsParent);
+
+            int currCol = Mathf.FloorToInt(i) % NbrColumns;
+            int currLine = (int)Mathf.Floor(Mathf.FloorToInt(i) / NbrColumns);
+
+            flagSlot.gameObject.name = string.Format("{0}, currCol = {1}, currLine = {2}", i, currCol, currLine);
+            flagSlot.transform.localPosition = new Vector2(currCol * WidthFlag, -currLine * HeightFlag);
+
+        }
+
         FillFlags(dataCropTomatoes);
     }
 
-    public void InstantiateFlag(string country, int currCol, int currLine, float percentage, float fillAmount = 1.0f, int fillOrigin = 0)
-    {
-        GameObject flagIconGo = Instantiate(FlagIconPrefab, FlagIconsParent);
-        FlagIcon flagIconBehaviour = flagIconGo.GetComponent<FlagIcon>();
-
-        flagIconBehaviour.SetInformations(country, percentage);
-        flagIconBehaviour.SetRatioSize(FlagSizeRatio);
-
-        float posX = currCol * WidthFlag;
-        float posY = -currLine * HeightFlag;
-        flagIconGo.transform.localPosition = new Vector2(posX, posY);
-
-        if (fillAmount < 1.0f)
-        {
-            flagIconBehaviour.SetFillAmount(fillAmount, fillOrigin);
-        }
-
-        flagIconGo.name = string.Format("{0} : {1} [Index = {2}]", country, fillAmount, currLine * NbrColumns + currCol);
-
-        _flagsIcon.Add(flagIconBehaviour);
-
-        flagIconBehaviour.OnMouseOver += OnFlagMouseOver;
-    }
-
-    public void InstantiateFlag2(Flag flag)
+    public void InstantiateFlag(Flag flag)
     {
         GameObject flagIconGo = Instantiate(FlagIconPrefab, FlagIconsParent);
         FlagIcon flagIconBehaviour = flagIconGo.GetComponent<FlagIcon>();
@@ -125,119 +106,6 @@ public class StatsPoster : MonoBehaviour
 
         //flagIconBehaviour.OnMouseOver += OnFlagMouseOver;
     }
-
-    //public void FillFlags(List<JSONObject> listStats)
-    //{
-    //    int currLine = 0, currCol = 0;
-    //    float currFlagFill = 0.0f;
-    //    int currIndex = 0;
-    //    Dictionary<string, float> nbrFlagsByCountries = new Dictionary<string, float>();
-    //    float flagsRemaining = NbrColumns * NbrLines;
-
-    //    ClearAllFlags();
-
-    //    foreach (JSONObject statJSON in listStats)
-    //    {
-    //        string country = statJSON.keys[0];
-    //        float percentage = statJSON[country].f;
-
-    //        if (percentage > 0.01f)
-    //        {
-    //            nbrFlagsByCountries[country] = (NbrColumns * NbrLines) * (percentage / 100.0f);
-
-    //            flagsRemaining -= nbrFlagsByCountries[country];
-    //        }
-
-    //    }
-
-    //    foreach (KeyValuePair<string, float> nbrFlagByCountry in nbrFlagsByCountries)
-    //    {
-    //        float nbrFlags = nbrFlagByCountry.Value;
-
-    //        //if (nbrFlags < 1.0f)
-    //        Debug.LogFormat("Doing {0} with {1}", nbrFlagByCountry.Key, nbrFlagByCountry.Value);
-
-    //        // That means that the previous filling was not complete
-    //        if (currFlagFill > 0.0f && currFlagFill < 1.0f)
-    //        {
-    //            Debug.Log("The previous filling was not complete, it's currently at " + currFlagFill);
-
-    //            // If the currentCountry percetange + the previousFilling is more than one
-    //            if (currFlagFill + nbrFlagByCountry.Value >= 1.0f - DECIMAL_MARGIN)
-    //            {
-    //                InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value, 1 - currFlagFill, 1);
-    //                currIndex++;
-
-    //                nbrFlags -= (1 - currFlagFill);
-    //                currFlagFill = 1.0f;
-
-    //                if (nbrFlags < 1.0f)
-    //                {
-    //                    currCol = Mathf.FloorToInt(currIndex) % NbrColumns;
-    //                    currLine = (int)Mathf.Floor(Mathf.FloorToInt(currIndex) / NbrColumns);
-
-    //                    InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value, nbrFlags, 0);
-    //                    currFlagFill = nbrFlags;
-    //                }
-    //            }
-    //            else
-    //            {
-    //                // This is going to be EATEN by the next countries. I hope.
-    //                InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value, 1 - currFlagFill, 1);
-
-    //                nbrFlags = 0;
-    //                currFlagFill += nbrFlagByCountry.Value;
-
-    //                if (currFlagFill >= 1.0f)
-    //                {
-    //                    currIndex++;
-    //                    currFlagFill = 1.0f - currFlagFill;
-    //                }
-    //            }
-
-
-    //            Debug.Log("Current nbrFlags " + nbrFlags);
-    //        }
-
-    //        // Otherwise, if the previous is filled BUT the current is < 1.0f, we have to advance 
-    //        else if (currFlagFill >= 1.0f - DECIMAL_MARGIN)
-    //        {
-    //            InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value, nbrFlagByCountry.Value, 0);
-
-    //            currFlagFill = nbrFlagByCountry.Value;
-    //        }
-
-    //        if (nbrFlags > 1.0f)
-    //        {
-    //            for (int i = 0; i < Mathf.Floor(nbrFlags); i++)
-    //            {
-    //                currCol = Mathf.FloorToInt(currIndex) % NbrColumns;
-    //                currLine = (int)Mathf.Floor(Mathf.FloorToInt(currIndex) / NbrColumns);
-
-    //                InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value);
-
-    //                currIndex++;
-    //                currFlagFill = 1.0f;
-    //            }
-    //        }
-
-    //        // If there is a decimal part left, we should add this decimal part to the next flag icon
-    //        if (nbrFlags > 1.0f && nbrFlags - Math.Truncate(nbrFlags) > DECIMAL_MARGIN)
-    //        {
-    //            currFlagFill = nbrFlags - (float)Math.Truncate(nbrFlags);
-
-    //            currCol = Mathf.FloorToInt(currIndex) % NbrColumns;
-    //            currLine = (int)Mathf.Floor(Mathf.FloorToInt(currIndex) / NbrColumns);
-
-    //            InstantiateFlag(nbrFlagByCountry.Key, currCol, currLine, nbrFlagByCountry.Value, currFlagFill);
-    //        }
-    //    }
-
-    //    if (flagsRemaining > DECIMAL_MARGIN)
-    //    {
-    //        Debug.Log("There is still " + flagsRemaining + " flags remaining");
-    //    }
-    //}
 
     public void FillFlags(List<JSONObject> listStats)
     {
@@ -349,7 +217,7 @@ public class StatsPoster : MonoBehaviour
 
         foreach (Flag flag in _flags)
         {
-            InstantiateFlag2(flag);
+            InstantiateFlag(flag);
         }
 
         if (flagsRemaining > DECIMAL_MARGIN)
