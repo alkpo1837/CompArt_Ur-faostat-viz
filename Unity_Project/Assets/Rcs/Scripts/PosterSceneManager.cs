@@ -30,7 +30,12 @@ public class PosterSceneManager : MonoBehaviour
 
         StatsPoster.DrawCropStats(Crop);
 
-        List<JSONObject> dataCropList = GetDataCrop(Crop);
+        //DisplayListStats(Crop);
+    }
+
+    public void DisplayListStats(string crop)
+    {
+        List<JSONObject> dataCropList = GetDataCrop(crop);
 
         foreach (JSONObject statJSON in dataCropList)
         {

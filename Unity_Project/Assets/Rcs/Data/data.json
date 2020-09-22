@@ -1,7 +1,7 @@
 [
   {
     "Test": [
-      {"China" : 50.5}, {"Egypt" : 49.5}
+      {"China" : 98.8}, {"Egypt" : 0.4}, {"France" : 0.2}, {"Algeria" : 0.2}, {"Spain" : 0.2}, {"Syria" : 0.2}
     ]
   },
   {
@@ -79,7 +79,7 @@
         "Kyrgyzstan": 0.06
       },
       {
-        "Burkina Faso": 0.05
+        "Burkina-Faso": 0.05
       },
       {
         "Cote-dIvoire": 0.05
@@ -106,10 +106,10 @@
         "Turkmenistan": 0.03
       },
       {
-        "United Arab Emirates": 0.03
+        "United-Arab-Emirates": 0.03
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Moldova": 0.02
@@ -408,13 +408,13 @@
         "Afghanistan": 0.25
       },
       {
-        "Czechia": 0.18
+        "Czech-Republic": 0.18
       },
       {
         "Kyrgyzstan": 0.17
       },
       {
-        "North Macedonia": 0.16
+        "Macedonia": 0.16
       },
       {
         "Peru": 0.16
@@ -471,7 +471,7 @@
         "Denmark": 0.04
       },
       {
-        "El Salvador": 0.04
+        "El-Salvador": 0.04
       },
       {
         "Sweden": 0.04
@@ -513,7 +513,7 @@
         "Zimbabwe": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Taiwan": 0.0
@@ -700,7 +700,7 @@
         "Portugal": 0.12
       },
       {
-        "North Macedonia": 0.1
+        "Macedonia": 0.1
       },
       {
         "Poland": 0.09
@@ -709,7 +709,7 @@
         "New-Zealand": 0.07
       },
       {
-        "Czechia": 0.06
+        "Czech-Republic": 0.06
       },
       {
         "Nepal": 0.05
@@ -836,7 +836,7 @@
         "India": 1.26
       },
       {
-        "Czechia": 1.14
+        "Czech-Republic": 1.14
       },
       {
         "China": 1.05
@@ -947,7 +947,7 @@
         "Armenia": 0.09
       },
       {
-        "North Macedonia": 0.09
+        "Macedonia": 0.09
       },
       {
         "Egypt": 0.08
@@ -992,7 +992,7 @@
         "Zimbabwe": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
         "South-Korea": 0.02
@@ -1049,7 +1049,7 @@
         "Bhutan": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Guatemala": 0.0
@@ -1082,7 +1082,7 @@
         "Qatar": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Western Sahara": 0.0
@@ -1203,7 +1203,7 @@
         "Portugal": 0.11
       },
       {
-        "Czechia": 0.1
+        "Czech-Republic": 0.1
       },
       {
         "Uzbekistan": 0.1
@@ -1212,7 +1212,7 @@
         "Bosnia-and-Herzegovina": 0.08
       },
       {
-        "Costa Rica": 0.08
+        "Costa-Rica": 0.08
       },
       {
         "Greece": 0.08
@@ -1318,7 +1318,7 @@
         "Turkmenistan": 0.84
       },
       {
-        "Burkina Faso": 0.73
+        "Burkina-Faso": 0.73
       },
       {
         "Kazakhstan": 0.47
@@ -1363,7 +1363,7 @@
         "Ethiopia": 0.17
       },
       {
-        "Bolivia (Plurinational State of)": 0.13
+        "Bolivia": 0.13
       },
       {
         "Colombia": 0.12
@@ -1417,7 +1417,7 @@
         "Israel": 0.04
       },
       {
-        "Democratic Republic of the Congo": 0.03
+        "Democratic-Republic-of-the-Congo": 0.03
       },
       {
         "Malawi": 0.03
@@ -1480,13 +1480,13 @@
         "Cambodia": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Ecuador": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eswatini": 0.0
@@ -1528,7 +1528,7 @@
         "Saint Kitts and Nevis": 0.0
       },
       {
-        "Sri Lanka": 0.0
+        "Sri-Lanka": 0.0
       },
       {
         "Thailand": 0.0
@@ -1589,7 +1589,7 @@
         "Turkmenistan": 0.83
       },
       {
-        "Burkina Faso": 0.7
+        "Burkina-Faso": 0.7
       },
       {
         "Cote-dIvoire": 0.6
@@ -1634,7 +1634,7 @@
         "Sudan": 0.18
       },
       {
-        "Bolivia (Plurinational State of)": 0.17
+        "Bolivia": 0.17
       },
       {
         "Zambia": 0.15
@@ -1682,7 +1682,7 @@
         "Iraq": 0.05
       },
       {
-        "Democratic Republic of the Congo": 0.04
+        "Democratic-Republic-of-the-Congo": 0.04
       },
       {
         "Malawi": 0.04
@@ -1757,10 +1757,10 @@
         "Cambodia": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eswatini": 0.0
@@ -1799,7 +1799,7 @@
         "Saint Kitts and Nevis": 0.0
       },
       {
-        "Sri Lanka": 0.0
+        "Sri-Lanka": 0.0
       },
       {
         "Thailand": 0.0
@@ -1932,13 +1932,13 @@
         "Jordan": 0.07
       },
       {
-        "Bolivia (Plurinational State of)": 0.06
+        "Bolivia": 0.06
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
-        "United Arab Emirates": 0.04
+        "United-Arab-Emirates": 0.04
       },
       {
         "Pakistan": 0.02
@@ -2002,7 +2002,7 @@
         "Philippines": 0.81
       },
       {
-        "Sierra Leone": 0.8
+        "Sierra-Leone": 0.8
       },
       {
         "Kenya": 0.61
@@ -2086,7 +2086,7 @@
         "Malaysia": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
         "Australia": 0.01
@@ -2249,7 +2249,7 @@
         "Sudan": 0.83
       },
       {
-        "Costa Rica": 0.81
+        "Costa-Rica": 0.81
       },
       {
         "Malawi": 0.72
@@ -2318,16 +2318,16 @@
         "Guatemala": 0.3
       },
       {
-        "Democratic Republic of the Congo": 0.29
+        "Democratic-Republic-of-the-Congo": 0.29
       },
       {
-        "Sierra Leone": 0.29
+        "Sierra-Leone": 0.29
       },
       {
         "Venezuela": 0.29
       },
       {
-        "Burkina Faso": 0.25
+        "Burkina-Faso": 0.25
       },
       {
         "Honduras": 0.25
@@ -2372,7 +2372,7 @@
         "Haiti": 0.19
       },
       {
-        "Sri Lanka": 0.19
+        "Sri-Lanka": 0.19
       },
       {
         "Italy": 0.17
@@ -2447,7 +2447,7 @@
         "R\u00e9union": 0.07
       },
       {
-        "Czechia": 0.06
+        "Czech-Republic": 0.06
       },
       {
         "Gabon": 0.06
@@ -2468,7 +2468,7 @@
         "Chile": 0.04
       },
       {
-        "El Salvador": 0.04
+        "El-Salvador": 0.04
       },
       {
         "Kazakhstan": 0.04
@@ -2495,7 +2495,7 @@
         "Madagascar": 0.03
       },
       {
-        "United Arab Emirates": 0.03
+        "United-Arab-Emirates": 0.03
       },
       {
         "Bahrain": 0.02
@@ -2525,7 +2525,7 @@
         "Bhutan": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Botswana": 0.01
@@ -2567,7 +2567,7 @@
         "Portugal": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Saint Lucia": 0.01
@@ -2600,7 +2600,7 @@
         "British Virgin Islands": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Canada": 0.0
@@ -2648,7 +2648,7 @@
         "Niue": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Qatar": 0.0
@@ -2869,7 +2869,7 @@
         "Austria": 0.46
       },
       {
-        "North Macedonia": 0.37
+        "Macedonia": 0.37
       },
       {
         "Georgia": 0.33
@@ -2923,7 +2923,7 @@
         "Switzerland": 0.14
       },
       {
-        "Czechia": 0.13
+        "Czech-Republic": 0.13
       },
       {
         "Uruguay": 0.13
@@ -2968,7 +2968,7 @@
         "Palestine": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
         "Colombia": 0.03
@@ -3052,7 +3052,7 @@
         "R\u00e9union": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "United-Kingdom": 0.0
@@ -3140,7 +3140,7 @@
         "Tunisia": 0.07
       },
       {
-        "Czechia": 0.06
+        "Czech-Republic": 0.06
       },
       {
         "Italy": 0.06
@@ -3194,7 +3194,7 @@
         "Switzerland": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Bulgaria": 0.0
@@ -3357,7 +3357,7 @@
         "Croatia": 0.19
       },
       {
-        "Democratic Republic of the Congo": 0.18
+        "Democratic-Republic-of-the-Congo": 0.18
       },
       {
         "Moldova": 0.18
@@ -3372,7 +3372,7 @@
         "South-Korea": 0.16
       },
       {
-        "Burkina Faso": 0.15
+        "Burkina-Faso": 0.15
       },
       {
         "Mozambique": 0.14
@@ -3396,7 +3396,7 @@
         "Iran": 0.12
       },
       {
-        "Bolivia (Plurinational State of)": 0.11
+        "Bolivia": 0.11
       },
       {
         "Bosnia-and-Herzegovina": 0.11
@@ -3432,7 +3432,7 @@
         "Uruguay": 0.07
       },
       {
-        "El Salvador": 0.06
+        "El-Salvador": 0.06
       },
       {
         "Honduras": 0.06
@@ -3456,7 +3456,7 @@
         "Chad": 0.04
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Rwanda": 0.04
@@ -3504,13 +3504,13 @@
         "New-Zealand": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Senegal": 0.02
       },
       {
-        "Sri Lanka": 0.02
+        "Sri-Lanka": 0.02
       },
       {
         "Tajikistan": 0.02
@@ -3591,7 +3591,7 @@
         "Botswana": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Comoros": 0.0
@@ -3600,7 +3600,7 @@
         "Congo": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Denmark": 0.0
@@ -3693,7 +3693,7 @@
         "Papua-New-Guinea": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -3711,7 +3711,7 @@
         "Saudi-Arabia": 0.0
       },
       {
-        "Sierra Leone": 0.0
+        "Sierra-Leone": 0.0
       },
       {
         "Sudan": 0.0
@@ -3726,7 +3726,7 @@
         "Turkmenistan": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Vanuatu": 0.0
@@ -3799,7 +3799,7 @@
         "South-Korea": 0.61
       },
       {
-        "Costa Rica": 0.52
+        "Costa-Rica": 0.52
       },
       {
         "Japan": 0.52
@@ -3964,7 +3964,7 @@
         "Moldova": 0.01
       },
       {
-        "United Arab Emirates": 0.01
+        "United-Arab-Emirates": 0.01
       },
       {
         "Uruguay": 0.01
@@ -3988,7 +3988,7 @@
         "Djibouti": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Fiji": 0.0
@@ -4003,10 +4003,10 @@
         "Namibia": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -4049,7 +4049,7 @@
         "China": 5.05
       },
       {
-        "Burkina Faso": 3.83
+        "Burkina-Faso": 3.83
       },
       {
         "Ethiopia": 3.17
@@ -4115,10 +4115,10 @@
         "Angola": 0.17
       },
       {
-        "Sierra Leone": 0.14
+        "Sierra-Leone": 0.14
       },
       {
-        "Democratic Republic of the Congo": 0.13
+        "Democratic-Republic-of-the-Congo": 0.13
       },
       {
         "France": 0.13
@@ -4184,7 +4184,7 @@
         "Saudi-Arabia": 0.03
       },
       {
-        "Sri Lanka": 0.03
+        "Sri-Lanka": 0.03
       },
       {
         "Bulgaria": 0.02
@@ -4250,7 +4250,7 @@
         "Croatia": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Greece": 0.0
@@ -4271,7 +4271,7 @@
         "Mexico": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Moldova": 0.0
@@ -4485,7 +4485,7 @@
         "Slovenia": 0.01
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Guadeloupe": 0.0
@@ -4579,10 +4579,10 @@
         "Mexico": 0.07
       },
       {
-        "El Salvador": 0.06
+        "El-Salvador": 0.06
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
         "Afghanistan": 0.04
@@ -4817,13 +4817,13 @@
         "Belgium": 0.11
       },
       {
-        "Sri Lanka": 0.11
+        "Sri-Lanka": 0.11
       },
       {
         "Albania": 0.1
       },
       {
-        "Bolivia (Plurinational State of)": 0.09
+        "Bolivia": 0.09
       },
       {
         "Cuba": 0.09
@@ -4853,13 +4853,13 @@
         "Saudi-Arabia": 0.07
       },
       {
-        "Democratic Republic of the Congo": 0.06
+        "Democratic-Republic-of-the-Congo": 0.06
       },
       {
         "Dominican-Republic": 0.06
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
         "Hungary": 0.05
@@ -4883,10 +4883,10 @@
         "Bulgaria": 0.04
       },
       {
-        "Costa Rica": 0.04
+        "Costa-Rica": 0.04
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Denmark": 0.04
@@ -5000,7 +5000,7 @@
         "Bhutan": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Congo": 0.0
@@ -5009,7 +5009,7 @@
         "Cyprus": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Estonia": 0.0
@@ -5151,19 +5151,19 @@
         "Colombia": 0.32
       },
       {
-        "Costa Rica": 0.31
+        "Costa-Rica": 0.31
       },
       {
         "Paraguay": 0.3
       },
       {
-        "Bolivia (Plurinational State of)": 0.25
+        "Bolivia": 0.25
       },
       {
         "Guatemala": 0.23
       },
       {
-        "Democratic Republic of the Congo": 0.22
+        "Democratic-Republic-of-the-Congo": 0.22
       },
       {
         "Sudan": 0.21
@@ -5214,7 +5214,7 @@
         "Cambodia": 0.09
       },
       {
-        "El Salvador": 0.09
+        "El-Salvador": 0.09
       },
       {
         "Iraq": 0.09
@@ -5229,7 +5229,7 @@
         "Malawi": 0.08
       },
       {
-        "Sri Lanka": 0.08
+        "Sri-Lanka": 0.08
       },
       {
         "Libya": 0.07
@@ -5292,7 +5292,7 @@
         "Palestine": 0.02
       },
       {
-        "Puerto Rico": 0.02
+        "Puerto-Rico": 0.02
       },
       {
         "Togo": 0.02
@@ -5349,7 +5349,7 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
         "Congo": 0.0
@@ -5512,7 +5512,7 @@
         "Venezuela": 0.27
       },
       {
-        "Bolivia (Plurinational State of)": 0.24
+        "Bolivia": 0.24
       },
       {
         "Armenia": 0.21
@@ -5605,7 +5605,7 @@
         "Nepal": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Bosnia-and-Herzegovina": 0.04
@@ -5653,7 +5653,7 @@
         "Cameroon": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Ethiopia": 0.0
@@ -5852,13 +5852,13 @@
         "Iraq": 0.04
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Ecuador": 0.03
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Croatia": 0.02
@@ -5885,7 +5885,7 @@
         "Tanzania": 0.02
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Bulgaria": 0.01
@@ -6103,7 +6103,7 @@
         "Albania": 0.33
       },
       {
-        "North Macedonia": 0.3
+        "Macedonia": 0.3
       },
       {
         "Azerbaijan": 0.29
@@ -6157,7 +6157,7 @@
         "Taiwan": 0.1
       },
       {
-        "Czechia": 0.1
+        "Czech-Republic": 0.1
       },
       {
         "Kyrgyzstan": 0.1
@@ -6196,7 +6196,7 @@
         "Jordan": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
         "Canada": 0.03
@@ -6407,7 +6407,7 @@
         "Australia": 0.32
       },
       {
-        "Bolivia (Plurinational State of)": 0.32
+        "Bolivia": 0.32
       },
       {
         "Chile": 0.32
@@ -6440,7 +6440,7 @@
         "Afghanistan": 0.17
       },
       {
-        "Czechia": 0.16
+        "Czech-Republic": 0.16
       },
       {
         "Finland": 0.16
@@ -6566,7 +6566,7 @@
         "Niger": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Moldova": 0.05
@@ -6587,13 +6587,13 @@
         "Uganda": 0.04
       },
       {
-        "Costa Rica": 0.03
+        "Costa-Rica": 0.03
       },
       {
         "Cyprus": 0.03
       },
       {
-        "Democratic Republic of the Congo": 0.03
+        "Democratic-Republic-of-the-Congo": 0.03
       },
       {
         "Philippines": 0.03
@@ -6626,7 +6626,7 @@
         "Slovenia": 0.02
       },
       {
-        "Sri Lanka": 0.02
+        "Sri-Lanka": 0.02
       },
       {
         "Uruguay": 0.02
@@ -6665,10 +6665,10 @@
         "Bermuda": 0.0
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Central African Republic": 0.0
@@ -6683,7 +6683,7 @@
         "Dominica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eritrea": 0.0
@@ -6752,7 +6752,7 @@
         "Timor-Leste": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Zambia": 0.0
@@ -6804,7 +6804,7 @@
         "Spain": 1.92
       },
       {
-        "Sierra Leone": 1.77
+        "Sierra-Leone": 1.77
       },
       {
         "Denmark": 1.62
@@ -6825,7 +6825,7 @@
         "Guinea": 1.31
       },
       {
-        "Democratic Republic of the Congo": 1.24
+        "Democratic-Republic-of-the-Congo": 1.24
       },
       {
         "Benin": 1.21
@@ -6885,7 +6885,7 @@
         "Comoros": 0.37
       },
       {
-        "Burkina Faso": 0.35
+        "Burkina-Faso": 0.35
       },
       {
         "Niger": 0.35
@@ -6918,7 +6918,7 @@
         "South-Korea": 0.18
       },
       {
-        "Czechia": 0.17
+        "Czech-Republic": 0.17
       },
       {
         "Egypt": 0.16
@@ -6948,7 +6948,7 @@
         "Liberia": 0.09
       },
       {
-        "Cabo Verde": 0.08
+        "Cabo-Verde": 0.08
       },
       {
         "Cameroon": 0.08
@@ -7074,7 +7074,7 @@
         "New Caledonia": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Portugal": 0.0
@@ -7153,7 +7153,7 @@
         "Madagascar": 0.51
       },
       {
-        "Sri Lanka": 0.5
+        "Sri-Lanka": 0.5
       },
       {
         "Lao People's Democratic Republic": 0.46
@@ -7201,7 +7201,7 @@
         "Uruguay": 0.17
       },
       {
-        "Democratic Republic of the Congo": 0.13
+        "Democratic-Republic-of-the-Congo": 0.13
       },
       {
         "Russia": 0.13
@@ -7210,7 +7210,7 @@
         "Guyana": 0.12
       },
       {
-        "Sierra Leone": 0.12
+        "Sierra-Leone": 0.12
       },
       {
         "Turkey": 0.12
@@ -7234,7 +7234,7 @@
         "Dominican-Republic": 0.08
       },
       {
-        "Bolivia (Plurinational State of)": 0.07
+        "Bolivia": 0.07
       },
       {
         "Benin": 0.06
@@ -7288,13 +7288,13 @@
         "Uzbekistan": 0.03
       },
       {
-        "Burkina Faso": 0.02
+        "Burkina-Faso": 0.02
       },
       {
         "Chile": 0.02
       },
       {
-        "Costa Rica": 0.02
+        "Costa-Rica": 0.02
       },
       {
         "Ethiopia": 0.02
@@ -7399,7 +7399,7 @@
         "Congo": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eswatini": 0.0
@@ -7429,13 +7429,13 @@
         "Micronesia (Federated States of)": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Papua-New-Guinea": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -7511,7 +7511,7 @@
         "Turkmenistan": 0.87
       },
       {
-        "Burkina Faso": 0.68
+        "Burkina-Faso": 0.68
       },
       {
         "Kazakhstan": 0.48
@@ -7559,7 +7559,7 @@
         "Chad": 0.17
       },
       {
-        "Bolivia (Plurinational State of)": 0.16
+        "Bolivia": 0.16
       },
       {
         "South-Africa": 0.14
@@ -7601,7 +7601,7 @@
         "Zimbabwe": 0.05
       },
       {
-        "Democratic Republic of the Congo": 0.04
+        "Democratic-Republic-of-the-Congo": 0.04
       },
       {
         "Iraq": 0.04
@@ -7679,10 +7679,10 @@
         "Cambodia": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eswatini": 0.0
@@ -7721,7 +7721,7 @@
         "Saint Kitts and Nevis": 0.0
       },
       {
-        "Sri Lanka": 0.0
+        "Sri-Lanka": 0.0
       },
       {
         "Thailand": 0.0
@@ -7758,7 +7758,7 @@
         "Ethiopia": 5.01
       },
       {
-        "Burkina Faso": 4.22
+        "Burkina-Faso": 4.22
       },
       {
         "South Sudan": 3.43
@@ -7833,7 +7833,7 @@
         "Lao People's Democratic Republic": 0.27
       },
       {
-        "Bolivia (Plurinational State of)": 0.23
+        "Bolivia": 0.23
       },
       {
         "Brazil": 0.23
@@ -7851,7 +7851,7 @@
         "Uzbekistan": 0.16
       },
       {
-        "Sri Lanka": 0.14
+        "Sri-Lanka": 0.14
       },
       {
         "Senegal": 0.13
@@ -7860,7 +7860,7 @@
         "Eritrea": 0.08
       },
       {
-        "Democratic Republic of the Congo": 0.07
+        "Democratic-Republic-of-the-Congo": 0.07
       },
       {
         "Haiti": 0.07
@@ -7887,7 +7887,7 @@
         "Iraq": 0.04
       },
       {
-        "Sierra Leone": 0.04
+        "Sierra-Leone": 0.04
       },
       {
         "Taiwan": 0.03
@@ -7902,7 +7902,7 @@
         "Gambia": 0.02
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Greece": 0.01
@@ -7926,7 +7926,7 @@
         "Congo": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -7950,7 +7950,7 @@
         "Lebanon": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Palestine": 0.0
@@ -7996,7 +7996,7 @@
         "Nigeria": 0.24
       },
       {
-        "Burkina Faso": 0.22
+        "Burkina-Faso": 0.22
       },
       {
         "Bhutan": 0.21
@@ -8005,7 +8005,7 @@
         "Hungary": 0.19
       },
       {
-        "Sri Lanka": 0.19
+        "Sri-Lanka": 0.19
       },
       {
         "Morocco": 0.18
@@ -8023,13 +8023,13 @@
         "Syria": 0.16
       },
       {
-        "Democratic Republic of the Congo": 0.14
+        "Democratic-Republic-of-the-Congo": 0.14
       },
       {
         "Mexico": 0.14
       },
       {
-        "Bolivia (Plurinational State of)": 0.12
+        "Bolivia": 0.12
       },
       {
         "Tunisia": 0.12
@@ -8050,7 +8050,7 @@
         "Guyana": 0.07
       },
       {
-        "Sierra Leone": 0.07
+        "Sierra-Leone": 0.07
       },
       {
         "Argentina": 0.05
@@ -8113,7 +8113,7 @@
         "Mauritius": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Papua-New-Guinea": 0.01
@@ -8213,7 +8213,7 @@
         "Belarus": 1.75
       },
       {
-        "Czechia": 1.35
+        "Czech-Republic": 1.35
       },
       {
         "Morocco": 1.35
@@ -8333,7 +8333,7 @@
         "Mexico": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Portugal": 0.0
@@ -8400,7 +8400,7 @@
         "Peru": 0.54
       },
       {
-        "Bolivia (Plurinational State of)": 0.5
+        "Bolivia": 0.5
       },
       {
         "Iran": 0.43
@@ -8412,7 +8412,7 @@
         "Nicaragua": 0.38
       },
       {
-        "El Salvador": 0.37
+        "El-Salvador": 0.37
       },
       {
         "Paraguay": 0.32
@@ -8433,7 +8433,7 @@
         "Kenya": 0.28
       },
       {
-        "Costa Rica": 0.23
+        "Costa-Rica": 0.23
       },
       {
         "Zambia": 0.23
@@ -8472,7 +8472,7 @@
         "Panama": 0.15
       },
       {
-        "Democratic Republic of the Congo": 0.12
+        "Democratic-Republic-of-the-Congo": 0.12
       },
       {
         "France": 0.12
@@ -8526,7 +8526,7 @@
         "Angola": 0.03
       },
       {
-        "Burkina Faso": 0.03
+        "Burkina-Faso": 0.03
       },
       {
         "Cambodia": 0.03
@@ -8538,7 +8538,7 @@
         "Morocco": 0.03
       },
       {
-        "Sri Lanka": 0.03
+        "Sri-Lanka": 0.03
       },
       {
         "Chad": 0.02
@@ -8604,7 +8604,7 @@
         "Bhutan": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Djibouti": 0.0
@@ -8646,7 +8646,7 @@
         "Samoa": 0.0
       },
       {
-        "Sierra Leone": 0.0
+        "Sierra-Leone": 0.0
       },
       {
         "Spain": 0.0
@@ -8737,7 +8737,7 @@
         "Brazil": 0.26
       },
       {
-        "Bolivia (Plurinational State of)": 0.23
+        "Bolivia": 0.23
       },
       {
         "Croatia": 0.21
@@ -8755,7 +8755,7 @@
         "South Sudan": 0.1
       },
       {
-        "Czechia": 0.09
+        "Czech-Republic": 0.09
       },
       {
         "Paraguay": 0.09
@@ -8833,7 +8833,7 @@
         "Georgia": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Syria": 0.01
@@ -9008,7 +9008,7 @@
         "Angola": 0.14
       },
       {
-        "Democratic Republic of the Congo": 0.14
+        "Democratic-Republic-of-the-Congo": 0.14
       },
       {
         "Germany": 0.13
@@ -9023,7 +9023,7 @@
         "Kazakhstan": 0.12
       },
       {
-        "Sierra Leone": 0.12
+        "Sierra-Leone": 0.12
       },
       {
         "South Sudan": 0.12
@@ -9065,7 +9065,7 @@
         "Spain": 0.09
       },
       {
-        "Burkina Faso": 0.08
+        "Burkina-Faso": 0.08
       },
       {
         "Malawi": 0.08
@@ -9167,10 +9167,10 @@
         "Botswana": 0.02
       },
       {
-        "Costa Rica": 0.02
+        "Costa-Rica": 0.02
       },
       {
-        "Czechia": 0.02
+        "Czech-Republic": 0.02
       },
       {
         "Eritrea": 0.02
@@ -9194,7 +9194,7 @@
         "Rwanda": 0.02
       },
       {
-        "Sri Lanka": 0.02
+        "Sri-Lanka": 0.02
       },
       {
         "Switzerland": 0.02
@@ -9236,7 +9236,7 @@
         "Ecuador": 0.01
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Fiji": 0.01
@@ -9272,7 +9272,7 @@
         "Namibia": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Paraguay": 0.01
@@ -9332,13 +9332,13 @@
         "Bhutan": 0.0
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Brunei Darussalam": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cayman Islands": 0.0
@@ -9482,7 +9482,7 @@
         "Tuvalu": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Vanuatu": 0.0
@@ -9594,7 +9594,7 @@
         "Bulgaria": 0.14
       },
       {
-        "North Macedonia": 0.13
+        "Macedonia": 0.13
       },
       {
         "Portugal": 0.12
@@ -9642,7 +9642,7 @@
         "Cyprus": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Luxembourg": 0.0
@@ -9808,10 +9808,10 @@
         "Yemen": 0.14
       },
       {
-        "Costa Rica": 0.13
+        "Costa-Rica": 0.13
       },
       {
-        "North Macedonia": 0.13
+        "Macedonia": 0.13
       },
       {
         "Argentina": 0.12
@@ -9856,7 +9856,7 @@
         "South-Africa": 0.07
       },
       {
-        "Bolivia (Plurinational State of)": 0.06
+        "Bolivia": 0.06
       },
       {
         "Georgia": 0.06
@@ -9868,7 +9868,7 @@
         "Chile": 0.05
       },
       {
-        "El Salvador": 0.05
+        "El-Salvador": 0.05
       },
       {
         "Niger": 0.05
@@ -9919,7 +9919,7 @@
         "Palestine": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Somalia": 0.01
@@ -9943,7 +9943,7 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cook Islands": 0.0
@@ -10015,7 +10015,7 @@
         "Trinidad and Tobago": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       }
     ]
   },
@@ -10097,7 +10097,7 @@
         "Hungary": 0.71
       },
       {
-        "Czechia": 0.6
+        "Czech-Republic": 0.6
       },
       {
         "Ethiopia": 0.58
@@ -10220,7 +10220,7 @@
         "New-Zealand": 0.05
       },
       {
-        "Bolivia (Plurinational State of)": 0.04
+        "Bolivia": 0.04
       },
       {
         "Bosnia-and-Herzegovina": 0.04
@@ -10232,7 +10232,7 @@
         "Armenia": 0.03
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Peru": 0.03
@@ -10310,7 +10310,7 @@
         "South-Korea": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Ecuador": 0.0
@@ -10467,7 +10467,7 @@
         "Togo": 0.68
       },
       {
-        "Democratic Republic of the Congo": 0.67
+        "Democratic-Republic-of-the-Congo": 0.67
       },
       {
         "Nicaragua": 0.65
@@ -10515,13 +10515,13 @@
         "Haiti": 0.36
       },
       {
-        "Bolivia (Plurinational State of)": 0.35
+        "Bolivia": 0.35
       },
       {
         "Kyrgyzstan": 0.33
       },
       {
-        "El Salvador": 0.31
+        "El-Salvador": 0.31
       },
       {
         "Peru": 0.29
@@ -10608,7 +10608,7 @@
         "Taiwan": 0.04
       },
       {
-        "Costa Rica": 0.04
+        "Costa-Rica": 0.04
       },
       {
         "Ecuador": 0.04
@@ -10656,7 +10656,7 @@
         "Lesotho": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Panama": 0.02
@@ -10668,7 +10668,7 @@
         "South Sudan": 0.02
       },
       {
-        "Sri Lanka": 0.02
+        "Sri-Lanka": 0.02
       },
       {
         "Yemen": 0.02
@@ -10758,7 +10758,7 @@
         "Namibia": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Slovakia": 0.0
@@ -10813,7 +10813,7 @@
         "Mexico": 0.37
       },
       {
-        "Sri Lanka": 0.34
+        "Sri-Lanka": 0.34
       },
       {
         "Iran": 0.26
@@ -10897,13 +10897,13 @@
         "Israel": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Peru": 0.05
       },
       {
-        "Burkina Faso": 0.04
+        "Burkina-Faso": 0.04
       },
       {
         "Jordan": 0.04
@@ -10954,7 +10954,7 @@
         "Cyprus": 0.02
       },
       {
-        "Democratic Republic of the Congo": 0.02
+        "Democratic-Republic-of-the-Congo": 0.02
       },
       {
         "New-Zealand": 0.02
@@ -10966,7 +10966,7 @@
         "Argentina": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Bosnia-and-Herzegovina": 0.01
@@ -11014,7 +11014,7 @@
         "Ukraine": 0.01
       },
       {
-        "United Arab Emirates": 0.01
+        "United-Arab-Emirates": 0.01
       },
       {
         "Yemen": 0.01
@@ -11038,16 +11038,16 @@
         "Bermuda": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "China, Hong Kong SAR": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Denmark": 0.0
@@ -11086,7 +11086,7 @@
         "Papua-New-Guinea": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -11177,7 +11177,7 @@
         "Paraguay": 0.31
       },
       {
-        "Bolivia (Plurinational State of)": 0.27
+        "Bolivia": 0.27
       },
       {
         "Turkey": 0.27
@@ -11222,7 +11222,7 @@
         "Switzerland": 0.04
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Ecuador": 0.03
@@ -11234,7 +11234,7 @@
         "Netherlands": 0.03
       },
       {
-        "Sierra Leone": 0.03
+        "Sierra-Leone": 0.03
       },
       {
         "Malta": 0.02
@@ -11400,7 +11400,7 @@
         "Malawi": 0.27
       },
       {
-        "North Macedonia": 0.25
+        "Macedonia": 0.25
       },
       {
         "France": 0.23
@@ -11436,7 +11436,7 @@
         "Cuba": 0.16
       },
       {
-        "Sri Lanka": 0.16
+        "Sri-Lanka": 0.16
       },
       {
         "Algeria": 0.15
@@ -11538,7 +11538,7 @@
         "Syria": 0.06
       },
       {
-        "Czechia": 0.05
+        "Czech-Republic": 0.05
       },
       {
         "Jordan": 0.05
@@ -11553,10 +11553,10 @@
         "Tunisia": 0.05
       },
       {
-        "Costa Rica": 0.04
+        "Costa-Rica": 0.04
       },
       {
-        "Democratic Republic of the Congo": 0.04
+        "Democratic-Republic-of-the-Congo": 0.04
       },
       {
         "Ireland": 0.04
@@ -11610,16 +11610,16 @@
         "Sweden": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Botswana": 0.01
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Cyprus": 0.01
@@ -11697,7 +11697,7 @@
         "Dominica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "French Polynesia": 0.0
@@ -11721,7 +11721,7 @@
         "Panama": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -11914,7 +11914,7 @@
         "Philippines": 0.18
       },
       {
-        "Sri Lanka": 0.18
+        "Sri-Lanka": 0.18
       },
       {
         "Switzerland": 0.18
@@ -11923,7 +11923,7 @@
         "Turkmenistan": 0.18
       },
       {
-        "Bolivia (Plurinational State of)": 0.17
+        "Bolivia": 0.17
       },
       {
         "Finland": 0.17
@@ -11956,7 +11956,7 @@
         "Sudan": 0.1
       },
       {
-        "United Arab Emirates": 0.1
+        "United-Arab-Emirates": 0.1
       },
       {
         "Greece": 0.08
@@ -11968,10 +11968,10 @@
         "Bulgaria": 0.07
       },
       {
-        "Costa Rica": 0.07
+        "Costa-Rica": 0.07
       },
       {
-        "Czechia": 0.07
+        "Czech-Republic": 0.07
       },
       {
         "Jamaica": 0.07
@@ -12067,7 +12067,7 @@
         "Namibia": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Palestine": 0.01
@@ -12094,7 +12094,7 @@
         "Botswana": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Congo": 0.0
@@ -12103,7 +12103,7 @@
         "Cyprus": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Djibouti": 0.0
@@ -12332,7 +12332,7 @@
         "Colombia": 0.03
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Libya": 0.03
@@ -12353,7 +12353,7 @@
         "R\u00e9union": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
         "Bulgaria": 0.01
@@ -12392,13 +12392,13 @@
         "Bhutan": 0.0
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -12431,7 +12431,7 @@
         "Madagascar": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "South-Korea": 0.0
@@ -12561,7 +12561,7 @@
         "Switzerland": 0.24
       },
       {
-        "North Macedonia": 0.23
+        "Macedonia": 0.23
       },
       {
         "Belgium": 0.22
@@ -12585,7 +12585,7 @@
         "Israel": 0.12
       },
       {
-        "Czechia": 0.11
+        "Czech-Republic": 0.11
       },
       {
         "Guyana": 0.09
@@ -12621,7 +12621,7 @@
         "Slovakia": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
         "Jordan": 0.03
@@ -12703,7 +12703,7 @@
         "Germany": 1.04
       },
       {
-        "North Macedonia": 0.69
+        "Macedonia": 0.69
       },
       {
         "Croatia": 0.54
@@ -12715,7 +12715,7 @@
         "Italy": 0.5
       },
       {
-        "Czechia": 0.45
+        "Czech-Republic": 0.45
       },
       {
         "Bosnia-and-Herzegovina": 0.39
@@ -12754,7 +12754,7 @@
         "Portugal": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Slovakia": 0.0
@@ -12770,7 +12770,7 @@
         "China": 83.5
       },
       {
-        "Bolivia (Plurinational State of)": 3.57
+        "Bolivia": 3.57
       },
       {
         "Turkey": 2.7
@@ -12815,7 +12815,7 @@
         "Bulgaria": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Peru": 0.02
@@ -12906,7 +12906,7 @@
         "Israel": 0.53
       },
       {
-        "North Macedonia": 0.5
+        "Macedonia": 0.5
       },
       {
         "Peru": 0.48
@@ -12954,7 +12954,7 @@
         "Jordan": 0.21
       },
       {
-        "Sri Lanka": 0.21
+        "Sri-Lanka": 0.21
       },
       {
         "Uzbekistan": 0.21
@@ -13077,10 +13077,10 @@
         "Yemen": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Honduras": 0.03
@@ -13095,13 +13095,13 @@
         "Moldova": 0.03
       },
       {
-        "Burkina Faso": 0.02
+        "Burkina-Faso": 0.02
       },
       {
         "Ecuador": 0.02
       },
       {
-        "El Salvador": 0.02
+        "El-Salvador": 0.02
       },
       {
         "Georgia": 0.02
@@ -13125,7 +13125,7 @@
         "Panama": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Rwanda": 0.01
@@ -13140,7 +13140,7 @@
         "Trinidad and Tobago": 0.01
       },
       {
-        "United Arab Emirates": 0.01
+        "United-Arab-Emirates": 0.01
       },
       {
         "Zimbabwe": 0.01
@@ -13164,7 +13164,7 @@
         "Cook Islands": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -13363,7 +13363,7 @@
         "Pakistan": 0.09
       },
       {
-        "United Arab Emirates": 0.09
+        "United-Arab-Emirates": 0.09
       },
       {
         "Kuwait": 0.08
@@ -13384,7 +13384,7 @@
         "Italy": 0.07
       },
       {
-        "North Macedonia": 0.07
+        "Macedonia": 0.07
       },
       {
         "United-Kingdom": 0.07
@@ -13402,7 +13402,7 @@
         "Serbia": 0.06
       },
       {
-        "Sri Lanka": 0.06
+        "Sri-Lanka": 0.06
       },
       {
         "Bosnia-and-Herzegovina": 0.05
@@ -13453,7 +13453,7 @@
         "Australia": 0.02
       },
       {
-        "Czechia": 0.02
+        "Czech-Republic": 0.02
       },
       {
         "Denmark": 0.02
@@ -13480,7 +13480,7 @@
         "Yemen": 0.02
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Croatia": 0.01
@@ -13534,16 +13534,16 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "China, Hong Kong SAR": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Djibouti": 0.0
@@ -13552,7 +13552,7 @@
         "Dominica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Ethiopia": 0.0
@@ -13609,7 +13609,7 @@
         "Panama": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -13667,7 +13667,7 @@
         "Oman": 4.33
       },
       {
-        "United Arab Emirates": 4.05
+        "United-Arab-Emirates": 4.05
       },
       {
         "Tunisia": 2.83
@@ -13803,7 +13803,7 @@
         "Romania": 0.25
       },
       {
-        "Sri Lanka": 0.24
+        "Sri-Lanka": 0.24
       },
       {
         "Syria": 0.24
@@ -13896,7 +13896,7 @@
         "Thailand": 0.04
       },
       {
-        "United Arab Emirates": 0.04
+        "United-Arab-Emirates": 0.04
       },
       {
         "Venezuela": 0.03
@@ -13971,7 +13971,7 @@
         "Congo": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -14025,13 +14025,13 @@
         "New Caledonia": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Peru": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -14212,7 +14212,7 @@
         "Tanzania": 0.02
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Canada": 0.01
@@ -14221,7 +14221,7 @@
         "Croatia": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Dominican-Republic": 0.01
@@ -14245,7 +14245,7 @@
         "New-Zealand": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Oman": 0.01
@@ -14275,7 +14275,7 @@
         "Bulgaria": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cyprus": 0.0
@@ -14369,7 +14369,7 @@
         "China": 5.63
       },
       {
-        "Czechia": 3.43
+        "Czech-Republic": 3.43
       },
       {
         "Slovenia": 2.06
@@ -14484,7 +14484,7 @@
         "Germany": 3.5
       },
       {
-        "Sri Lanka": 2.33
+        "Sri-Lanka": 2.33
       },
       {
         "United-Kingdom": 1.69
@@ -14574,7 +14574,7 @@
         "Finland": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Moldova": 0.02
@@ -14604,7 +14604,7 @@
         "Zimbabwe": 0.01
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -14656,7 +14656,7 @@
         "Egypt": 1.82
       },
       {
-        "Sri Lanka": 1.63
+        "Sri-Lanka": 1.63
       },
       {
         "Sudan": 1.46
@@ -14722,7 +14722,7 @@
         "Uruguay": 0.2
       },
       {
-        "Costa Rica": 0.19
+        "Costa-Rica": 0.19
       },
       {
         "Nepal": 0.19
@@ -14734,7 +14734,7 @@
         "Australia": 0.17
       },
       {
-        "Bolivia (Plurinational State of)": 0.17
+        "Bolivia": 0.17
       },
       {
         "Jordan": 0.17
@@ -14752,7 +14752,7 @@
         "Libya": 0.11
       },
       {
-        "El Salvador": 0.09
+        "El-Salvador": 0.09
       },
       {
         "France": 0.09
@@ -14779,7 +14779,7 @@
         "Tanzania": 0.05
       },
       {
-        "Democratic Republic of the Congo": 0.04
+        "Democratic-Republic-of-the-Congo": 0.04
       },
       {
         "French Guyana": 0.04
@@ -14848,7 +14848,7 @@
         "Tajikistan": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
         "Bahamas": 0.01
@@ -14893,7 +14893,7 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
         "Cook Islands": 0.0
@@ -14929,7 +14929,7 @@
         "Niue": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -15083,7 +15083,7 @@
         "Albania": 0.07
       },
       {
-        "Bolivia (Plurinational State of)": 0.07
+        "Bolivia": 0.07
       },
       {
         "Denmark": 0.07
@@ -15101,13 +15101,13 @@
         "Jamaica": 0.06
       },
       {
-        "Democratic Republic of the Congo": 0.05
+        "Democratic-Republic-of-the-Congo": 0.05
       },
       {
         "Finland": 0.05
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Bosnia-and-Herzegovina": 0.03
@@ -15194,13 +15194,13 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Congo": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Djibouti": 0.0
@@ -15233,7 +15233,7 @@
         "Mauritius": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Pakistan": 0.0
@@ -15242,7 +15242,7 @@
         "Palestine": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -15263,7 +15263,7 @@
         "Trinidad and Tobago": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Zimbabwe": 0.0
@@ -15384,7 +15384,7 @@
         "New-Zealand": 0.03
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Algeria": 0.02
@@ -15414,7 +15414,7 @@
         "Cyprus": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Finland": 0.01
@@ -15559,7 +15559,7 @@
         "Lithuania": 0.79
       },
       {
-        "Czechia": 0.66
+        "Czech-Republic": 0.66
       },
       {
         "Norway": 0.64
@@ -15619,7 +15619,7 @@
         "New-Zealand": 0.11
       },
       {
-        "Bolivia (Plurinational State of)": 0.1
+        "Bolivia": 0.1
       },
       {
         "Morocco": 0.09
@@ -15649,7 +15649,7 @@
         "Netherlands": 0.03
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Armenia": 0.02
@@ -15682,7 +15682,7 @@
         "Cyprus": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Ecuador": 0.0
@@ -15767,7 +15767,7 @@
         "Turkey": 0.29
       },
       {
-        "Burkina Faso": 0.23
+        "Burkina-Faso": 0.23
       },
       {
         "Saudi-Arabia": 0.19
@@ -15824,7 +15824,7 @@
         "Trinidad and Tobago": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
         "Bahamas": 0.01
@@ -15857,7 +15857,7 @@
         "French Guyana": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Qatar": 0.0
@@ -15945,7 +15945,7 @@
         "Angola": 0.53
       },
       {
-        "United Arab Emirates": 0.47
+        "United-Arab-Emirates": 0.47
       },
       {
         "Ukraine": 0.43
@@ -15954,7 +15954,7 @@
         "Norway": 0.34
       },
       {
-        "Burkina Faso": 0.32
+        "Burkina-Faso": 0.32
       },
       {
         "Greece": 0.28
@@ -16002,13 +16002,13 @@
         "Hungary": 0.04
       },
       {
-        "North Macedonia": 0.04
+        "Macedonia": 0.04
       },
       {
         "Israel": 0.03
       },
       {
-        "Puerto Rico": 0.03
+        "Puerto-Rico": 0.03
       },
       {
         "Algeria": 0.01
@@ -16032,7 +16032,7 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -16135,7 +16135,7 @@
         "Germany": 0.11
       },
       {
-        "Bolivia (Plurinational State of)": 0.1
+        "Bolivia": 0.1
       },
       {
         "Iran": 0.1
@@ -16243,7 +16243,7 @@
         "Bulgaria": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Ireland": 0.01
@@ -16261,7 +16261,7 @@
         "Malawi": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Norway": 0.01
@@ -16397,7 +16397,7 @@
         "Canada": 0.48
       },
       {
-        "Sri Lanka": 0.45
+        "Sri-Lanka": 0.45
       },
       {
         "Germany": 0.44
@@ -16472,7 +16472,7 @@
         "Romania": 0.12
       },
       {
-        "Democratic Republic of the Congo": 0.11
+        "Democratic-Republic-of-the-Congo": 0.11
       },
       {
         "Malaysia": 0.11
@@ -16493,7 +16493,7 @@
         "Lebanon": 0.1
       },
       {
-        "Bolivia (Plurinational State of)": 0.09
+        "Bolivia": 0.09
       },
       {
         "Portugal": 0.09
@@ -16523,7 +16523,7 @@
         "Tonga": 0.07
       },
       {
-        "United Arab Emirates": 0.07
+        "United-Arab-Emirates": 0.07
       },
       {
         "Hungary": 0.06
@@ -16544,13 +16544,13 @@
         "Oman": 0.04
       },
       {
-        "Puerto Rico": 0.04
+        "Puerto-Rico": 0.04
       },
       {
         "Belgium": 0.03
       },
       {
-        "El Salvador": 0.03
+        "El-Salvador": 0.03
       },
       {
         "Israel": 0.03
@@ -16613,7 +16613,7 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cayman Islands": 0.0
@@ -16755,7 +16755,7 @@
         "Iraq": 0.27
       },
       {
-        "North Macedonia": 0.23
+        "Macedonia": 0.23
       },
       {
         "Bosnia-and-Herzegovina": 0.21
@@ -16800,7 +16800,7 @@
         "South-Africa": 0.03
       },
       {
-        "Bolivia (Plurinational State of)": 0.02
+        "Bolivia": 0.02
       },
       {
         "Japan": 0.02
@@ -16858,7 +16858,7 @@
         "Austria": 1.57
       },
       {
-        "Czechia": 1.07
+        "Czech-Republic": 1.07
       },
       {
         "France": 0.98
@@ -16927,7 +16927,7 @@
         "Switzerland": 0.09
       },
       {
-        "North Macedonia": 0.08
+        "Macedonia": 0.08
       },
       {
         "Brazil": 0.07
@@ -16981,7 +16981,7 @@
         "Moldova": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Ecuador": 0.0
@@ -17039,7 +17039,7 @@
         "Niger": 3.54
       },
       {
-        "Burkina Faso": 3.25
+        "Burkina-Faso": 3.25
       },
       {
         "Argentina": 2.63
@@ -17054,7 +17054,7 @@
         "Australia": 2.12
       },
       {
-        "Bolivia (Plurinational State of)": 1.72
+        "Bolivia": 1.72
       },
       {
         "Chad": 1.66
@@ -17120,7 +17120,7 @@
         "South-Africa": 0.19
       },
       {
-        "El Salvador": 0.18
+        "El-Salvador": 0.18
       },
       {
         "Paraguay": 0.18
@@ -17198,7 +17198,7 @@
         "Gambia": 0.05
       },
       {
-        "Sierra Leone": 0.05
+        "Sierra-Leone": 0.05
       },
       {
         "Honduras": 0.04
@@ -17240,7 +17240,7 @@
         "Cuba": 0.01
       },
       {
-        "Democratic Republic of the Congo": 0.01
+        "Democratic-Republic-of-the-Congo": 0.01
       },
       {
         "Morocco": 0.01
@@ -17309,7 +17309,7 @@
         "New Caledonia": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Palestine": 0.0
@@ -17330,7 +17330,7 @@
         "Slovakia": 0.0
       },
       {
-        "Sri Lanka": 0.0
+        "Sri-Lanka": 0.0
       },
       {
         "Syria": 0.0
@@ -17376,7 +17376,7 @@
         "Russia": 1.15
       },
       {
-        "Bolivia (Plurinational State of)": 0.84
+        "Bolivia": 0.84
       },
       {
         "South-Africa": 0.44
@@ -17484,16 +17484,16 @@
         "Bosnia-and-Herzegovina": 0.01
       },
       {
-        "Burkina Faso": 0.01
+        "Burkina-Faso": 0.01
       },
       {
         "Cameroon": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
-        "Democratic Republic of the Congo": 0.01
+        "Democratic-Republic-of-the-Congo": 0.01
       },
       {
         "Ecuador": 0.01
@@ -17541,7 +17541,7 @@
         "Cote-dIvoire": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Gabon": 0.0
@@ -17586,7 +17586,7 @@
         "Nicaragua": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Pakistan": 0.0
@@ -17610,7 +17610,7 @@
         "Spain": 0.0
       },
       {
-        "Sri Lanka": 0.0
+        "Sri-Lanka": 0.0
       },
       {
         "Suriname": 0.0
@@ -17749,7 +17749,7 @@
         "Venezuela": 0.02
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Denmark": 0.01
@@ -17773,7 +17773,7 @@
         "Singapore": 0.01
       },
       {
-        "United Arab Emirates": 0.01
+        "United-Arab-Emirates": 0.01
       },
       {
         "Botswana": 0.0
@@ -17788,7 +17788,7 @@
         "Congo": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -17815,7 +17815,7 @@
         "Malta": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Philippines": 0.0
@@ -17975,7 +17975,7 @@
         "Ireland": 0.07
       },
       {
-        "North Macedonia": 0.07
+        "Macedonia": 0.07
       },
       {
         "Uzbekistan": 0.07
@@ -17996,13 +17996,13 @@
         "Albania": 0.05
       },
       {
-        "Costa Rica": 0.05
+        "Costa-Rica": 0.05
       },
       {
         "Paraguay": 0.05
       },
       {
-        "Bolivia (Plurinational State of)": 0.04
+        "Bolivia": 0.04
       },
       {
         "Brazil": 0.04
@@ -18011,7 +18011,7 @@
         "Croatia": 0.03
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Kyrgyzstan": 0.03
@@ -18123,7 +18123,7 @@
         "Algeria": 0.76
       },
       {
-        "Bolivia (Plurinational State of)": 0.68
+        "Bolivia": 0.68
       },
       {
         "South-Africa": 0.56
@@ -18234,7 +18234,7 @@
         "Philippines": 0.03
       },
       {
-        "El Salvador": 0.02
+        "El-Salvador": 0.02
       },
       {
         "New-Zealand": 0.02
@@ -18270,7 +18270,7 @@
         "Bosnia-and-Herzegovina": 0.0
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
         "Cook Islands": 0.0
@@ -18382,7 +18382,7 @@
         "Spain": 0.43
       },
       {
-        "North Macedonia": 0.42
+        "Macedonia": 0.42
       },
       {
         "Canada": 0.38
@@ -18469,7 +18469,7 @@
         "Nigeria": 0.1
       },
       {
-        "Sri Lanka": 0.1
+        "Sri-Lanka": 0.1
       },
       {
         "Chile": 0.09
@@ -18481,7 +18481,7 @@
         "Rwanda": 0.08
       },
       {
-        "Democratic Republic of the Congo": 0.06
+        "Democratic-Republic-of-the-Congo": 0.06
       },
       {
         "Angola": 0.05
@@ -18517,7 +18517,7 @@
         "Albania": 0.03
       },
       {
-        "El Salvador": 0.03
+        "El-Salvador": 0.03
       },
       {
         "Ethiopia": 0.03
@@ -18547,7 +18547,7 @@
         "Tunisia": 0.03
       },
       {
-        "Bolivia (Plurinational State of)": 0.02
+        "Bolivia": 0.02
       },
       {
         "Burundi": 0.02
@@ -18586,7 +18586,7 @@
         "Armenia": 0.01
       },
       {
-        "Burkina Faso": 0.01
+        "Burkina-Faso": 0.01
       },
       {
         "Central African Republic": 0.01
@@ -18619,7 +18619,7 @@
         "Chad": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cyprus": 0.0
@@ -18652,7 +18652,7 @@
         "Portugal": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -18667,7 +18667,7 @@
         "Samoa": 0.0
       },
       {
-        "Sierra Leone": 0.0
+        "Sierra-Leone": 0.0
       },
       {
         "Singapore": 0.0
@@ -18688,7 +18688,7 @@
         "Trinidad and Tobago": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "Wallis and Futuna Islands": 0.0
@@ -18902,7 +18902,7 @@
         "Venezuela": 0.1
       },
       {
-        "North Macedonia": 0.09
+        "Macedonia": 0.09
       },
       {
         "Armenia": 0.08
@@ -18926,7 +18926,7 @@
         "Malaysia": 0.06
       },
       {
-        "Sri Lanka": 0.06
+        "Sri-Lanka": 0.06
       },
       {
         "Thailand": 0.06
@@ -18941,7 +18941,7 @@
         "Rwanda": 0.05
       },
       {
-        "Bolivia (Plurinational State of)": 0.04
+        "Bolivia": 0.04
       },
       {
         "South-Korea": 0.04
@@ -18956,7 +18956,7 @@
         "Nicaragua": 0.04
       },
       {
-        "United Arab Emirates": 0.04
+        "United-Arab-Emirates": 0.04
       },
       {
         "United-Kingdom": 0.04
@@ -18965,10 +18965,10 @@
         "Austria": 0.03
       },
       {
-        "Costa Rica": 0.03
+        "Costa-Rica": 0.03
       },
       {
-        "Democratic Republic of the Congo": 0.03
+        "Democratic-Republic-of-the-Congo": 0.03
       },
       {
         "Georgia": 0.03
@@ -19019,22 +19019,22 @@
         "Angola": 0.01
       },
       {
-        "Burkina Faso": 0.01
+        "Burkina-Faso": 0.01
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Cyprus": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Denmark": 0.01
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Lithuania": 0.01
@@ -19055,13 +19055,13 @@
         "Panama": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Qatar": 0.01
       },
       {
-        "Sierra Leone": 0.01
+        "Sierra-Leone": 0.01
       },
       {
         "Slovakia": 0.01
@@ -19263,7 +19263,7 @@
         "United-States": 2.66
       },
       {
-        "Bolivia (Plurinational State of)": 2.41
+        "Bolivia": 2.41
       },
       {
         "Turkey": 2.35
@@ -19377,7 +19377,7 @@
         "Ukraine": 0.03
       },
       {
-        "Czechia": 0.02
+        "Czech-Republic": 0.02
       },
       {
         "Israel": 0.02
@@ -19465,7 +19465,7 @@
         "Austria": 0.35
       },
       {
-        "North Macedonia": 0.31
+        "Macedonia": 0.31
       },
       {
         "Eritrea": 0.25
@@ -19507,7 +19507,7 @@
         "Algeria": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Moldova": 0.01
@@ -19601,7 +19601,7 @@
         "Lithuania": 0.01
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Jordan": 0.0
@@ -19647,7 +19647,7 @@
         "Tanzania": 2.99
       },
       {
-        "Costa Rica": 2.18
+        "Costa-Rica": 2.18
       },
       {
         "Mexico": 2.03
@@ -19734,10 +19734,10 @@
         "Morocco": 0.28
       },
       {
-        "Democratic Republic of the Congo": 0.27
+        "Democratic-Republic-of-the-Congo": 0.27
       },
       {
-        "Bolivia (Plurinational State of)": 0.26
+        "Bolivia": 0.26
       },
       {
         "Panama": 0.24
@@ -19812,7 +19812,7 @@
         "Lebanon": 0.06
       },
       {
-        "Puerto Rico": 0.06
+        "Puerto-Rico": 0.06
       },
       {
         "Guadeloupe": 0.05
@@ -19863,10 +19863,10 @@
         "Bahamas": 0.01
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Eswatini": 0.01
@@ -20001,7 +20001,7 @@
         "Tuvalu": 0.0
       },
       {
-        "United Arab Emirates": 0.0
+        "United-Arab-Emirates": 0.0
       },
       {
         "United-States": 0.0
@@ -20177,7 +20177,7 @@
         "Malawi": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Palestine": 0.01
@@ -20195,7 +20195,7 @@
         "Togo": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Chile": 0.0
@@ -20280,7 +20280,7 @@
         "Benin": 1.18
       },
       {
-        "Democratic Republic of the Congo": 0.89
+        "Democratic-Republic-of-the-Congo": 0.89
       },
       {
         "Cameroon": 0.84
@@ -20340,7 +20340,7 @@
         "Spain": 0.15
       },
       {
-        "Sierra Leone": 0.12
+        "Sierra-Leone": 0.12
       },
       {
         "Senegal": 0.11
@@ -20355,7 +20355,7 @@
         "Iran": 0.09
       },
       {
-        "North Macedonia": 0.09
+        "Macedonia": 0.09
       },
       {
         "Argentina": 0.08
@@ -20370,13 +20370,13 @@
         "Uganda": 0.07
       },
       {
-        "Czechia": 0.06
+        "Czech-Republic": 0.06
       },
       {
         "Malaysia": 0.06
       },
       {
-        "Cabo Verde": 0.04
+        "Cabo-Verde": 0.04
       },
       {
         "Madagascar": 0.04
@@ -20539,7 +20539,7 @@
         "Senegal": 0.06
       },
       {
-        "Burkina Faso": 0.04
+        "Burkina-Faso": 0.04
       },
       {
         "Guyana": 0.04
@@ -20554,7 +20554,7 @@
         "Australia": 0.03
       },
       {
-        "Costa Rica": 0.03
+        "Costa-Rica": 0.03
       },
       {
         "French Guyana": 0.03
@@ -20744,7 +20744,7 @@
         "Haiti": 0.24
       },
       {
-        "Costa Rica": 0.23
+        "Costa-Rica": 0.23
       },
       {
         "Cyprus": 0.2
@@ -20765,7 +20765,7 @@
         "Australia": 0.1
       },
       {
-        "Democratic Republic of the Congo": 0.1
+        "Democratic-Republic-of-the-Congo": 0.1
       },
       {
         "Mozambique": 0.1
@@ -20810,7 +20810,7 @@
         "Italy": 0.05
       },
       {
-        "Bolivia (Plurinational State of)": 0.04
+        "Bolivia": 0.04
       },
       {
         "Cambodia": 0.03
@@ -20861,7 +20861,7 @@
         "New-Zealand": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Saint Lucia": 0.01
@@ -20870,7 +20870,7 @@
         "Uruguay": 0.01
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
         "Cameroon": 0.0
@@ -20958,13 +20958,13 @@
         "Malawi": 0.75
       },
       {
-        "Burkina Faso": 0.72
+        "Burkina-Faso": 0.72
       },
       {
         "Mali": 0.68
       },
       {
-        "Democratic Republic of the Congo": 0.67
+        "Democratic-Republic-of-the-Congo": 0.67
       },
       {
         "Uganda": 0.53
@@ -21039,7 +21039,7 @@
         "Thailand": 0.07
       },
       {
-        "Bolivia (Plurinational State of)": 0.06
+        "Bolivia": 0.06
       },
       {
         "Congo": 0.06
@@ -21057,7 +21057,7 @@
         "Philippines": 0.06
       },
       {
-        "Sri Lanka": 0.06
+        "Sri-Lanka": 0.06
       },
       {
         "Ecuador": 0.05
@@ -21072,7 +21072,7 @@
         "Rwanda": 0.04
       },
       {
-        "Sierra Leone": 0.04
+        "Sierra-Leone": 0.04
       },
       {
         "Uzbekistan": 0.04
@@ -21162,13 +21162,13 @@
         "Bulgaria": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Comoros": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Cote-dIvoire": 0.0
@@ -21403,7 +21403,7 @@
         "Jordan": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Slovakia": 0.0
@@ -21470,7 +21470,7 @@
         "Poland": 0.53
       },
       {
-        "Czechia": 0.52
+        "Czech-Republic": 0.52
       },
       {
         "Colombia": 0.44
@@ -21569,7 +21569,7 @@
         "Tunisia": 0.04
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
         "Lebanon": 0.03
@@ -21587,13 +21587,13 @@
         "Netherlands": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Norway": 0.02
       },
       {
-        "Sierra Leone": 0.02
+        "Sierra-Leone": 0.02
       },
       {
         "Syria": 0.02
@@ -21623,7 +21623,7 @@
         "Chile": 0.01
       },
       {
-        "Democratic Republic of the Congo": 0.01
+        "Democratic-Republic-of-the-Congo": 0.01
       },
       {
         "Eritrea": 0.01
@@ -21741,7 +21741,7 @@
         "Romania": 2.15
       },
       {
-        "Czechia": 1.88
+        "Czech-Republic": 1.88
       },
       {
         "Hungary": 1.33
@@ -21858,7 +21858,7 @@
         "Netherlands": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Norway": 0.01
@@ -21928,7 +21928,7 @@
         "Austria": 2.18
       },
       {
-        "Czechia": 1.34
+        "Czech-Republic": 1.34
       },
       {
         "Turkey": 1.33
@@ -22028,7 +22028,7 @@
         "Thailand": 11.4
       },
       {
-        "Democratic Republic of the Congo": 10.78
+        "Democratic-Republic-of-the-Congo": 10.78
       },
       {
         "Ghana": 7.5
@@ -22136,7 +22136,7 @@
         "Gabon": 0.12
       },
       {
-        "Sri Lanka": 0.12
+        "Sri-Lanka": 0.12
       },
       {
         "Venezuela": 0.12
@@ -22157,10 +22157,10 @@
         "Argentina": 0.07
       },
       {
-        "Bolivia (Plurinational State of)": 0.07
+        "Bolivia": 0.07
       },
       {
-        "Costa Rica": 0.06
+        "Costa-Rica": 0.06
       },
       {
         "Dominican-Republic": 0.06
@@ -22193,7 +22193,7 @@
         "Guinea-Bissau": 0.02
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "French Guyana": 0.01
@@ -22217,7 +22217,7 @@
         "Panama": 0.01
       },
       {
-        "Sierra Leone": 0.01
+        "Sierra-Leone": 0.01
       },
       {
         "Timor-Leste": 0.01
@@ -22241,10 +22241,10 @@
         "Brunei Darussalam": 0.0
       },
       {
-        "Burkina Faso": 0.0
+        "Burkina-Faso": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cayman Islands": 0.0
@@ -22292,7 +22292,7 @@
         "Niue": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -22365,7 +22365,7 @@
         "Colombia": 1.0
       },
       {
-        "Sierra Leone": 0.95
+        "Sierra-Leone": 0.95
       },
       {
         "Papua-New-Guinea": 0.85
@@ -22410,7 +22410,7 @@
         "Nicaragua": 0.13
       },
       {
-        "Bolivia (Plurinational State of)": 0.11
+        "Bolivia": 0.11
       },
       {
         "Solomon Islands": 0.1
@@ -22419,13 +22419,13 @@
         "Congo": 0.07
       },
       {
-        "Democratic Republic of the Congo": 0.07
+        "Democratic-Republic-of-the-Congo": 0.07
       },
       {
         "Sao Tome and Principe": 0.06
       },
       {
-        "Sri Lanka": 0.04
+        "Sri-Lanka": 0.04
       },
       {
         "Vanuatu": 0.04
@@ -22443,7 +22443,7 @@
         "Angola": 0.01
       },
       {
-        "Costa Rica": 0.01
+        "Costa-Rica": 0.01
       },
       {
         "Dominica": 0.01
@@ -22479,7 +22479,7 @@
         "Comoros": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Fiji": 0.0
@@ -22525,7 +22525,7 @@
         "India": 18.92
       },
       {
-        "Sri Lanka": 4.24
+        "Sri-Lanka": 4.24
       },
       {
         "Brazil": 3.79
@@ -22600,7 +22600,7 @@
         "Colombia": 0.2
       },
       {
-        "El Salvador": 0.19
+        "El-Salvador": 0.19
       },
       {
         "Comoros": 0.17
@@ -22651,7 +22651,7 @@
         "Taiwan": 0.03
       },
       {
-        "Costa Rica": 0.03
+        "Costa-Rica": 0.03
       },
       {
         "Guatemala": 0.03
@@ -22690,7 +22690,7 @@
         "American Samoa": 0.01
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Cameroon": 0.01
@@ -22723,7 +22723,7 @@
         "Senegal": 0.01
       },
       {
-        "Sierra Leone": 0.01
+        "Sierra-Leone": 0.01
       },
       {
         "Timor-Leste": 0.01
@@ -22780,7 +22780,7 @@
         "Niue": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -22880,13 +22880,13 @@
         "Serbia": 0.27
       },
       {
-        "El Salvador": 0.26
+        "El-Salvador": 0.26
       },
       {
         "Liberia": 0.24
       },
       {
-        "Bolivia (Plurinational State of)": 0.22
+        "Bolivia": 0.22
       },
       {
         "Romania": 0.13
@@ -22919,7 +22919,7 @@
         "Kazakhstan": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "Qatar": 0.01
@@ -22946,7 +22946,7 @@
         "Mauritius": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Norway": 0.0
@@ -22962,7 +22962,7 @@
   {
     "Pineapples": [
       {
-        "Costa Rica": 12.05
+        "Costa-Rica": 12.05
       },
       {
         "Philippines": 9.63
@@ -23037,7 +23037,7 @@
         "Bangladesh": 0.73
       },
       {
-        "Democratic Republic of the Congo": 0.66
+        "Democratic-Republic-of-the-Congo": 0.66
       },
       {
         "Ecuador": 0.53
@@ -23061,7 +23061,7 @@
         "Australia": 0.31
       },
       {
-        "Bolivia (Plurinational State of)": 0.3
+        "Bolivia": 0.3
       },
       {
         "Honduras": 0.29
@@ -23088,7 +23088,7 @@
         "Lao People's Democratic Republic": 0.12
       },
       {
-        "Sri Lanka": 0.12
+        "Sri-Lanka": 0.12
       },
       {
         "Eswatini": 0.11
@@ -23133,7 +23133,7 @@
         "Liberia": 0.03
       },
       {
-        "Puerto Rico": 0.03
+        "Puerto-Rico": 0.03
       },
       {
         "Fiji": 0.02
@@ -23190,7 +23190,7 @@
         "Dominica": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Gabon": 0.0
@@ -23281,7 +23281,7 @@
         "Cote-dIvoire": 0.79
       },
       {
-        "Democratic Republic of the Congo": 0.66
+        "Democratic-Republic-of-the-Congo": 0.66
       },
       {
         "Burundi": 0.52
@@ -23338,7 +23338,7 @@
         "Niue": 0.02
       },
       {
-        "Sierra Leone": 0.02
+        "Sierra-Leone": 0.02
       },
       {
         "Trinidad and Tobago": 0.02
@@ -23441,7 +23441,7 @@
         "Jamaica": 0.2
       },
       {
-        "Democratic Republic of the Congo": 0.13
+        "Democratic-Republic-of-the-Congo": 0.13
       },
       {
         "Mali": 0.13
@@ -23462,13 +23462,13 @@
         "Solomon Islands": 0.06
       },
       {
-        "Burkina Faso": 0.05
+        "Burkina-Faso": 0.05
       },
       {
         "Dominican-Republic": 0.04
       },
       {
-        "Costa Rica": 0.03
+        "Costa-Rica": 0.03
       },
       {
         "Liberia": 0.03
@@ -23549,7 +23549,7 @@
         "Portugal": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "Saint Kitts and Nevis": 0.0
@@ -23592,7 +23592,7 @@
         "Malaysia": 3.8
       },
       {
-        "Democratic Republic of the Congo": 3.48
+        "Democratic-Republic-of-the-Congo": 3.48
       },
       {
         "Mozambique": 1.74
@@ -23619,7 +23619,7 @@
         "Myanmar": 0.43
       },
       {
-        "El Salvador": 0.38
+        "El-Salvador": 0.38
       },
       {
         "Angola": 0.37
@@ -23680,7 +23680,7 @@
         "Mozambique": 1.82
       },
       {
-        "Burkina Faso": 1.74
+        "Burkina-Faso": 1.74
       },
       {
         "Nigeria": 1.65
@@ -23692,7 +23692,7 @@
         "Colombia": 0.93
       },
       {
-        "Sri Lanka": 0.75
+        "Sri-Lanka": 0.75
       },
       {
         "Thailand": 0.38
@@ -23737,7 +23737,7 @@
         "Dominican-Republic": 0.01
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Belize": 0.0
@@ -23828,7 +23828,7 @@
         "Mexico": 0.02
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Morocco": 0.01
@@ -23843,7 +23843,7 @@
         "Burundi": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Iran": 0.0
@@ -23907,10 +23907,10 @@
         "Cote-dIvoire": 0.86
       },
       {
-        "Costa Rica": 0.83
+        "Costa-Rica": 0.83
       },
       {
-        "El Salvador": 0.78
+        "El-Salvador": 0.78
       },
       {
         "Philippines": 0.59
@@ -23943,13 +23943,13 @@
         "Thailand": 0.32
       },
       {
-        "Democratic Republic of the Congo": 0.29
+        "Democratic-Republic-of-the-Congo": 0.29
       },
       {
-        "Sierra Leone": 0.27
+        "Sierra-Leone": 0.27
       },
       {
-        "Bolivia (Plurinational State of)": 0.21
+        "Bolivia": 0.21
       },
       {
         "Rwanda": 0.21
@@ -23997,7 +23997,7 @@
         "Zambia": 0.07
       },
       {
-        "Sri Lanka": 0.06
+        "Sri-Lanka": 0.06
       },
       {
         "Ecuador": 0.05
@@ -24006,7 +24006,7 @@
         "Equatorial Guinea": 0.04
       },
       {
-        "Puerto Rico": 0.04
+        "Puerto-Rico": 0.04
       },
       {
         "Congo": 0.03
@@ -24036,7 +24036,7 @@
         "Benin": 0.0
       },
       {
-        "Cabo Verde": 0.0
+        "Cabo-Verde": 0.0
       },
       {
         "Cambodia": 0.0
@@ -24166,7 +24166,7 @@
         "Croatia": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Lithuania": 0.0
@@ -24221,10 +24221,10 @@
         "Brazil": 0.58
       },
       {
-        "Democratic Republic of the Congo": 0.44
+        "Democratic-Republic-of-the-Congo": 0.44
       },
       {
-        "Costa Rica": 0.4
+        "Costa-Rica": 0.4
       },
       {
         "Mexico": 0.36
@@ -24257,7 +24257,7 @@
         "Angola": 0.1
       },
       {
-        "Sierra Leone": 0.09
+        "Sierra-Leone": 0.09
       },
       {
         "Solomon Islands": 0.09
@@ -24357,7 +24357,7 @@
         "Cameroon": 0.38
       },
       {
-        "Costa Rica": 0.35
+        "Costa-Rica": 0.35
       },
       {
         "China": 0.32
@@ -24375,7 +24375,7 @@
         "Belgium": 0.14
       },
       {
-        "Democratic Republic of the Congo": 0.14
+        "Democratic-Republic-of-the-Congo": 0.14
       },
       {
         "Nicaragua": 0.13
@@ -24384,7 +24384,7 @@
         "Benin": 0.1
       },
       {
-        "Sierra Leone": 0.1
+        "Sierra-Leone": 0.1
       },
       {
         "Angola": 0.07
@@ -24517,10 +24517,10 @@
         "Benin": 0.28
       },
       {
-        "Democratic Republic of the Congo": 0.27
+        "Democratic-Republic-of-the-Congo": 0.27
       },
       {
-        "Costa Rica": 0.25
+        "Costa-Rica": 0.25
       },
       {
         "Mexico": 0.24
@@ -24532,7 +24532,7 @@
         "Philippines": 0.2
       },
       {
-        "Sierra Leone": 0.14
+        "Sierra-Leone": 0.14
       },
       {
         "Angola": 0.12
@@ -24668,7 +24668,7 @@
         "Taiwan": 0.0
       },
       {
-        "Democratic Republic of the Congo": 0.0
+        "Democratic-Republic-of-the-Congo": 0.0
       },
       {
         "Uganda": 0.0
@@ -24753,7 +24753,7 @@
         "Cameroon": 0.44
       },
       {
-        "Democratic Republic of the Congo": 0.42
+        "Democratic-Republic-of-the-Congo": 0.42
       },
       {
         "Egypt": 0.42
@@ -24786,7 +24786,7 @@
         "Zambia": 0.2
       },
       {
-        "Sierra Leone": 0.17
+        "Sierra-Leone": 0.17
       },
       {
         "Ghana": 0.16
@@ -24816,7 +24816,7 @@
         "Benin": 0.07
       },
       {
-        "Burkina Faso": 0.07
+        "Burkina-Faso": 0.07
       },
       {
         "Mexico": 0.07
@@ -24846,7 +24846,7 @@
         "Paraguay": 0.05
       },
       {
-        "Sri Lanka": 0.05
+        "Sri-Lanka": 0.05
       },
       {
         "Malaysia": 0.04
@@ -24870,7 +24870,7 @@
         "Venezuela": 0.02
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Comoros": 0.01
@@ -24927,7 +24927,7 @@
         "Bhutan": 0.0
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Brunei Darussalam": 0.0
@@ -24942,7 +24942,7 @@
         "Cook Islands": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Dominica": 0.0
@@ -24951,7 +24951,7 @@
         "Ecuador": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Eswatini": 0.0
@@ -25002,7 +25002,7 @@
         "Palestine": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -25087,7 +25087,7 @@
         "Haiti": 1.16
       },
       {
-        "Sri Lanka": 0.93
+        "Sri-Lanka": 0.93
       },
       {
         "Tanzania": 0.82
@@ -25111,7 +25111,7 @@
         "Madagascar": 0.54
       },
       {
-        "Democratic Republic of the Congo": 0.38
+        "Democratic-Republic-of-the-Congo": 0.38
       },
       {
         "Niger": 0.35
@@ -25156,7 +25156,7 @@
         "Australia": 0.1
       },
       {
-        "Costa Rica": 0.1
+        "Costa-Rica": 0.1
       },
       {
         "Israel": 0.09
@@ -25174,7 +25174,7 @@
         "Chad": 0.06
       },
       {
-        "El Salvador": 0.06
+        "El-Salvador": 0.06
       },
       {
         "Paraguay": 0.06
@@ -25183,22 +25183,22 @@
         "Mozambique": 0.05
       },
       {
-        "Sierra Leone": 0.04
+        "Sierra-Leone": 0.04
       },
       {
         "Benin": 0.03
       },
       {
-        "Bolivia (Plurinational State of)": 0.03
+        "Bolivia": 0.03
       },
       {
-        "Burkina Faso": 0.03
+        "Burkina-Faso": 0.03
       },
       {
         "Oman": 0.03
       },
       {
-        "Puerto Rico": 0.03
+        "Puerto-Rico": 0.03
       },
       {
         "Central African Republic": 0.02
@@ -25210,10 +25210,10 @@
         "Rwanda": 0.02
       },
       {
-        "United Arab Emirates": 0.02
+        "United-Arab-Emirates": 0.02
       },
       {
-        "Cabo Verde": 0.01
+        "Cabo-Verde": 0.01
       },
       {
         "Guyana": 0.01
@@ -25430,13 +25430,13 @@
         "Philippines": 0.02
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Lithuania": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Switzerland": 0.01
@@ -25448,7 +25448,7 @@
         "Colombia": 0.0
       },
       {
-        "Costa Rica": 0.0
+        "Costa-Rica": 0.0
       },
       {
         "Denmark": 0.0
@@ -25545,7 +25545,7 @@
         "Cameroon": 1.17
       },
       {
-        "Democratic Republic of the Congo": 1.03
+        "Democratic-Republic-of-the-Congo": 1.03
       },
       {
         "Australia": 0.99
@@ -25557,7 +25557,7 @@
         "Morocco": 0.8
       },
       {
-        "Sri Lanka": 0.79
+        "Sri-Lanka": 0.79
       },
       {
         "Cote-dIvoire": 0.59
@@ -25572,7 +25572,7 @@
         "Philippines": 0.3
       },
       {
-        "El Salvador": 0.29
+        "El-Salvador": 0.29
       },
       {
         "Ecuador": 0.28
@@ -25581,10 +25581,10 @@
         "Paraguay": 0.25
       },
       {
-        "Costa Rica": 0.23
+        "Costa-Rica": 0.23
       },
       {
-        "Bolivia (Plurinational State of)": 0.19
+        "Bolivia": 0.19
       },
       {
         "Congo": 0.16
@@ -25668,7 +25668,7 @@
         "Palestine": 0.01
       },
       {
-        "Puerto Rico": 0.01
+        "Puerto-Rico": 0.01
       },
       {
         "R\u00e9union": 0.01
@@ -25723,7 +25723,7 @@
         "Turkey": 0.64
       },
       {
-        "Czechia": 0.42
+        "Czech-Republic": 0.42
       },
       {
         "Spain": 0.21
@@ -25808,13 +25808,13 @@
         "Serbia": 0.08
       },
       {
-        "Sierra Leone": 0.08
+        "Sierra-Leone": 0.08
       },
       {
         "Armenia": 0.07
       },
       {
-        "Czechia": 0.06
+        "Czech-Republic": 0.06
       },
       {
         "Georgia": 0.06
@@ -25868,7 +25868,7 @@
         "Bhutan": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.01
+        "Bolivia": 0.01
       },
       {
         "Bulgaria": 0.01
@@ -25932,7 +25932,7 @@
         "Ethiopia": 7.58
       },
       {
-        "Sierra Leone": 3.31
+        "Sierra-Leone": 3.31
       },
       {
         "Tanzania": 3.03
@@ -26112,7 +26112,7 @@
         "Uganda": 1.11
       },
       {
-        "Democratic Republic of the Congo": 1.08
+        "Democratic-Republic-of-the-Congo": 1.08
       },
       {
         "South-Korea": 1.08
@@ -26169,7 +26169,7 @@
         "South-Africa": 0.32
       },
       {
-        "Costa Rica": 0.3
+        "Costa-Rica": 0.3
       },
       {
         "Zimbabwe": 0.26
@@ -26226,7 +26226,7 @@
         "Cambodia": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Morocco": 0.01
@@ -26281,7 +26281,7 @@
         "Nigeria": 6.21
       },
       {
-        "Democratic Republic of the Congo": 1.59
+        "Democratic-Republic-of-the-Congo": 1.59
       },
       {
         "Venezuela": 1.41
@@ -26317,7 +26317,7 @@
         "Guatemala": 0.7
       },
       {
-        "Costa Rica": 0.64
+        "Costa-Rica": 0.64
       },
       {
         "Mali": 0.5
@@ -26344,7 +26344,7 @@
         "Yemen": 0.16
       },
       {
-        "Bolivia (Plurinational State of)": 0.13
+        "Bolivia": 0.13
       },
       {
         "Belize": 0.12
@@ -26368,10 +26368,10 @@
         "Jamaica": 0.07
       },
       {
-        "Puerto Rico": 0.07
+        "Puerto-Rico": 0.07
       },
       {
-        "El Salvador": 0.06
+        "El-Salvador": 0.06
       },
       {
         "Panama": 0.06
@@ -26642,7 +26642,7 @@
         "Kenya": 7.76
       },
       {
-        "Sri Lanka": 4.78
+        "Sri-Lanka": 4.78
       },
       {
         "Turkey": 4.25
@@ -26714,7 +26714,7 @@
         "Papua-New-Guinea": 0.09
       },
       {
-        "Democratic Republic of the Congo": 0.06
+        "Democratic-Republic-of-the-Congo": 0.06
       },
       {
         "South-Korea": 0.04
@@ -26723,7 +26723,7 @@
         "Georgia": 0.03
       },
       {
-        "Bolivia (Plurinational State of)": 0.02
+        "Bolivia": 0.02
       },
       {
         "Ecuador": 0.02
@@ -26747,7 +26747,7 @@
         "Brazil": 0.01
       },
       {
-        "El Salvador": 0.01
+        "El-Salvador": 0.01
       },
       {
         "Guatemala": 0.01
@@ -26985,7 +26985,7 @@
         "Niger": 32.86
       },
       {
-        "Burkina Faso": 8.72
+        "Burkina-Faso": 8.72
       },
       {
         "Ghana": 2.98
@@ -27012,7 +27012,7 @@
         "Mozambique": 1.24
       },
       {
-        "Democratic Republic of the Congo": 1.01
+        "Democratic-Republic-of-the-Congo": 1.01
       },
       {
         "Senegal": 0.84
@@ -27042,13 +27042,13 @@
         "Uganda": 0.17
       },
       {
-        "Sri Lanka": 0.15
+        "Sri-Lanka": 0.15
       },
       {
         "Mauritania": 0.11
       },
       {
-        "North Macedonia": 0.11
+        "Macedonia": 0.11
       },
       {
         "Egypt": 0.1
@@ -27124,7 +27124,7 @@
         "Azerbaijan": 0.35
       },
       {
-        "Czechia": 0.28
+        "Czech-Republic": 0.28
       },
       {
         "Denmark": 0.28
@@ -27187,7 +27187,7 @@
         "Chile": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Romania": 0.01
@@ -27309,7 +27309,7 @@
         "France": 2.35
       },
       {
-        "Czechia": 1.64
+        "Czech-Republic": 1.64
       },
       {
         "Germany": 1.14
@@ -27339,7 +27339,7 @@
         "Lithuania": 0.07
       },
       {
-        "Sri Lanka": 0.03
+        "Sri-Lanka": 0.03
       },
       {
         "Denmark": 0.0
@@ -27518,7 +27518,7 @@
         "Latvia": 0.03
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Denmark": 0.02
@@ -27533,7 +27533,7 @@
         "Croatia": 0.01
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Zimbabwe": 0.01
@@ -27603,7 +27603,7 @@
         "Slovenia": 0.11
       },
       {
-        "Czechia": 0.08
+        "Czech-Republic": 0.08
       },
       {
         "South-Korea": 0.06
@@ -27688,7 +27688,7 @@
         "Spain": 0.02
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Denmark": 0.0
@@ -27758,7 +27758,7 @@
         "Greece": 0.15
       },
       {
-        "Czechia": 0.14
+        "Czech-Republic": 0.14
       },
       {
         "Slovenia": 0.13
@@ -27816,7 +27816,7 @@
         "Ukraine": 1.16
       },
       {
-        "Czechia": 1.04
+        "Czech-Republic": 1.04
       },
       {
         "Hungary": 0.48
@@ -27847,7 +27847,7 @@
         "Turkey": 35.4
       },
       {
-        "Czechia": 17.92
+        "Czech-Republic": 17.92
       },
       {
         "Spain": 16.21
@@ -27886,7 +27886,7 @@
         "Netherlands": 0.47
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       }
     ]
   },
@@ -27914,7 +27914,7 @@
         "Latvia": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Ukraine": 0.04
@@ -27960,7 +27960,7 @@
         "Uganda": 0.19
       },
       {
-        "Democratic Republic of the Congo": 0.09
+        "Democratic-Republic-of-the-Congo": 0.09
       },
       {
         "Burundi": 0.04
@@ -28002,14 +28002,14 @@
         "Pakistan": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       }
     ]
   },
   {
     "Plantains and others": [
       {
-        "Democratic Republic of the Congo": 12.05
+        "Democratic-Republic-of-the-Congo": 12.05
       },
       {
         "Ghana": 10.56
@@ -28045,7 +28045,7 @@
         "Cuba": 1.75
       },
       {
-        "Sri Lanka": 1.7
+        "Sri-Lanka": 1.7
       },
       {
         "Ecuador": 1.65
@@ -28057,7 +28057,7 @@
         "Venezuela": 1.34
       },
       {
-        "Bolivia (Plurinational State of)": 1.25
+        "Bolivia": 1.25
       },
       {
         "Guinea": 1.25
@@ -28081,7 +28081,7 @@
         "Panama": 0.36
       },
       {
-        "Costa Rica": 0.27
+        "Costa-Rica": 0.27
       },
       {
         "Honduras": 0.26
@@ -28090,7 +28090,7 @@
         "Central African Republic": 0.22
       },
       {
-        "Puerto Rico": 0.2
+        "Puerto-Rico": 0.2
       },
       {
         "Congo": 0.17
@@ -28105,10 +28105,10 @@
         "Liberia": 0.13
       },
       {
-        "Sierra Leone": 0.12
+        "Sierra-Leone": 0.12
       },
       {
-        "El Salvador": 0.11
+        "El-Salvador": 0.11
       },
       {
         "Equatorial Guinea": 0.1
@@ -28193,7 +28193,7 @@
         "Taiwan": 6.72
       },
       {
-        "Sri Lanka": 3.57
+        "Sri-Lanka": 3.57
       },
       {
         "Thailand": 2.64
@@ -28224,7 +28224,7 @@
         "Vietnam": 30.09
       },
       {
-        "Sri Lanka": 12.87
+        "Sri-Lanka": 12.87
       },
       {
         "Thailand": 4.89
@@ -28282,7 +28282,7 @@
         "Taiwan": 0.83
       },
       {
-        "Sri Lanka": 0.51
+        "Sri-Lanka": 0.51
       },
       {
         "Ethiopia": 0.38
@@ -28312,7 +28312,7 @@
         "Peru": 0.12
       },
       {
-        "Costa Rica": 0.11
+        "Costa-Rica": 0.11
       },
       {
         "Guyana": 0.1
@@ -28348,7 +28348,7 @@
         "Pakistan": 0.0
       },
       {
-        "Puerto Rico": 0.0
+        "Puerto-Rico": 0.0
       },
       {
         "R\u00e9union": 0.0
@@ -28412,7 +28412,7 @@
         "Cameroon": 0.0
       },
       {
-        "El Salvador": 0.0
+        "El-Salvador": 0.0
       },
       {
         "Myanmar": 0.0
@@ -28461,7 +28461,7 @@
         "Nigeria": 1.01
       },
       {
-        "Sri Lanka": 0.58
+        "Sri-Lanka": 0.58
       },
       {
         "Mexico": 0.53
@@ -28482,7 +28482,7 @@
         "Cambodia": 0.15
       },
       {
-        "Bolivia (Plurinational State of)": 0.14
+        "Bolivia": 0.14
       },
       {
         "Ecuador": 0.14
@@ -28491,7 +28491,7 @@
         "Guinea": 0.12
       },
       {
-        "Democratic Republic of the Congo": 0.1
+        "Democratic-Republic-of-the-Congo": 0.1
       },
       {
         "Bangladesh": 0.05
@@ -28569,7 +28569,7 @@
         "Kazakhstan": 0.49
       },
       {
-        "Puerto Rico": 0.25
+        "Puerto-Rico": 0.25
       },
       {
         "Spain": 0.25
@@ -28649,7 +28649,7 @@
         "Ethiopia": 52.11
       },
       {
-        "Democratic Republic of the Congo": 10.1
+        "Democratic-Republic-of-the-Congo": 10.1
       },
       {
         "Pakistan": 5.01
@@ -28709,7 +28709,7 @@
         "China": 0.47
       },
       {
-        "Bolivia (Plurinational State of)": 0.45
+        "Bolivia": 0.45
       },
       {
         "Cameroon": 0.43
@@ -28751,7 +28751,7 @@
         "Slovenia": 0.12
       },
       {
-        "Costa Rica": 0.1
+        "Costa-Rica": 0.1
       },
       {
         "Mozambique": 0.1
@@ -28793,7 +28793,7 @@
         "Nicaragua": 0.03
       },
       {
-        "Puerto Rico": 0.03
+        "Puerto-Rico": 0.03
       },
       {
         "Samoa": 0.03
@@ -28890,7 +28890,7 @@
         "Venezuela": 18.27
       },
       {
-        "El Salvador": 10.34
+        "El-Salvador": 10.34
       },
       {
         "Mexico": 8.38
@@ -28902,7 +28902,7 @@
         "Nicaragua": 6.78
       },
       {
-        "Costa Rica": 4.37
+        "Costa-Rica": 4.37
       },
       {
         "Dominica": 1.15
@@ -28917,7 +28917,7 @@
         "Trinidad and Tobago": 0.42
       },
       {
-        "Puerto Rico": 0.17
+        "Puerto-Rico": 0.17
       },
       {
         "Belize": 0.01
@@ -28942,7 +28942,7 @@
         "Cote-dIvoire": 3.25
       },
       {
-        "Burkina Faso": 1.78
+        "Burkina-Faso": 1.78
       },
       {
         "Niger": 1.01
@@ -28967,7 +28967,7 @@
         "Mali": 20.42
       },
       {
-        "Burkina Faso": 8.25
+        "Burkina-Faso": 8.25
       },
       {
         "Ghana": 6.63
@@ -28998,7 +28998,7 @@
         "Ghana": 8.96
       },
       {
-        "Sierra Leone": 3.01
+        "Sierra-Leone": 3.01
       },
       {
         "Benin": 0.22
@@ -29011,7 +29011,7 @@
         "Nigeria": 61.38
       },
       {
-        "Democratic Republic of the Congo": 6.59
+        "Democratic-Republic-of-the-Congo": 6.59
       },
       {
         "Sudan": 6.58
@@ -29075,7 +29075,7 @@
         "Bulgaria": 7.09
       },
       {
-        "Sri Lanka": 6.59
+        "Sri-Lanka": 6.59
       },
       {
         "China": 4.96
@@ -29111,7 +29111,7 @@
         "Zimbabwe": 0.27
       },
       {
-        "Costa Rica": 0.25
+        "Costa-Rica": 0.25
       },
       {
         "Tajikistan": 0.2
@@ -29174,7 +29174,7 @@
         "Zambia": 0.01
       },
       {
-        "Bolivia (Plurinational State of)": 0.0
+        "Bolivia": 0.0
       },
       {
         "Brunei Darussalam": 0.0
@@ -29199,7 +29199,7 @@
         "Nepal": 6.27
       },
       {
-        "Sri Lanka": 2.81
+        "Sri-Lanka": 2.81
       },
       {
         "Lao People's Democratic Republic": 2.79
@@ -29257,7 +29257,7 @@
         "Brazil": 39.1
       },
       {
-        "Bolivia (Plurinational State of)": 32.87
+        "Bolivia": 32.87
       },
       {
         "Cote-dIvoire": 21.42
@@ -29301,7 +29301,7 @@
         "Peru": 54.12
       },
       {
-        "Bolivia (Plurinational State of)": 44.53
+        "Bolivia": 44.53
       },
       {
         "Ecuador": 1.35
@@ -29396,7 +29396,7 @@
   {
     "Bambara beans": [
       {
-        "Burkina Faso": 27.18
+        "Burkina-Faso": 27.18
       },
       {
         "Niger": 24.05
@@ -29411,7 +29411,7 @@
         "Togo": 9.26
       },
       {
-        "Democratic Republic of the Congo": 5.59
+        "Democratic-Republic-of-the-Congo": 5.59
       }
     ]
   },
@@ -29427,7 +29427,7 @@
         "Vietnam": 13.1
       },
       {
-        "Sri Lanka": 10.83
+        "Sri-Lanka": 10.83
       },
       {
         "Madagascar": 1.4
@@ -29461,7 +29461,7 @@
         "Tanzania": 5.45
       },
       {
-        "Sri Lanka": 3.29
+        "Sri-Lanka": 3.29
       },
       {
         "Comoros": 1.42
@@ -29508,7 +29508,7 @@
         "Cuba": 9.07
       },
       {
-        "El Salvador": 3.8
+        "El-Salvador": 3.8
       },
       {
         "Guatemala": 0.26
@@ -29524,7 +29524,7 @@
         "Ecuador": 36.21
       },
       {
-        "Costa Rica": 1.12
+        "Costa-Rica": 1.12
       },
       {
         "Indonesia": 0.34
