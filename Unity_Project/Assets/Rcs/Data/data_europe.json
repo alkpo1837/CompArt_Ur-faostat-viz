@@ -1,0 +1,7073 @@
+[
+  {
+    "Apples": [
+      {
+        "Poland": 20.41
+      },
+      {
+        "Italy": 12.33
+      },
+      {
+        "Russian Federation": 9.49
+      },
+      {
+        "France": 8.87
+      },
+      {
+        "Ukraine": 7.46
+      },
+      {
+        "Germany": 6.12
+      },
+      {
+        "Belarus": 3.57
+      },
+      {
+        "Hungary": 3.44
+      },
+      {
+        "Republic of Moldova": 3.39
+      },
+      {
+        "Romania": 3.29
+      },
+      {
+        "Spain": 2.87
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.57
+      },
+      {
+        "Serbia": 2.35
+      },
+      {
+        "Austria": 1.98
+      },
+      {
+        "Greece": 1.45
+      },
+      {
+        "Belgium": 1.4
+      },
+      {
+        "Netherlands": 1.37
+      },
+      {
+        "Portugal": 1.36
+      },
+      {
+        "Switzerland": 1.14
+      },
+      {
+        "Czechia": 0.77
+      },
+      {
+        "North Macedonia": 0.72
+      },
+      {
+        "Bosnia and Herzegovina": 0.57
+      },
+      {
+        "Albania": 0.55
+      },
+      {
+        "Croatia": 0.48
+      },
+      {
+        "Lithuania": 0.47
+      },
+      {
+        "Slovenia": 0.44
+      },
+      {
+        "Bulgaria": 0.26
+      },
+      {
+        "Slovakia": 0.22
+      },
+      {
+        "Denmark": 0.17
+      },
+      {
+        "Sweden": 0.16
+      },
+      {
+        "Ireland": 0.1
+      },
+      {
+        "Norway": 0.08
+      },
+      {
+        "Latvia": 0.07
+      },
+      {
+        "Finland": 0.04
+      },
+      {
+        "Estonia": 0.02
+      },
+      {
+        "Luxembourg": 0.01
+      },
+      {
+        "Montenegro": 0.01
+      },
+      {
+        "Malta": 0.0
+      }
+    ]
+  },
+  {
+    "Apricots": [
+      {
+        "Italy": 24.21
+      },
+      {
+        "Spain": 18.63
+      },
+      {
+        "France": 12.13
+      },
+      {
+        "Ukraine": 11.8
+      },
+      {
+        "Greece": 11.48
+      },
+      {
+        "Russian Federation": 7.01
+      },
+      {
+        "Romania": 3.77
+      },
+      {
+        "Serbia": 2.69
+      },
+      {
+        "Hungary": 1.53
+      },
+      {
+        "Bulgaria": 1.44
+      },
+      {
+        "Republic of Moldova": 1.01
+      },
+      {
+        "Austria": 0.98
+      },
+      {
+        "Switzerland": 0.98
+      },
+      {
+        "Albania": 0.54
+      },
+      {
+        "Portugal": 0.47
+      },
+      {
+        "North Macedonia": 0.41
+      },
+      {
+        "Poland": 0.38
+      },
+      {
+        "Czechia": 0.24
+      },
+      {
+        "Slovenia": 0.13
+      },
+      {
+        "Bosnia and Herzegovina": 0.09
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Germany": 0.02
+      },
+      {
+        "Croatia": 0.01
+      },
+      {
+        "Malta": 0.0
+      }
+    ]
+  },
+  {
+    "Barley": [
+      {
+        "Russian Federation": 20.44
+      },
+      {
+        "France": 13.47
+      },
+      {
+        "Germany": 11.53
+      },
+      {
+        "Spain": 10.98
+      },
+      {
+        "Ukraine": 8.84
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 7.83
+      },
+      {
+        "Denmark": 4.19
+      },
+      {
+        "Poland": 3.67
+      },
+      {
+        "Romania": 2.25
+      },
+      {
+        "Czechia": 1.93
+      },
+      {
+        "Finland": 1.61
+      },
+      {
+        "Ireland": 1.47
+      },
+      {
+        "Hungary": 1.37
+      },
+      {
+        "Sweden": 1.32
+      },
+      {
+        "Italy": 1.22
+      },
+      {
+        "Belarus": 1.14
+      },
+      {
+        "Austria": 0.84
+      },
+      {
+        "Lithuania": 0.75
+      },
+      {
+        "Slovakia": 0.59
+      },
+      {
+        "Bulgaria": 0.53
+      },
+      {
+        "Serbia": 0.49
+      },
+      {
+        "Norway": 0.48
+      },
+      {
+        "Estonia": 0.42
+      },
+      {
+        "Greece": 0.41
+      },
+      {
+        "Belgium": 0.39
+      },
+      {
+        "Latvia": 0.37
+      },
+      {
+        "Netherlands": 0.3
+      },
+      {
+        "Croatia": 0.27
+      },
+      {
+        "Switzerland": 0.22
+      },
+      {
+        "Republic of Moldova": 0.21
+      },
+      {
+        "North Macedonia": 0.16
+      },
+      {
+        "Slovenia": 0.11
+      },
+      {
+        "Bosnia and Herzegovina": 0.1
+      },
+      {
+        "Portugal": 0.06
+      },
+      {
+        "Luxembourg": 0.04
+      },
+      {
+        "Albania": 0.01
+      },
+      {
+        "Iceland": 0.0
+      },
+      {
+        "Malta": 0.0
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Beans, dry": [
+      {
+        "Belarus": 30.66
+      },
+      {
+        "Lithuania": 19.11
+      },
+      {
+        "Latvia": 10.28
+      },
+      {
+        "Ukraine": 9.09
+      },
+      {
+        "Poland": 5.7
+      },
+      {
+        "Albania": 3.13
+      },
+      {
+        "Ireland": 2.68
+      },
+      {
+        "Greece": 2.33
+      },
+      {
+        "Romania": 2.21
+      },
+      {
+        "Estonia": 2.2
+      },
+      {
+        "Spain": 2.18
+      },
+      {
+        "Italy": 1.53
+      },
+      {
+        "Republic of Moldova": 1.52
+      },
+      {
+        "Serbia": 1.42
+      },
+      {
+        "France": 1.41
+      },
+      {
+        "Bosnia and Herzegovina": 1.29
+      },
+      {
+        "North Macedonia": 0.89
+      },
+      {
+        "Russian Federation": 0.69
+      },
+      {
+        "Portugal": 0.39
+      },
+      {
+        "Bulgaria": 0.29
+      },
+      {
+        "Netherlands": 0.23
+      },
+      {
+        "Croatia": 0.22
+      },
+      {
+        "Hungary": 0.2
+      },
+      {
+        "Slovenia": 0.18
+      },
+      {
+        "Belgium": 0.07
+      },
+      {
+        "Malta": 0.04
+      },
+      {
+        "Montenegro": 0.03
+      },
+      {
+        "Slovakia": 0.02
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Beans, green": [
+      {
+        "Italy": 21.6
+      },
+      {
+        "Spain": 18.31
+      },
+      {
+        "Belgium": 12.95
+      },
+      {
+        "Greece": 7.63
+      },
+      {
+        "Romania": 7.06
+      },
+      {
+        "Germany": 5.02
+      },
+      {
+        "Netherlands": 4.96
+      },
+      {
+        "France": 4.65
+      },
+      {
+        "Serbia": 3.51
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.52
+      },
+      {
+        "Hungary": 2.05
+      },
+      {
+        "North Macedonia": 1.61
+      },
+      {
+        "Albania": 1.58
+      },
+      {
+        "Switzerland": 1.39
+      },
+      {
+        "Portugal": 1.36
+      },
+      {
+        "Austria": 0.84
+      },
+      {
+        "Croatia": 0.51
+      },
+      {
+        "Ukraine": 0.41
+      },
+      {
+        "Poland": 0.4
+      },
+      {
+        "Slovenia": 0.38
+      },
+      {
+        "Bosnia and Herzegovina": 0.25
+      },
+      {
+        "Bulgaria": 0.23
+      },
+      {
+        "Ireland": 0.22
+      },
+      {
+        "Republic of Moldova": 0.2
+      },
+      {
+        "Norway": 0.15
+      },
+      {
+        "Montenegro": 0.11
+      },
+      {
+        "Czechia": 0.04
+      },
+      {
+        "Lithuania": 0.04
+      },
+      {
+        "Finland": 0.01
+      },
+      {
+        "Denmark": 0.0
+      },
+      {
+        "Luxembourg": 0.0
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Broad beans, horse beans, dry": [
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 43.23
+      },
+      {
+        "Germany": 17.29
+      },
+      {
+        "France": 15.84
+      },
+      {
+        "Italy": 10.93
+      },
+      {
+        "Spain": 3.74
+      },
+      {
+        "Sweden": 3.67
+      },
+      {
+        "Austria": 1.72
+      },
+      {
+        "Ukraine": 0.83
+      },
+      {
+        "Russian Federation": 0.82
+      },
+      {
+        "Belgium": 0.49
+      },
+      {
+        "Portugal": 0.46
+      },
+      {
+        "Switzerland": 0.22
+      },
+      {
+        "Greece": 0.2
+      },
+      {
+        "Netherlands": 0.18
+      },
+      {
+        "Czechia": 0.16
+      },
+      {
+        "Malta": 0.08
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Poland": 0.03
+      },
+      {
+        "Albania": 0.02
+      },
+      {
+        "Hungary": 0.02
+      },
+      {
+        "Luxembourg": 0.02
+      },
+      {
+        "Bulgaria": 0.0
+      },
+      {
+        "Lithuania": 0.0
+      },
+      {
+        "Slovenia": 0.0
+      }
+    ]
+  },
+  {
+    "Cabbages and other brassicas": [
+      {
+        "Russian Federation": 25.6
+      },
+      {
+        "Ukraine": 17.15
+      },
+      {
+        "Romania": 10.95
+      },
+      {
+        "Poland": 10.11
+      },
+      {
+        "Germany": 6.2
+      },
+      {
+        "Belarus": 3.7
+      },
+      {
+        "Italy": 3.04
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.29
+      },
+      {
+        "Spain": 2.19
+      },
+      {
+        "Serbia": 2.15
+      },
+      {
+        "Netherlands": 2.14
+      },
+      {
+        "North Macedonia": 1.78
+      },
+      {
+        "France": 1.67
+      },
+      {
+        "Portugal": 1.41
+      },
+      {
+        "Belgium": 1.25
+      },
+      {
+        "Greece": 0.88
+      },
+      {
+        "Bosnia and Herzegovina": 0.72
+      },
+      {
+        "Hungary": 0.58
+      },
+      {
+        "Lithuania": 0.58
+      },
+      {
+        "Austria": 0.55
+      },
+      {
+        "Albania": 0.54
+      },
+      {
+        "Bulgaria": 0.48
+      },
+      {
+        "Latvia": 0.48
+      },
+      {
+        "Denmark": 0.47
+      },
+      {
+        "Switzerland": 0.44
+      },
+      {
+        "Croatia": 0.41
+      },
+      {
+        "Czechia": 0.33
+      },
+      {
+        "Norway": 0.32
+      },
+      {
+        "Ireland": 0.27
+      },
+      {
+        "Slovenia": 0.24
+      },
+      {
+        "Finland": 0.23
+      },
+      {
+        "Republic of Moldova": 0.19
+      },
+      {
+        "Estonia": 0.17
+      },
+      {
+        "Sweden": 0.17
+      },
+      {
+        "Slovakia": 0.15
+      },
+      {
+        "Montenegro": 0.13
+      },
+      {
+        "Malta": 0.04
+      },
+      {
+        "Iceland": 0.0
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Carrots and turnips": [
+      {
+        "Russian Federation": 16.88
+      },
+      {
+        "Ukraine": 10.09
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 9.89
+      },
+      {
+        "Poland": 8.71
+      },
+      {
+        "Germany": 7.5
+      },
+      {
+        "Italy": 6.55
+      },
+      {
+        "Netherlands": 6.54
+      },
+      {
+        "France": 6.42
+      },
+      {
+        "Spain": 4.58
+      },
+      {
+        "Belgium": 3.88
+      },
+      {
+        "Belarus": 3.48
+      },
+      {
+        "Romania": 2.54
+      },
+      {
+        "Denmark": 1.61
+      },
+      {
+        "Hungary": 1.4
+      },
+      {
+        "Portugal": 1.3
+      },
+      {
+        "Austria": 1.13
+      },
+      {
+        "Sweden": 1.11
+      },
+      {
+        "Switzerland": 0.88
+      },
+      {
+        "Ireland": 0.83
+      },
+      {
+        "Finland": 0.81
+      },
+      {
+        "Lithuania": 0.64
+      },
+      {
+        "Norway": 0.52
+      },
+      {
+        "Greece": 0.37
+      },
+      {
+        "Latvia": 0.33
+      },
+      {
+        "Czechia": 0.32
+      },
+      {
+        "Bulgaria": 0.31
+      },
+      {
+        "Serbia": 0.27
+      },
+      {
+        "Estonia": 0.21
+      },
+      {
+        "Republic of Moldova": 0.18
+      },
+      {
+        "Croatia": 0.14
+      },
+      {
+        "Bosnia and Herzegovina": 0.13
+      },
+      {
+        "Slovenia": 0.13
+      },
+      {
+        "Albania": 0.12
+      },
+      {
+        "Slovakia": 0.11
+      },
+      {
+        "North Macedonia": 0.06
+      },
+      {
+        "Iceland": 0.01
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Cauliflowers and broccoli": [
+      {
+        "Spain": 29.44
+      },
+      {
+        "Italy": 14.94
+      },
+      {
+        "Poland": 11.88
+      },
+      {
+        "France": 11.66
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 5.96
+      },
+      {
+        "Germany": 5.12
+      },
+      {
+        "Belgium": 4.97
+      },
+      {
+        "Netherlands": 2.85
+      },
+      {
+        "Greece": 2.41
+      },
+      {
+        "Romania": 2.27
+      },
+      {
+        "Portugal": 2.25
+      },
+      {
+        "Russian Federation": 0.96
+      },
+      {
+        "Hungary": 0.94
+      },
+      {
+        "Ukraine": 0.86
+      },
+      {
+        "Switzerland": 0.57
+      },
+      {
+        "Norway": 0.49
+      },
+      {
+        "Ireland": 0.39
+      },
+      {
+        "Sweden": 0.38
+      },
+      {
+        "Czechia": 0.28
+      },
+      {
+        "Denmark": 0.25
+      },
+      {
+        "Malta": 0.22
+      },
+      {
+        "Albania": 0.19
+      },
+      {
+        "Austria": 0.19
+      },
+      {
+        "Finland": 0.13
+      },
+      {
+        "Bulgaria": 0.11
+      },
+      {
+        "Croatia": 0.09
+      },
+      {
+        "Slovenia": 0.06
+      },
+      {
+        "Lithuania": 0.05
+      },
+      {
+        "Republic of Moldova": 0.04
+      },
+      {
+        "North Macedonia": 0.02
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "Latvia": 0.01
+      },
+      {
+        "Slovakia": 0.01
+      },
+      {
+        "Iceland": 0.0
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Cherries": [
+      {
+        "Italy": 13.29
+      },
+      {
+        "Spain": 12.34
+      },
+      {
+        "Romania": 10.52
+      },
+      {
+        "Greece": 10.45
+      },
+      {
+        "Ukraine": 9.8
+      },
+      {
+        "Poland": 6.94
+      },
+      {
+        "Bulgaria": 6.4
+      },
+      {
+        "Russian Federation": 5.37
+      },
+      {
+        "Germany": 5.12
+      },
+      {
+        "France": 3.63
+      },
+      {
+        "Albania": 2.22
+      },
+      {
+        "Serbia": 2.22
+      },
+      {
+        "Portugal": 2.02
+      },
+      {
+        "Republic of Moldova": 1.43
+      },
+      {
+        "Bosnia and Herzegovina": 1.37
+      },
+      {
+        "Hungary": 1.37
+      },
+      {
+        "Austria": 1.27
+      },
+      {
+        "Switzerland": 0.71
+      },
+      {
+        "North Macedonia": 0.67
+      },
+      {
+        "Belgium": 0.64
+      },
+      {
+        "Belarus": 0.45
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.41
+      },
+      {
+        "Czechia": 0.31
+      },
+      {
+        "Montenegro": 0.24
+      },
+      {
+        "Croatia": 0.16
+      },
+      {
+        "Slovenia": 0.14
+      },
+      {
+        "Denmark": 0.12
+      },
+      {
+        "Norway": 0.12
+      },
+      {
+        "Slovakia": 0.11
+      },
+      {
+        "Lithuania": 0.08
+      },
+      {
+        "Netherlands": 0.04
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "Latvia": 0.01
+      },
+      {
+        "Sweden": 0.01
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Cherries, sour": [
+      {
+        "Russian Federation": 23.41
+      },
+      {
+        "Ukraine": 22.05
+      },
+      {
+        "Poland": 20.23
+      },
+      {
+        "Serbia": 12.91
+      },
+      {
+        "Hungary": 8.37
+      },
+      {
+        "Belarus": 3.79
+      },
+      {
+        "Albania": 1.85
+      },
+      {
+        "Germany": 1.6
+      },
+      {
+        "North Macedonia": 1.06
+      },
+      {
+        "Croatia": 0.84
+      },
+      {
+        "Republic of Moldova": 0.78
+      },
+      {
+        "Italy": 0.77
+      },
+      {
+        "Czechia": 0.69
+      },
+      {
+        "Bosnia and Herzegovina": 0.6
+      },
+      {
+        "Bulgaria": 0.48
+      },
+      {
+        "Denmark": 0.29
+      },
+      {
+        "Austria": 0.11
+      },
+      {
+        "Greece": 0.09
+      },
+      {
+        "Spain": 0.04
+      },
+      {
+        "Portugal": 0.02
+      },
+      {
+        "Slovenia": 0.01
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Chestnut": [
+      {
+        "Italy": 34.46
+      },
+      {
+        "Greece": 22.79
+      },
+      {
+        "Portugal": 22.1
+      },
+      {
+        "Spain": 9.76
+      },
+      {
+        "France": 5.62
+      },
+      {
+        "Albania": 3.39
+      },
+      {
+        "Bosnia and Herzegovina": 0.76
+      },
+      {
+        "Bulgaria": 0.33
+      },
+      {
+        "North Macedonia": 0.26
+      },
+      {
+        "Slovenia": 0.15
+      },
+      {
+        "Ukraine": 0.15
+      },
+      {
+        "Switzerland": 0.12
+      },
+      {
+        "Hungary": 0.1
+      },
+      {
+        "Romania": 0.02
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Chillies and peppers, green": [
+      {
+        "Spain": 39.62
+      },
+      {
+        "Netherlands": 11.03
+      },
+      {
+        "Italy": 8.1
+      },
+      {
+        "Romania": 7.13
+      },
+      {
+        "North Macedonia": 5.68
+      },
+      {
+        "Ukraine": 5.47
+      },
+      {
+        "Greece": 4.53
+      },
+      {
+        "Serbia": 4.2
+      },
+      {
+        "Hungary": 3.55
+      },
+      {
+        "Albania": 2.53
+      },
+      {
+        "Bulgaria": 1.61
+      },
+      {
+        "Bosnia and Herzegovina": 1.28
+      },
+      {
+        "France": 1.0
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.85
+      },
+      {
+        "Belgium": 0.81
+      },
+      {
+        "Croatia": 0.56
+      },
+      {
+        "Austria": 0.49
+      },
+      {
+        "Germany": 0.46
+      },
+      {
+        "Czechia": 0.32
+      },
+      {
+        "Republic of Moldova": 0.29
+      },
+      {
+        "Montenegro": 0.17
+      },
+      {
+        "Slovenia": 0.13
+      },
+      {
+        "Slovakia": 0.11
+      },
+      {
+        "Finland": 0.03
+      },
+      {
+        "Portugal": 0.02
+      },
+      {
+        "Ireland": 0.01
+      },
+      {
+        "Switzerland": 0.01
+      }
+    ]
+  },
+  {
+    "Cucumbers and gherkins": [
+      {
+        "Russian Federation": 26.98
+      },
+      {
+        "Ukraine": 16.57
+      },
+      {
+        "Spain": 10.82
+      },
+      {
+        "Poland": 9.06
+      },
+      {
+        "Netherlands": 6.89
+      },
+      {
+        "Germany": 4.5
+      },
+      {
+        "Belarus": 3.81
+      },
+      {
+        "Romania": 3.51
+      },
+      {
+        "Greece": 2.61
+      },
+      {
+        "France": 2.32
+      },
+      {
+        "Albania": 2.02
+      },
+      {
+        "Bulgaria": 1.25
+      },
+      {
+        "Finland": 0.93
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.93
+      },
+      {
+        "Italy": 0.91
+      },
+      {
+        "North Macedonia": 0.91
+      },
+      {
+        "Austria": 0.75
+      },
+      {
+        "Serbia": 0.72
+      },
+      {
+        "Bosnia and Herzegovina": 0.6
+      },
+      {
+        "Sweden": 0.6
+      },
+      {
+        "Hungary": 0.48
+      },
+      {
+        "Belgium": 0.41
+      },
+      {
+        "Republic of Moldova": 0.39
+      },
+      {
+        "Lithuania": 0.29
+      },
+      {
+        "Norway": 0.29
+      },
+      {
+        "Denmark": 0.28
+      },
+      {
+        "Czechia": 0.24
+      },
+      {
+        "Switzerland": 0.24
+      },
+      {
+        "Portugal": 0.16
+      },
+      {
+        "Latvia": 0.14
+      },
+      {
+        "Croatia": 0.11
+      },
+      {
+        "Estonia": 0.1
+      },
+      {
+        "Slovakia": 0.06
+      },
+      {
+        "Slovenia": 0.04
+      },
+      {
+        "Iceland": 0.03
+      },
+      {
+        "Ireland": 0.03
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Dates": [
+      {
+        "Albania": 89.12
+      },
+      {
+        "Spain": 10.88
+      }
+    ]
+  },
+  {
+    "Eggplants (aubergines)": [
+      {
+        "Italy": 30.69
+      },
+      {
+        "Spain": 24.52
+      },
+      {
+        "Romania": 14.18
+      },
+      {
+        "Greece": 7.3
+      },
+      {
+        "Ukraine": 7.05
+      },
+      {
+        "Netherlands": 5.66
+      },
+      {
+        "France": 3.29
+      },
+      {
+        "Albania": 3.24
+      },
+      {
+        "Bulgaria": 1.16
+      },
+      {
+        "Belgium": 1.04
+      },
+      {
+        "Portugal": 0.54
+      },
+      {
+        "Republic of Moldova": 0.52
+      },
+      {
+        "Lithuania": 0.23
+      },
+      {
+        "Serbia": 0.21
+      },
+      {
+        "Austria": 0.12
+      },
+      {
+        "North Macedonia": 0.11
+      },
+      {
+        "Hungary": 0.09
+      },
+      {
+        "Malta": 0.09
+      }
+    ]
+  },
+  {
+    "Figs": [
+      {
+        "Spain": 42.42
+      },
+      {
+        "Albania": 21.72
+      },
+      {
+        "Greece": 14.21
+      },
+      {
+        "Italy": 9.46
+      },
+      {
+        "Montenegro": 3.5
+      },
+      {
+        "Portugal": 3.19
+      },
+      {
+        "France": 2.94
+      },
+      {
+        "Croatia": 1.08
+      },
+      {
+        "Bosnia and Herzegovina": 0.79
+      },
+      {
+        "North Macedonia": 0.59
+      },
+      {
+        "Malta": 0.05
+      },
+      {
+        "Slovenia": 0.05
+      }
+    ]
+  },
+  {
+    "Fruit, citrus nes": [
+      {
+        "Italy": 90.54
+      },
+      {
+        "Spain": 5.4
+      },
+      {
+        "Greece": 2.67
+      },
+      {
+        "Malta": 1.32
+      },
+      {
+        "Albania": 0.06
+      }
+    ]
+  },
+  {
+    "Fruit, fresh nes": [
+      {
+        "Spain": 37.44
+      },
+      {
+        "Poland": 13.12
+      },
+      {
+        "Italy": 10.82
+      },
+      {
+        "Serbia": 7.68
+      },
+      {
+        "France": 6.35
+      },
+      {
+        "Romania": 6.14
+      },
+      {
+        "Hungary": 4.78
+      },
+      {
+        "Czechia": 4.04
+      },
+      {
+        "Greece": 3.87
+      },
+      {
+        "Ireland": 1.66
+      },
+      {
+        "Bulgaria": 1.59
+      },
+      {
+        "Portugal": 0.79
+      },
+      {
+        "Albania": 0.73
+      },
+      {
+        "North Macedonia": 0.27
+      },
+      {
+        "Ukraine": 0.21
+      },
+      {
+        "Russian Federation": 0.17
+      },
+      {
+        "Montenegro": 0.09
+      },
+      {
+        "Malta": 0.08
+      },
+      {
+        "Bosnia and Herzegovina": 0.06
+      },
+      {
+        "Slovakia": 0.06
+      },
+      {
+        "Latvia": 0.05
+      },
+      {
+        "Lithuania": 0.0
+      },
+      {
+        "Switzerland": 0.0
+      }
+    ]
+  },
+  {
+    "Fruit, stone nes": [
+      {
+        "France": 22.88
+      },
+      {
+        "Ukraine": 22.54
+      },
+      {
+        "Poland": 19.83
+      },
+      {
+        "Germany": 14.91
+      },
+      {
+        "Italy": 12.54
+      },
+      {
+        "Greece": 4.23
+      },
+      {
+        "Portugal": 1.4
+      },
+      {
+        "Hungary": 0.88
+      },
+      {
+        "Malta": 0.39
+      },
+      {
+        "Finland": 0.38
+      }
+    ]
+  },
+  {
+    "Garlic": [
+      {
+        "Spain": 31.69
+      },
+      {
+        "Russian Federation": 24.57
+      },
+      {
+        "Ukraine": 21.67
+      },
+      {
+        "Romania": 6.72
+      },
+      {
+        "Italy": 3.53
+      },
+      {
+        "France": 2.33
+      },
+      {
+        "Belarus": 2.1
+      },
+      {
+        "Albania": 1.59
+      },
+      {
+        "Republic of Moldova": 1.1
+      },
+      {
+        "Hungary": 0.9
+      },
+      {
+        "Greece": 0.71
+      },
+      {
+        "Bosnia and Herzegovina": 0.68
+      },
+      {
+        "North Macedonia": 0.48
+      },
+      {
+        "Serbia": 0.42
+      },
+      {
+        "Croatia": 0.27
+      },
+      {
+        "Portugal": 0.24
+      },
+      {
+        "Czechia": 0.2
+      },
+      {
+        "Austria": 0.13
+      },
+      {
+        "Latvia": 0.13
+      },
+      {
+        "Lithuania": 0.12
+      },
+      {
+        "Montenegro": 0.12
+      },
+      {
+        "Slovenia": 0.12
+      },
+      {
+        "Bulgaria": 0.05
+      },
+      {
+        "Malta": 0.04
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Estonia": 0.03
+      },
+      {
+        "Finland": 0.01
+      },
+      {
+        "Netherlands": 0.0
+      },
+      {
+        "Switzerland": 0.0
+      }
+    ]
+  },
+  {
+    "Grapes": [
+      {
+        "Italy": 28.53
+      },
+      {
+        "Spain": 22.36
+      },
+      {
+        "France": 20.77
+      },
+      {
+        "Germany": 4.7
+      },
+      {
+        "Romania": 3.83
+      },
+      {
+        "Greece": 3.13
+      },
+      {
+        "Portugal": 2.61
+      },
+      {
+        "Republic of Moldova": 2.45
+      },
+      {
+        "Russian Federation": 2.1
+      },
+      {
+        "Hungary": 1.81
+      },
+      {
+        "Ukraine": 1.57
+      },
+      {
+        "Austria": 1.23
+      },
+      {
+        "North Macedonia": 0.99
+      },
+      {
+        "Bulgaria": 0.65
+      },
+      {
+        "Albania": 0.62
+      },
+      {
+        "Serbia": 0.5
+      },
+      {
+        "Croatia": 0.49
+      },
+      {
+        "Slovenia": 0.43
+      },
+      {
+        "Switzerland": 0.36
+      },
+      {
+        "Czechia": 0.35
+      },
+      {
+        "Slovakia": 0.18
+      },
+      {
+        "Bosnia and Herzegovina": 0.14
+      },
+      {
+        "Montenegro": 0.08
+      },
+      {
+        "Luxembourg": 0.06
+      },
+      {
+        "Belarus": 0.05
+      },
+      {
+        "Belgium": 0.01
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Liechtenstein": 0.0
+      },
+      {
+        "Netherlands": 0.0
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.0
+      }
+    ]
+  },
+  {
+    "Hops": [
+      {
+        "Germany": 66.43
+      },
+      {
+        "Czechia": 10.47
+      },
+      {
+        "Slovenia": 6.29
+      },
+      {
+        "Albania": 3.96
+      },
+      {
+        "Poland": 3.57
+      },
+      {
+        "Spain": 1.87
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.55
+      },
+      {
+        "France": 1.52
+      },
+      {
+        "Ukraine": 1.16
+      },
+      {
+        "Austria": 0.93
+      },
+      {
+        "Belgium": 0.77
+      },
+      {
+        "Romania": 0.45
+      },
+      {
+        "Russian Federation": 0.29
+      },
+      {
+        "Bulgaria": 0.28
+      },
+      {
+        "Slovakia": 0.22
+      },
+      {
+        "Ireland": 0.09
+      },
+      {
+        "Serbia": 0.06
+      },
+      {
+        "Switzerland": 0.06
+      },
+      {
+        "Portugal": 0.04
+      }
+    ]
+  },
+  {
+    "Leeks, other alliaceous vegetables": [
+      {
+        "Belgium": 19.18
+      },
+      {
+        "France": 18.56
+      },
+      {
+        "Poland": 13.56
+      },
+      {
+        "Netherlands": 10.19
+      },
+      {
+        "Spain": 10.12
+      },
+      {
+        "Germany": 9.54
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 4.62
+      },
+      {
+        "Albania": 4.35
+      },
+      {
+        "Greece": 2.82
+      },
+      {
+        "Switzerland": 1.7
+      },
+      {
+        "Italy": 1.27
+      },
+      {
+        "Croatia": 0.75
+      },
+      {
+        "Austria": 0.68
+      },
+      {
+        "Denmark": 0.61
+      },
+      {
+        "Norway": 0.6
+      },
+      {
+        "Sweden": 0.39
+      },
+      {
+        "Ireland": 0.33
+      },
+      {
+        "Hungary": 0.17
+      },
+      {
+        "Romania": 0.17
+      },
+      {
+        "Slovenia": 0.11
+      },
+      {
+        "Finland": 0.06
+      },
+      {
+        "North Macedonia": 0.06
+      },
+      {
+        "Latvia": 0.04
+      },
+      {
+        "Republic of Moldova": 0.04
+      },
+      {
+        "Lithuania": 0.03
+      },
+      {
+        "Malta": 0.03
+      },
+      {
+        "Luxembourg": 0.02
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Lemons and limes": [
+      {
+        "Spain": 68.29
+      },
+      {
+        "Italy": 23.81
+      },
+      {
+        "Greece": 5.55
+      },
+      {
+        "France": 1.04
+      },
+      {
+        "Portugal": 1.03
+      },
+      {
+        "Albania": 0.24
+      },
+      {
+        "Croatia": 0.02
+      },
+      {
+        "Malta": 0.02
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      }
+    ]
+  },
+  {
+    "Lettuce and chicory": [
+      {
+        "Spain": 31.37
+      },
+      {
+        "Italy": 25.78
+      },
+      {
+        "Germany": 11.76
+      },
+      {
+        "France": 7.3
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 3.61
+      },
+      {
+        "Netherlands": 3.4
+      },
+      {
+        "Switzerland": 2.45
+      },
+      {
+        "Greece": 1.96
+      },
+      {
+        "Belgium": 1.61
+      },
+      {
+        "Portugal": 1.52
+      },
+      {
+        "Poland": 1.43
+      },
+      {
+        "Austria": 1.33
+      },
+      {
+        "Norway": 1.24
+      },
+      {
+        "Sweden": 0.95
+      },
+      {
+        "Albania": 0.65
+      },
+      {
+        "Denmark": 0.64
+      },
+      {
+        "Slovenia": 0.64
+      },
+      {
+        "Finland": 0.48
+      },
+      {
+        "Czechia": 0.37
+      },
+      {
+        "Hungary": 0.29
+      },
+      {
+        "Bosnia and Herzegovina": 0.26
+      },
+      {
+        "Croatia": 0.23
+      },
+      {
+        "Ireland": 0.21
+      },
+      {
+        "Bulgaria": 0.18
+      },
+      {
+        "Romania": 0.14
+      },
+      {
+        "Malta": 0.1
+      },
+      {
+        "Ukraine": 0.06
+      },
+      {
+        "Latvia": 0.01
+      },
+      {
+        "Luxembourg": 0.01
+      },
+      {
+        "North Macedonia": 0.01
+      },
+      {
+        "Slovakia": 0.01
+      }
+    ]
+  },
+  {
+    "Maize": [
+      {
+        "Ukraine": 27.84
+      },
+      {
+        "Romania": 14.51
+      },
+      {
+        "France": 9.85
+      },
+      {
+        "Russian Federation": 8.88
+      },
+      {
+        "Hungary": 6.19
+      },
+      {
+        "Serbia": 5.42
+      },
+      {
+        "Italy": 4.81
+      },
+      {
+        "Poland": 3.0
+      },
+      {
+        "Spain": 2.99
+      },
+      {
+        "Bulgaria": 2.7
+      },
+      {
+        "Germany": 2.6
+      },
+      {
+        "Croatia": 1.67
+      },
+      {
+        "Austria": 1.66
+      },
+      {
+        "Republic of Moldova": 1.61
+      },
+      {
+        "Slovakia": 1.18
+      },
+      {
+        "Bosnia and Herzegovina": 0.99
+      },
+      {
+        "Greece": 0.94
+      },
+      {
+        "Belarus": 0.88
+      },
+      {
+        "Portugal": 0.56
+      },
+      {
+        "Czechia": 0.38
+      },
+      {
+        "Belgium": 0.34
+      },
+      {
+        "Albania": 0.3
+      },
+      {
+        "Slovenia": 0.27
+      },
+      {
+        "North Macedonia": 0.15
+      },
+      {
+        "Switzerland": 0.1
+      },
+      {
+        "Lithuania": 0.07
+      },
+      {
+        "Netherlands": 0.07
+      },
+      {
+        "Denmark": 0.03
+      },
+      {
+        "Luxembourg": 0.0
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Melons, other (inc.cantaloupes)": [
+      {
+        "Spain": 34.6
+      },
+      {
+        "Italy": 31.67
+      },
+      {
+        "France": 13.29
+      },
+      {
+        "Greece": 5.4
+      },
+      {
+        "Ukraine": 5.35
+      },
+      {
+        "Romania": 3.23
+      },
+      {
+        "Portugal": 2.98
+      },
+      {
+        "Albania": 2.18
+      },
+      {
+        "Hungary": 0.81
+      },
+      {
+        "Malta": 0.14
+      },
+      {
+        "Netherlands": 0.11
+      },
+      {
+        "Montenegro": 0.09
+      },
+      {
+        "Republic of Moldova": 0.09
+      },
+      {
+        "North Macedonia": 0.06
+      },
+      {
+        "Slovakia": 0.0
+      },
+      {
+        "Switzerland": 0.0
+      }
+    ]
+  },
+  {
+    "Mushrooms and truffles": [
+      {
+        "Netherlands": 22.66
+      },
+      {
+        "Poland": 21.16
+      },
+      {
+        "Spain": 12.55
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 7.44
+      },
+      {
+        "France": 6.27
+      },
+      {
+        "Germany": 5.53
+      },
+      {
+        "Italy": 5.34
+      },
+      {
+        "Ireland": 4.93
+      },
+      {
+        "Belgium": 2.11
+      },
+      {
+        "Russian Federation": 1.92
+      },
+      {
+        "Hungary": 1.89
+      },
+      {
+        "Belarus": 1.35
+      },
+      {
+        "Romania": 1.17
+      },
+      {
+        "Ukraine": 1.12
+      },
+      {
+        "Portugal": 0.91
+      },
+      {
+        "Lithuania": 0.86
+      },
+      {
+        "Switzerland": 0.57
+      },
+      {
+        "Serbia": 0.41
+      },
+      {
+        "Greece": 0.4
+      },
+      {
+        "Denmark": 0.3
+      },
+      {
+        "North Macedonia": 0.22
+      },
+      {
+        "Slovakia": 0.15
+      },
+      {
+        "Austria": 0.14
+      },
+      {
+        "Republic of Moldova": 0.14
+      },
+      {
+        "Finland": 0.1
+      },
+      {
+        "Bosnia and Herzegovina": 0.09
+      },
+      {
+        "Bulgaria": 0.08
+      },
+      {
+        "Malta": 0.05
+      },
+      {
+        "Montenegro": 0.05
+      },
+      {
+        "Czechia": 0.04
+      },
+      {
+        "Iceland": 0.04
+      },
+      {
+        "Albania": 0.01
+      },
+      {
+        "Latvia": 0.0
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Nuts nes": [
+      {
+        "Russian Federation": 53.05
+      },
+      {
+        "Albania": 21.05
+      },
+      {
+        "Spain": 11.22
+      },
+      {
+        "Italy": 5.66
+      },
+      {
+        "Belarus": 5.17
+      },
+      {
+        "Bulgaria": 1.94
+      },
+      {
+        "Republic of Moldova": 1.61
+      },
+      {
+        "Slovenia": 0.26
+      },
+      {
+        "Ukraine": 0.04
+      }
+    ]
+  },
+  {
+    "Oats": [
+      {
+        "Russian Federation": 34.92
+      },
+      {
+        "Spain": 11.0
+      },
+      {
+        "Poland": 8.63
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 6.29
+      },
+      {
+        "Finland": 6.05
+      },
+      {
+        "Germany": 4.27
+      },
+      {
+        "France": 3.17
+      },
+      {
+        "Ukraine": 3.1
+      },
+      {
+        "Romania": 2.84
+      },
+      {
+        "Sweden": 2.69
+      },
+      {
+        "Belarus": 2.53
+      },
+      {
+        "Denmark": 2.15
+      },
+      {
+        "Italy": 1.8
+      },
+      {
+        "Latvia": 1.39
+      },
+      {
+        "Lithuania": 1.35
+      },
+      {
+        "Czechia": 1.13
+      },
+      {
+        "Norway": 1.08
+      },
+      {
+        "Ireland": 0.9
+      },
+      {
+        "Greece": 0.6
+      },
+      {
+        "Estonia": 0.58
+      },
+      {
+        "Austria": 0.55
+      },
+      {
+        "Serbia": 0.55
+      },
+      {
+        "Hungary": 0.44
+      },
+      {
+        "Portugal": 0.41
+      },
+      {
+        "Croatia": 0.33
+      },
+      {
+        "Albania": 0.26
+      },
+      {
+        "Slovakia": 0.22
+      },
+      {
+        "Bosnia and Herzegovina": 0.2
+      },
+      {
+        "Bulgaria": 0.18
+      },
+      {
+        "Belgium": 0.13
+      },
+      {
+        "Switzerland": 0.06
+      },
+      {
+        "Luxembourg": 0.05
+      },
+      {
+        "Netherlands": 0.05
+      },
+      {
+        "North Macedonia": 0.05
+      },
+      {
+        "Slovenia": 0.03
+      },
+      {
+        "Republic of Moldova": 0.01
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Okra": [
+      {
+        "Albania": 100.0
+      }
+    ]
+  },
+  {
+    "Olives": [
+      {
+        "Spain": 71.67
+      },
+      {
+        "Italy": 13.7
+      },
+      {
+        "Greece": 7.88
+      },
+      {
+        "Portugal": 5.4
+      },
+      {
+        "Albania": 0.86
+      },
+      {
+        "Croatia": 0.21
+      },
+      {
+        "France": 0.16
+      },
+      {
+        "North Macedonia": 0.09
+      },
+      {
+        "Slovenia": 0.03
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      },
+      {
+        "Malta": 0.0
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Onions, dry": [
+      {
+        "Russian Federation": 18.34
+      },
+      {
+        "Spain": 14.22
+      },
+      {
+        "Netherlands": 14.13
+      },
+      {
+        "Ukraine": 9.87
+      },
+      {
+        "Poland": 6.29
+      },
+      {
+        "France": 5.17
+      },
+      {
+        "Germany": 4.57
+      },
+      {
+        "Italy": 4.16
+      },
+      {
+        "Romania": 3.91
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 3.72
+      },
+      {
+        "Belarus": 2.41
+      },
+      {
+        "Greece": 1.62
+      },
+      {
+        "Austria": 1.48
+      },
+      {
+        "Portugal": 1.46
+      },
+      {
+        "Belgium": 1.18
+      },
+      {
+        "Albania": 1.12
+      },
+      {
+        "North Macedonia": 0.66
+      },
+      {
+        "Sweden": 0.59
+      },
+      {
+        "Hungary": 0.53
+      },
+      {
+        "Republic of Moldova": 0.49
+      },
+      {
+        "Bulgaria": 0.47
+      },
+      {
+        "Denmark": 0.47
+      },
+      {
+        "Bosnia and Herzegovina": 0.43
+      },
+      {
+        "Switzerland": 0.42
+      },
+      {
+        "Czechia": 0.41
+      },
+      {
+        "Serbia": 0.31
+      },
+      {
+        "Slovakia": 0.31
+      },
+      {
+        "Croatia": 0.28
+      },
+      {
+        "Finland": 0.26
+      },
+      {
+        "Lithuania": 0.26
+      },
+      {
+        "Latvia": 0.21
+      },
+      {
+        "Slovenia": 0.11
+      },
+      {
+        "Malta": 0.1
+      },
+      {
+        "Ireland": 0.05
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "Montenegro": 0.01
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Onions, shallots, green": [
+      {
+        "Germany": 24.37
+      },
+      {
+        "Portugal": 14.04
+      },
+      {
+        "France": 12.95
+      },
+      {
+        "Netherlands": 12.0
+      },
+      {
+        "Albania": 10.08
+      },
+      {
+        "Ukraine": 6.28
+      },
+      {
+        "Norway": 4.96
+      },
+      {
+        "Greece": 4.08
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 4.02
+      },
+      {
+        "Spain": 3.93
+      },
+      {
+        "Bulgaria": 1.37
+      },
+      {
+        "Switzerland": 0.74
+      },
+      {
+        "Hungary": 0.64
+      },
+      {
+        "North Macedonia": 0.54
+      }
+    ]
+  },
+  {
+    "Oranges": [
+      {
+        "Spain": 56.42
+      },
+      {
+        "Italy": 23.59
+      },
+      {
+        "Greece": 14.15
+      },
+      {
+        "Portugal": 5.33
+      },
+      {
+        "Albania": 0.17
+      },
+      {
+        "France": 0.17
+      },
+      {
+        "Montenegro": 0.15
+      },
+      {
+        "Croatia": 0.01
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      },
+      {
+        "Russian Federation": 0.0
+      }
+    ]
+  },
+  {
+    "Peaches and nectarines": [
+      {
+        "Italy": 31.18
+      },
+      {
+        "Greece": 27.69
+      },
+      {
+        "Spain": 25.84
+      },
+      {
+        "France": 5.26
+      },
+      {
+        "Serbia": 2.11
+      },
+      {
+        "Portugal": 1.33
+      },
+      {
+        "Russian Federation": 1.04
+      },
+      {
+        "Bulgaria": 0.83
+      },
+      {
+        "Ukraine": 0.75
+      },
+      {
+        "Republic of Moldova": 0.7
+      },
+      {
+        "Hungary": 0.67
+      },
+      {
+        "Romania": 0.65
+      },
+      {
+        "Albania": 0.56
+      },
+      {
+        "North Macedonia": 0.38
+      },
+      {
+        "Poland": 0.3
+      },
+      {
+        "Bosnia and Herzegovina": 0.27
+      },
+      {
+        "Slovenia": 0.13
+      },
+      {
+        "Croatia": 0.1
+      },
+      {
+        "Austria": 0.08
+      },
+      {
+        "Montenegro": 0.04
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Czechia": 0.03
+      },
+      {
+        "Germany": 0.02
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Switzerland": 0.01
+      }
+    ]
+  },
+  {
+    "Pears": [
+      {
+        "Italy": 23.54
+      },
+      {
+        "Netherlands": 13.2
+      },
+      {
+        "Belgium": 12.13
+      },
+      {
+        "Spain": 10.91
+      },
+      {
+        "Ukraine": 6.02
+      },
+      {
+        "Portugal": 5.34
+      },
+      {
+        "France": 4.25
+      },
+      {
+        "Austria": 3.66
+      },
+      {
+        "Poland": 2.99
+      },
+      {
+        "Greece": 2.53
+      },
+      {
+        "Russian Federation": 2.18
+      },
+      {
+        "Romania": 1.98
+      },
+      {
+        "Belarus": 1.81
+      },
+      {
+        "Serbia": 1.77
+      },
+      {
+        "Germany": 1.56
+      },
+      {
+        "Bosnia and Herzegovina": 1.21
+      },
+      {
+        "Switzerland": 1.2
+      },
+      {
+        "Hungary": 0.85
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.84
+      },
+      {
+        "Albania": 0.45
+      },
+      {
+        "North Macedonia": 0.26
+      },
+      {
+        "Czechia": 0.24
+      },
+      {
+        "Denmark": 0.19
+      },
+      {
+        "Republic of Moldova": 0.17
+      },
+      {
+        "Slovenia": 0.15
+      },
+      {
+        "Montenegro": 0.13
+      },
+      {
+        "Croatia": 0.12
+      },
+      {
+        "Bulgaria": 0.11
+      },
+      {
+        "Lithuania": 0.06
+      },
+      {
+        "Sweden": 0.06
+      },
+      {
+        "Slovakia": 0.05
+      },
+      {
+        "Norway": 0.02
+      },
+      {
+        "Latvia": 0.01
+      },
+      {
+        "Luxembourg": 0.01
+      },
+      {
+        "Malta": 0.0
+      }
+    ]
+  },
+  {
+    "Peas, green": [
+      {
+        "France": 23.84
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 11.32
+      },
+      {
+        "Spain": 10.38
+      },
+      {
+        "Hungary": 8.53
+      },
+      {
+        "Italy": 8.19
+      },
+      {
+        "Russian Federation": 7.59
+      },
+      {
+        "Belgium": 5.9
+      },
+      {
+        "Poland": 3.96
+      },
+      {
+        "Serbia": 2.78
+      },
+      {
+        "Germany": 2.3
+      },
+      {
+        "Ukraine": 1.87
+      },
+      {
+        "Netherlands": 1.8
+      },
+      {
+        "Romania": 1.72
+      },
+      {
+        "Denmark": 1.32
+      },
+      {
+        "Portugal": 1.24
+      },
+      {
+        "Greece": 1.21
+      },
+      {
+        "Austria": 0.93
+      },
+      {
+        "Sweden": 0.91
+      },
+      {
+        "Finland": 0.6
+      },
+      {
+        "Switzerland": 0.53
+      },
+      {
+        "Albania": 0.46
+      },
+      {
+        "Republic of Moldova": 0.46
+      },
+      {
+        "Belarus": 0.42
+      },
+      {
+        "Croatia": 0.31
+      },
+      {
+        "Czechia": 0.29
+      },
+      {
+        "Slovakia": 0.26
+      },
+      {
+        "North Macedonia": 0.2
+      },
+      {
+        "Ireland": 0.19
+      },
+      {
+        "Norway": 0.18
+      },
+      {
+        "Bulgaria": 0.16
+      },
+      {
+        "Estonia": 0.07
+      },
+      {
+        "Montenegro": 0.03
+      },
+      {
+        "Lithuania": 0.02
+      },
+      {
+        "Slovenia": 0.02
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Latvia": 0.0
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Plums and sloes": [
+      {
+        "Romania": 27.95
+      },
+      {
+        "Serbia": 14.28
+      },
+      {
+        "Ukraine": 6.57
+      },
+      {
+        "Italy": 6.56
+      },
+      {
+        "Bosnia and Herzegovina": 6.32
+      },
+      {
+        "France": 6.04
+      },
+      {
+        "Russian Federation": 5.5
+      },
+      {
+        "Spain": 5.08
+      },
+      {
+        "Republic of Moldova": 4.41
+      },
+      {
+        "Poland": 4.02
+      },
+      {
+        "Germany": 2.03
+      },
+      {
+        "Bulgaria": 1.87
+      },
+      {
+        "Hungary": 1.54
+      },
+      {
+        "Albania": 1.37
+      },
+      {
+        "North Macedonia": 1.25
+      },
+      {
+        "Greece": 0.96
+      },
+      {
+        "Belarus": 0.92
+      },
+      {
+        "Portugal": 0.74
+      },
+      {
+        "Croatia": 0.48
+      },
+      {
+        "Montenegro": 0.46
+      },
+      {
+        "Czechia": 0.43
+      },
+      {
+        "Austria": 0.32
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.29
+      },
+      {
+        "Switzerland": 0.21
+      },
+      {
+        "Netherlands": 0.19
+      },
+      {
+        "Norway": 0.07
+      },
+      {
+        "Slovakia": 0.07
+      },
+      {
+        "Estonia": 0.02
+      },
+      {
+        "Lithuania": 0.02
+      },
+      {
+        "Slovenia": 0.02
+      },
+      {
+        "Denmark": 0.01
+      },
+      {
+        "Luxembourg": 0.01
+      },
+      {
+        "Sweden": 0.01
+      },
+      {
+        "Belgium": 0.0
+      },
+      {
+        "Latvia": 0.0
+      }
+    ]
+  },
+  {
+    "Potatoes": [
+      {
+        "Ukraine": 21.4
+      },
+      {
+        "Russian Federation": 21.29
+      },
+      {
+        "Germany": 8.48
+      },
+      {
+        "France": 7.48
+      },
+      {
+        "Poland": 7.11
+      },
+      {
+        "Netherlands": 5.73
+      },
+      {
+        "Belarus": 5.58
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 4.78
+      },
+      {
+        "Belgium": 2.9
+      },
+      {
+        "Romania": 2.87
+      },
+      {
+        "Spain": 1.91
+      },
+      {
+        "Denmark": 1.72
+      },
+      {
+        "Italy": 1.24
+      },
+      {
+        "Sweden": 0.68
+      },
+      {
+        "Austria": 0.66
+      },
+      {
+        "Finland": 0.57
+      },
+      {
+        "Czechia": 0.55
+      },
+      {
+        "Serbia": 0.46
+      },
+      {
+        "Greece": 0.44
+      },
+      {
+        "Latvia": 0.41
+      },
+      {
+        "Portugal": 0.41
+      },
+      {
+        "Switzerland": 0.4
+      },
+      {
+        "Bosnia and Herzegovina": 0.37
+      },
+      {
+        "Hungary": 0.31
+      },
+      {
+        "Norway": 0.31
+      },
+      {
+        "Lithuania": 0.28
+      },
+      {
+        "Ireland": 0.26
+      },
+      {
+        "Bulgaria": 0.25
+      },
+      {
+        "Albania": 0.24
+      },
+      {
+        "Croatia": 0.17
+      },
+      {
+        "North Macedonia": 0.17
+      },
+      {
+        "Republic of Moldova": 0.17
+      },
+      {
+        "Slovakia": 0.16
+      },
+      {
+        "Estonia": 0.08
+      },
+      {
+        "Slovenia": 0.07
+      },
+      {
+        "Luxembourg": 0.02
+      },
+      {
+        "Montenegro": 0.02
+      },
+      {
+        "Iceland": 0.01
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Faroe Islands": 0.0
+      }
+    ]
+  },
+  {
+    "Pulses nes": [
+      {
+        "Poland": 45.15
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 27.08
+      },
+      {
+        "Spain": 8.11
+      },
+      {
+        "Denmark": 6.83
+      },
+      {
+        "Ukraine": 5.61
+      },
+      {
+        "Lithuania": 1.34
+      },
+      {
+        "Germany": 1.22
+      },
+      {
+        "Russian Federation": 1.02
+      },
+      {
+        "Austria": 0.9
+      },
+      {
+        "Czechia": 0.72
+      },
+      {
+        "France": 0.58
+      },
+      {
+        "Italy": 0.42
+      },
+      {
+        "Greece": 0.29
+      },
+      {
+        "Serbia": 0.17
+      },
+      {
+        "Romania": 0.16
+      },
+      {
+        "Slovakia": 0.11
+      },
+      {
+        "Albania": 0.07
+      },
+      {
+        "Latvia": 0.07
+      },
+      {
+        "Hungary": 0.06
+      },
+      {
+        "Luxembourg": 0.04
+      },
+      {
+        "Bulgaria": 0.02
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "North Macedonia": 0.01
+      },
+      {
+        "Portugal": 0.0
+      },
+      {
+        "Slovenia": 0.0
+      }
+    ]
+  },
+  {
+    "Pumpkins, squash and gourds": [
+      {
+        "Ukraine": 30.22
+      },
+      {
+        "Russian Federation": 26.86
+      },
+      {
+        "Spain": 16.21
+      },
+      {
+        "Italy": 13.47
+      },
+      {
+        "Germany": 2.76
+      },
+      {
+        "Poland": 2.23
+      },
+      {
+        "France": 2.17
+      },
+      {
+        "Republic of Moldova": 1.41
+      },
+      {
+        "Romania": 0.76
+      },
+      {
+        "Austria": 0.61
+      },
+      {
+        "Bulgaria": 0.59
+      },
+      {
+        "Portugal": 0.56
+      },
+      {
+        "Netherlands": 0.52
+      },
+      {
+        "Albania": 0.42
+      },
+      {
+        "Hungary": 0.38
+      },
+      {
+        "Switzerland": 0.3
+      },
+      {
+        "Belgium": 0.21
+      },
+      {
+        "Latvia": 0.14
+      },
+      {
+        "Finland": 0.05
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Lithuania": 0.03
+      },
+      {
+        "Malta": 0.03
+      },
+      {
+        "Greece": 0.02
+      },
+      {
+        "Denmark": 0.0
+      }
+    ]
+  },
+  {
+    "Quinces": [
+      {
+        "Serbia": 16.98
+      },
+      {
+        "Spain": 12.86
+      },
+      {
+        "Ukraine": 10.19
+      },
+      {
+        "Russian Federation": 9.1
+      },
+      {
+        "Romania": 8.89
+      },
+      {
+        "Portugal": 7.89
+      },
+      {
+        "Greece": 7.15
+      },
+      {
+        "Albania": 6.39
+      },
+      {
+        "Belgium": 4.68
+      },
+      {
+        "Republic of Moldova": 4.5
+      },
+      {
+        "Hungary": 3.73
+      },
+      {
+        "North Macedonia": 2.17
+      },
+      {
+        "Bosnia and Herzegovina": 1.98
+      },
+      {
+        "Italy": 1.29
+      },
+      {
+        "Switzerland": 0.64
+      },
+      {
+        "Bulgaria": 0.6
+      },
+      {
+        "Lithuania": 0.41
+      },
+      {
+        "Croatia": 0.3
+      },
+      {
+        "Latvia": 0.25
+      },
+      {
+        "Belarus": 0.0
+      }
+    ]
+  },
+  {
+    "Rice, paddy": [
+      {
+        "Italy": 37.59
+      },
+      {
+        "Russian Federation": 25.81
+      },
+      {
+        "Spain": 20.09
+      },
+      {
+        "Greece": 5.54
+      },
+      {
+        "Portugal": 3.99
+      },
+      {
+        "France": 1.82
+      },
+      {
+        "Ukraine": 1.72
+      },
+      {
+        "Bulgaria": 1.58
+      },
+      {
+        "Romania": 1.08
+      },
+      {
+        "North Macedonia": 0.49
+      },
+      {
+        "Hungary": 0.3
+      },
+      {
+        "Albania": 0.0
+      }
+    ]
+  },
+  {
+    "Rice, paddy (rice milled equivalent)": [
+      {
+        "Italy": 37.59
+      },
+      {
+        "Russian Federation": 25.81
+      },
+      {
+        "Spain": 20.09
+      },
+      {
+        "Greece": 5.54
+      },
+      {
+        "Portugal": 3.99
+      },
+      {
+        "France": 1.82
+      },
+      {
+        "Ukraine": 1.72
+      },
+      {
+        "Bulgaria": 1.58
+      },
+      {
+        "Romania": 1.08
+      },
+      {
+        "North Macedonia": 0.49
+      },
+      {
+        "Hungary": 0.3
+      },
+      {
+        "Albania": 0.0
+      }
+    ]
+  },
+  {
+    "Rye": [
+      {
+        "Germany": 24.11
+      },
+      {
+        "Poland": 23.73
+      },
+      {
+        "Russian Federation": 20.98
+      },
+      {
+        "Belarus": 5.5
+      },
+      {
+        "Denmark": 5.28
+      },
+      {
+        "Ukraine": 4.31
+      },
+      {
+        "Spain": 4.25
+      },
+      {
+        "Austria": 1.94
+      },
+      {
+        "Czechia": 1.32
+      },
+      {
+        "France": 1.21
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.04
+      },
+      {
+        "Sweden": 0.97
+      },
+      {
+        "Hungary": 0.92
+      },
+      {
+        "Latvia": 0.89
+      },
+      {
+        "Lithuania": 0.48
+      },
+      {
+        "Finland": 0.46
+      },
+      {
+        "Slovakia": 0.45
+      },
+      {
+        "Estonia": 0.32
+      },
+      {
+        "Romania": 0.31
+      },
+      {
+        "Greece": 0.21
+      },
+      {
+        "Portugal": 0.18
+      },
+      {
+        "Bulgaria": 0.15
+      },
+      {
+        "Serbia": 0.15
+      },
+      {
+        "Bosnia and Herzegovina": 0.12
+      },
+      {
+        "Italy": 0.12
+      },
+      {
+        "Switzerland": 0.11
+      },
+      {
+        "North Macedonia": 0.1
+      },
+      {
+        "Norway": 0.08
+      },
+      {
+        "Luxembourg": 0.07
+      },
+      {
+        "Netherlands": 0.05
+      },
+      {
+        "Slovenia": 0.05
+      },
+      {
+        "Croatia": 0.04
+      },
+      {
+        "Belgium": 0.03
+      },
+      {
+        "Albania": 0.02
+      },
+      {
+        "Ireland": 0.01
+      },
+      {
+        "Republic of Moldova": 0.01
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Seed cotton": [
+      {
+        "Greece": 84.03
+      },
+      {
+        "Spain": 15.65
+      },
+      {
+        "Bulgaria": 0.24
+      },
+      {
+        "Albania": 0.08
+      }
+    ]
+  },
+  {
+    "Sorghum": [
+      {
+        "France": 29.94
+      },
+      {
+        "Italy": 27.23
+      },
+      {
+        "Ukraine": 17.98
+      },
+      {
+        "Romania": 7.07
+      },
+      {
+        "Russian Federation": 4.55
+      },
+      {
+        "Hungary": 3.6
+      },
+      {
+        "Bulgaria": 3.35
+      },
+      {
+        "Austria": 2.56
+      },
+      {
+        "Spain": 2.37
+      },
+      {
+        "Serbia": 0.74
+      },
+      {
+        "Republic of Moldova": 0.43
+      },
+      {
+        "Slovakia": 0.16
+      },
+      {
+        "Croatia": 0.01
+      },
+      {
+        "Albania": 0.0
+      },
+      {
+        "Greece": 0.0
+      },
+      {
+        "North Macedonia": 0.0
+      }
+    ]
+  },
+  {
+    "Soybeans": [
+      {
+        "Ukraine": 37.0
+      },
+      {
+        "Russian Federation": 33.4
+      },
+      {
+        "Italy": 9.45
+      },
+      {
+        "Serbia": 5.36
+      },
+      {
+        "Romania": 3.86
+      },
+      {
+        "France": 3.32
+      },
+      {
+        "Croatia": 2.03
+      },
+      {
+        "Austria": 1.53
+      },
+      {
+        "Hungary": 1.48
+      },
+      {
+        "Slovakia": 0.87
+      },
+      {
+        "Germany": 0.49
+      },
+      {
+        "Republic of Moldova": 0.48
+      },
+      {
+        "Czechia": 0.21
+      },
+      {
+        "Bosnia and Herzegovina": 0.19
+      },
+      {
+        "Poland": 0.09
+      },
+      {
+        "Greece": 0.08
+      },
+      {
+        "Bulgaria": 0.04
+      },
+      {
+        "Slovenia": 0.04
+      },
+      {
+        "Spain": 0.04
+      },
+      {
+        "Switzerland": 0.04
+      },
+      {
+        "Albania": 0.01
+      },
+      {
+        "North Macedonia": 0.0
+      }
+    ]
+  },
+  {
+    "Spices nes": [
+      {
+        "Hungary": 47.45
+      },
+      {
+        "Spain": 39.97
+      },
+      {
+        "Bulgaria": 7.49
+      },
+      {
+        "Albania": 3.37
+      },
+      {
+        "North Macedonia": 1.72
+      },
+      {
+        "Portugal": 0.0
+      }
+    ]
+  },
+  {
+    "Spinach": [
+      {
+        "France": 18.54
+      },
+      {
+        "Italy": 14.87
+      },
+      {
+        "Greece": 12.63
+      },
+      {
+        "Belgium": 11.95
+      },
+      {
+        "Spain": 11.83
+      },
+      {
+        "Netherlands": 9.66
+      },
+      {
+        "Germany": 9.6
+      },
+      {
+        "Albania": 2.98
+      },
+      {
+        "Switzerland": 2.34
+      },
+      {
+        "Austria": 1.88
+      },
+      {
+        "Hungary": 1.37
+      },
+      {
+        "Portugal": 1.01
+      },
+      {
+        "Romania": 0.43
+      },
+      {
+        "Denmark": 0.26
+      },
+      {
+        "Czechia": 0.24
+      },
+      {
+        "Slovakia": 0.13
+      },
+      {
+        "Finland": 0.07
+      },
+      {
+        "Bulgaria": 0.05
+      },
+      {
+        "Slovenia": 0.04
+      },
+      {
+        "Sweden": 0.04
+      },
+      {
+        "Malta": 0.03
+      },
+      {
+        "Lithuania": 0.02
+      },
+      {
+        "North Macedonia": 0.02
+      },
+      {
+        "Ukraine": 0.01
+      }
+    ]
+  },
+  {
+    "Strawberries": [
+      {
+        "Spain": 20.51
+      },
+      {
+        "Russian Federation": 11.84
+      },
+      {
+        "Poland": 11.64
+      },
+      {
+        "Germany": 8.43
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 7.83
+      },
+      {
+        "Italy": 7.1
+      },
+      {
+        "Belarus": 4.73
+      },
+      {
+        "Netherlands": 3.86
+      },
+      {
+        "Ukraine": 3.71
+      },
+      {
+        "Greece": 3.53
+      },
+      {
+        "France": 3.22
+      },
+      {
+        "Belgium": 2.56
+      },
+      {
+        "Romania": 1.56
+      },
+      {
+        "Serbia": 1.29
+      },
+      {
+        "Sweden": 0.93
+      },
+      {
+        "Finland": 0.92
+      },
+      {
+        "Austria": 0.65
+      },
+      {
+        "Portugal": 0.63
+      },
+      {
+        "Republic of Moldova": 0.6
+      },
+      {
+        "Bosnia and Herzegovina": 0.58
+      },
+      {
+        "Switzerland": 0.55
+      },
+      {
+        "Norway": 0.47
+      },
+      {
+        "Denmark": 0.4
+      },
+      {
+        "North Macedonia": 0.36
+      },
+      {
+        "Ireland": 0.34
+      },
+      {
+        "Bulgaria": 0.29
+      },
+      {
+        "Hungary": 0.29
+      },
+      {
+        "Albania": 0.26
+      },
+      {
+        "Croatia": 0.16
+      },
+      {
+        "Czechia": 0.14
+      },
+      {
+        "Lithuania": 0.14
+      },
+      {
+        "Estonia": 0.12
+      },
+      {
+        "Slovenia": 0.12
+      },
+      {
+        "Malta": 0.09
+      },
+      {
+        "Latvia": 0.07
+      },
+      {
+        "Slovakia": 0.05
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Sugar beet": [
+      {
+        "Russian Federation": 22.72
+      },
+      {
+        "France": 21.38
+      },
+      {
+        "Germany": 14.15
+      },
+      {
+        "Poland": 7.73
+      },
+      {
+        "Ukraine": 7.55
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 4.12
+      },
+      {
+        "Netherlands": 3.52
+      },
+      {
+        "Belgium": 2.8
+      },
+      {
+        "Belarus": 2.6
+      },
+      {
+        "Czechia": 2.01
+      },
+      {
+        "Spain": 1.55
+      },
+      {
+        "Serbia": 1.26
+      },
+      {
+        "Austria": 1.16
+      },
+      {
+        "Denmark": 1.14
+      },
+      {
+        "Italy": 1.05
+      },
+      {
+        "Sweden": 0.92
+      },
+      {
+        "Switzerland": 0.88
+      },
+      {
+        "Slovakia": 0.71
+      },
+      {
+        "Romania": 0.53
+      },
+      {
+        "Hungary": 0.51
+      },
+      {
+        "Lithuania": 0.48
+      },
+      {
+        "Croatia": 0.42
+      },
+      {
+        "Republic of Moldova": 0.38
+      },
+      {
+        "Finland": 0.19
+      },
+      {
+        "Greece": 0.19
+      },
+      {
+        "Ireland": 0.04
+      },
+      {
+        "Albania": 0.01
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      },
+      {
+        "Latvia": 0.0
+      },
+      {
+        "North Macedonia": 0.0
+      },
+      {
+        "Portugal": 0.0
+      }
+    ]
+  },
+  {
+    "Sunflower seed": [
+      {
+        "Ukraine": 36.86
+      },
+      {
+        "Russian Federation": 33.19
+      },
+      {
+        "Romania": 7.97
+      },
+      {
+        "Bulgaria": 5.01
+      },
+      {
+        "Hungary": 4.77
+      },
+      {
+        "France": 3.25
+      },
+      {
+        "Spain": 2.47
+      },
+      {
+        "Republic of Moldova": 2.05
+      },
+      {
+        "Serbia": 1.91
+      },
+      {
+        "Italy": 0.65
+      },
+      {
+        "Greece": 0.57
+      },
+      {
+        "Slovakia": 0.52
+      },
+      {
+        "Croatia": 0.29
+      },
+      {
+        "Austria": 0.16
+      },
+      {
+        "Czechia": 0.12
+      },
+      {
+        "Germany": 0.08
+      },
+      {
+        "Portugal": 0.04
+      },
+      {
+        "Poland": 0.03
+      },
+      {
+        "Switzerland": 0.03
+      },
+      {
+        "North Macedonia": 0.01
+      },
+      {
+        "Albania": 0.0
+      },
+      {
+        "Belarus": 0.0
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      },
+      {
+        "Slovenia": 0.0
+      }
+    ]
+  },
+  {
+    "Tangerines, mandarins, clementines, satsumas": [
+      {
+        "Spain": 65.41
+      },
+      {
+        "Italy": 23.13
+      },
+      {
+        "Greece": 5.76
+      },
+      {
+        "France": 1.6
+      },
+      {
+        "Croatia": 1.58
+      },
+      {
+        "Portugal": 1.39
+      },
+      {
+        "Albania": 1.02
+      },
+      {
+        "Montenegro": 0.1
+      },
+      {
+        "Bosnia and Herzegovina": 0.0
+      },
+      {
+        "Malta": 0.0
+      }
+    ]
+  },
+  {
+    "Tobacco, unmanufactured": [
+      {
+        "Italy": 27.13
+      },
+      {
+        "Poland": 15.18
+      },
+      {
+        "Spain": 11.89
+      },
+      {
+        "North Macedonia": 11.69
+      },
+      {
+        "Greece": 10.4
+      },
+      {
+        "Bulgaria": 3.95
+      },
+      {
+        "Croatia": 3.46
+      },
+      {
+        "Serbia": 3.28
+      },
+      {
+        "France": 3.22
+      },
+      {
+        "Germany": 2.77
+      },
+      {
+        "Hungary": 2.74
+      },
+      {
+        "Bosnia and Herzegovina": 1.24
+      },
+      {
+        "Albania": 0.77
+      },
+      {
+        "Ukraine": 0.59
+      },
+      {
+        "Romania": 0.58
+      },
+      {
+        "Switzerland": 0.46
+      },
+      {
+        "Republic of Moldova": 0.32
+      },
+      {
+        "Montenegro": 0.11
+      },
+      {
+        "Portugal": 0.11
+      },
+      {
+        "Belgium": 0.06
+      },
+      {
+        "Austria": 0.05
+      },
+      {
+        "Russian Federation": 0.0
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Tomatoes": [
+      {
+        "Italy": 24.89
+      },
+      {
+        "Spain": 20.47
+      },
+      {
+        "Russian Federation": 12.45
+      },
+      {
+        "Ukraine": 9.98
+      },
+      {
+        "Portugal": 5.71
+      },
+      {
+        "Poland": 3.99
+      },
+      {
+        "Netherlands": 3.91
+      },
+      {
+        "Greece": 3.59
+      },
+      {
+        "Romania": 3.19
+      },
+      {
+        "France": 3.06
+      },
+      {
+        "Albania": 1.24
+      },
+      {
+        "Belarus": 1.22
+      },
+      {
+        "Belgium": 1.11
+      },
+      {
+        "Hungary": 0.88
+      },
+      {
+        "North Macedonia": 0.69
+      },
+      {
+        "Bulgaria": 0.64
+      },
+      {
+        "Serbia": 0.57
+      },
+      {
+        "Germany": 0.44
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.29
+      },
+      {
+        "Austria": 0.25
+      },
+      {
+        "Republic of Moldova": 0.22
+      },
+      {
+        "Bosnia and Herzegovina": 0.19
+      },
+      {
+        "Switzerland": 0.19
+      },
+      {
+        "Finland": 0.17
+      },
+      {
+        "Croatia": 0.13
+      },
+      {
+        "Slovakia": 0.1
+      },
+      {
+        "Sweden": 0.08
+      },
+      {
+        "Denmark": 0.05
+      },
+      {
+        "Lithuania": 0.05
+      },
+      {
+        "Malta": 0.05
+      },
+      {
+        "Norway": 0.05
+      },
+      {
+        "Czechia": 0.04
+      },
+      {
+        "Slovenia": 0.04
+      },
+      {
+        "Ireland": 0.02
+      },
+      {
+        "Latvia": 0.02
+      },
+      {
+        "Montenegro": 0.02
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "Iceland": 0.01
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Vegetables, fresh nes": [
+      {
+        "Russian Federation": 21.32
+      },
+      {
+        "Italy": 19.91
+      },
+      {
+        "France": 9.24
+      },
+      {
+        "Ukraine": 8.98
+      },
+      {
+        "Poland": 8.28
+      },
+      {
+        "Bosnia and Herzegovina": 5.3
+      },
+      {
+        "Germany": 3.91
+      },
+      {
+        "Belarus": 3.46
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 3.16
+      },
+      {
+        "Netherlands": 3.08
+      },
+      {
+        "Spain": 2.63
+      },
+      {
+        "Belgium": 1.67
+      },
+      {
+        "Portugal": 1.49
+      },
+      {
+        "Hungary": 0.95
+      },
+      {
+        "Greece": 0.81
+      },
+      {
+        "Switzerland": 0.54
+      },
+      {
+        "Lithuania": 0.47
+      },
+      {
+        "Czechia": 0.46
+      },
+      {
+        "Bulgaria": 0.41
+      },
+      {
+        "Sweden": 0.4
+      },
+      {
+        "Austria": 0.39
+      },
+      {
+        "Malta": 0.31
+      },
+      {
+        "Ireland": 0.29
+      },
+      {
+        "Serbia": 0.28
+      },
+      {
+        "North Macedonia": 0.27
+      },
+      {
+        "Republic of Moldova": 0.26
+      },
+      {
+        "Finland": 0.23
+      },
+      {
+        "Latvia": 0.23
+      },
+      {
+        "Denmark": 0.21
+      },
+      {
+        "Romania": 0.21
+      },
+      {
+        "Albania": 0.19
+      },
+      {
+        "Croatia": 0.18
+      },
+      {
+        "Slovenia": 0.15
+      },
+      {
+        "Norway": 0.14
+      },
+      {
+        "Estonia": 0.11
+      },
+      {
+        "Slovakia": 0.05
+      },
+      {
+        "Luxembourg": 0.0
+      }
+    ]
+  },
+  {
+    "Vegetables, leguminous nes": [
+      {
+        "Spain": 28.53
+      },
+      {
+        "Italy": 26.08
+      },
+      {
+        "Greece": 8.08
+      },
+      {
+        "Poland": 7.93
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 7.88
+      },
+      {
+        "Portugal": 7.71
+      },
+      {
+        "France": 6.01
+      },
+      {
+        "Netherlands": 2.13
+      },
+      {
+        "Germany": 1.72
+      },
+      {
+        "Malta": 1.22
+      },
+      {
+        "Bulgaria": 0.93
+      },
+      {
+        "Romania": 0.42
+      },
+      {
+        "Montenegro": 0.28
+      },
+      {
+        "Ukraine": 0.27
+      },
+      {
+        "Austria": 0.23
+      },
+      {
+        "Czechia": 0.21
+      },
+      {
+        "Russian Federation": 0.18
+      },
+      {
+        "Slovakia": 0.1
+      },
+      {
+        "Albania": 0.05
+      },
+      {
+        "Switzerland": 0.04
+      },
+      {
+        "Ireland": 0.0
+      },
+      {
+        "Lithuania": 0.0
+      }
+    ]
+  },
+  {
+    "Vetches": [
+      {
+        "Russian Federation": 39.5
+      },
+      {
+        "Spain": 34.31
+      },
+      {
+        "Belarus": 8.38
+      },
+      {
+        "Serbia": 7.09
+      },
+      {
+        "Italy": 2.32
+      },
+      {
+        "Ukraine": 1.88
+      },
+      {
+        "Greece": 1.38
+      },
+      {
+        "Bosnia and Herzegovina": 1.28
+      },
+      {
+        "Poland": 1.24
+      },
+      {
+        "Austria": 0.83
+      },
+      {
+        "North Macedonia": 0.73
+      },
+      {
+        "Albania": 0.51
+      },
+      {
+        "Bulgaria": 0.17
+      },
+      {
+        "Malta": 0.16
+      },
+      {
+        "Lithuania": 0.06
+      },
+      {
+        "Slovakia": 0.06
+      },
+      {
+        "Latvia": 0.05
+      },
+      {
+        "Czechia": 0.02
+      },
+      {
+        "Republic of Moldova": 0.02
+      },
+      {
+        "Hungary": 0.0
+      }
+    ]
+  },
+  {
+    "Watermelons": [
+      {
+        "Russian Federation": 31.75
+      },
+      {
+        "Spain": 17.61
+      },
+      {
+        "Greece": 10.17
+      },
+      {
+        "Italy": 9.37
+      },
+      {
+        "Romania": 8.41
+      },
+      {
+        "Ukraine": 6.4
+      },
+      {
+        "Albania": 3.86
+      },
+      {
+        "Serbia": 3.21
+      },
+      {
+        "Hungary": 2.84
+      },
+      {
+        "North Macedonia": 2.13
+      },
+      {
+        "Bulgaria": 1.53
+      },
+      {
+        "Republic of Moldova": 0.72
+      },
+      {
+        "Croatia": 0.52
+      },
+      {
+        "Portugal": 0.42
+      },
+      {
+        "Bosnia and Herzegovina": 0.37
+      },
+      {
+        "Montenegro": 0.29
+      },
+      {
+        "France": 0.28
+      },
+      {
+        "Malta": 0.05
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Austria": 0.02
+      }
+    ]
+  },
+  {
+    "Wheat": [
+      {
+        "Russian Federation": 29.79
+      },
+      {
+        "France": 14.78
+      },
+      {
+        "Ukraine": 10.18
+      },
+      {
+        "Germany": 8.37
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 5.6
+      },
+      {
+        "Romania": 4.19
+      },
+      {
+        "Poland": 4.06
+      },
+      {
+        "Spain": 3.3
+      },
+      {
+        "Italy": 2.86
+      },
+      {
+        "Bulgaria": 2.41
+      },
+      {
+        "Hungary": 2.17
+      },
+      {
+        "Czechia": 1.82
+      },
+      {
+        "Serbia": 1.21
+      },
+      {
+        "Lithuania": 1.17
+      },
+      {
+        "Denmark": 1.1
+      },
+      {
+        "Slovakia": 0.8
+      },
+      {
+        "Belarus": 0.75
+      },
+      {
+        "Belgium": 0.68
+      },
+      {
+        "Sweden": 0.67
+      },
+      {
+        "Latvia": 0.59
+      },
+      {
+        "Austria": 0.57
+      },
+      {
+        "Republic of Moldova": 0.48
+      },
+      {
+        "Greece": 0.44
+      },
+      {
+        "Netherlands": 0.41
+      },
+      {
+        "Croatia": 0.31
+      },
+      {
+        "Ireland": 0.21
+      },
+      {
+        "Switzerland": 0.21
+      },
+      {
+        "Finland": 0.2
+      },
+      {
+        "Estonia": 0.19
+      },
+      {
+        "Bosnia and Herzegovina": 0.12
+      },
+      {
+        "Albania": 0.1
+      },
+      {
+        "North Macedonia": 0.1
+      },
+      {
+        "Norway": 0.05
+      },
+      {
+        "Slovenia": 0.05
+      },
+      {
+        "Luxembourg": 0.03
+      },
+      {
+        "Portugal": 0.03
+      },
+      {
+        "Malta": 0.01
+      },
+      {
+        "Montenegro": 0.0
+      }
+    ]
+  },
+  {
+    "Asparagus": [
+      {
+        "Germany": 40.05
+      },
+      {
+        "Spain": 20.6
+      },
+      {
+        "Italy": 14.75
+      },
+      {
+        "France": 6.24
+      },
+      {
+        "Netherlands": 5.72
+      },
+      {
+        "Greece": 2.86
+      },
+      {
+        "Bulgaria": 2.02
+      },
+      {
+        "Hungary": 1.72
+      },
+      {
+        "Belgium": 1.61
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.5
+      },
+      {
+        "Austria": 0.93
+      },
+      {
+        "Poland": 0.87
+      },
+      {
+        "North Macedonia": 0.24
+      },
+      {
+        "Switzerland": 0.24
+      },
+      {
+        "Czechia": 0.18
+      },
+      {
+        "Lithuania": 0.15
+      },
+      {
+        "Denmark": 0.13
+      },
+      {
+        "Slovakia": 0.12
+      },
+      {
+        "Slovenia": 0.07
+      },
+      {
+        "Finland": 0.0
+      }
+    ]
+  },
+  {
+    "Berries nes": [
+      {
+        "Poland": 33.96
+      },
+      {
+        "Italy": 29.61
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 6.51
+      },
+      {
+        "Spain": 5.52
+      },
+      {
+        "Lithuania": 4.88
+      },
+      {
+        "Germany": 4.27
+      },
+      {
+        "Russian Federation": 2.33
+      },
+      {
+        "Romania": 1.79
+      },
+      {
+        "Serbia": 1.75
+      },
+      {
+        "Croatia": 1.15
+      },
+      {
+        "Estonia": 1.06
+      },
+      {
+        "Ukraine": 1.06
+      },
+      {
+        "Slovenia": 0.84
+      },
+      {
+        "Austria": 0.83
+      },
+      {
+        "Netherlands": 0.82
+      },
+      {
+        "Portugal": 0.66
+      },
+      {
+        "Czechia": 0.62
+      },
+      {
+        "Greece": 0.49
+      },
+      {
+        "Bosnia and Herzegovina": 0.46
+      },
+      {
+        "Montenegro": 0.29
+      },
+      {
+        "Latvia": 0.2
+      },
+      {
+        "Belgium": 0.18
+      },
+      {
+        "Bulgaria": 0.17
+      },
+      {
+        "Finland": 0.15
+      },
+      {
+        "Ireland": 0.12
+      },
+      {
+        "Malta": 0.07
+      },
+      {
+        "Switzerland": 0.07
+      },
+      {
+        "Norway": 0.06
+      },
+      {
+        "Slovakia": 0.06
+      },
+      {
+        "Iceland": 0.01
+      },
+      {
+        "Sweden": 0.01
+      }
+    ]
+  },
+  {
+    "Buckwheat": [
+      {
+        "Russian Federation": 63.9
+      },
+      {
+        "France": 12.9
+      },
+      {
+        "Ukraine": 9.4
+      },
+      {
+        "Poland": 6.42
+      },
+      {
+        "Lithuania": 3.66
+      },
+      {
+        "Latvia": 1.74
+      },
+      {
+        "Belarus": 1.27
+      },
+      {
+        "Slovenia": 0.22
+      },
+      {
+        "Czechia": 0.15
+      },
+      {
+        "Estonia": 0.1
+      },
+      {
+        "Bosnia and Herzegovina": 0.09
+      },
+      {
+        "Hungary": 0.06
+      },
+      {
+        "Croatia": 0.04
+      },
+      {
+        "Slovakia": 0.04
+      },
+      {
+        "Austria": 0.0
+      },
+      {
+        "Republic of Moldova": 0.0
+      }
+    ]
+  },
+  {
+    "Cereals nes": [
+      {
+        "France": 36.36
+      },
+      {
+        "Italy": 21.75
+      },
+      {
+        "Greece": 9.91
+      },
+      {
+        "Austria": 8.16
+      },
+      {
+        "Belarus": 4.11
+      },
+      {
+        "Russian Federation": 3.85
+      },
+      {
+        "Spain": 3.08
+      },
+      {
+        "Serbia": 2.28
+      },
+      {
+        "Hungary": 1.76
+      },
+      {
+        "Czechia": 1.68
+      },
+      {
+        "Poland": 1.56
+      },
+      {
+        "Ukraine": 1.54
+      },
+      {
+        "Croatia": 1.32
+      },
+      {
+        "Romania": 1.14
+      },
+      {
+        "Finland": 0.71
+      },
+      {
+        "Bulgaria": 0.24
+      },
+      {
+        "Ireland": 0.23
+      },
+      {
+        "Slovenia": 0.19
+      },
+      {
+        "Luxembourg": 0.07
+      },
+      {
+        "Lithuania": 0.02
+      },
+      {
+        "Slovakia": 0.02
+      },
+      {
+        "Switzerland": 0.02
+      }
+    ]
+  },
+  {
+    "Currants": [
+      {
+        "Russian Federation": 61.41
+      },
+      {
+        "Poland": 25.4
+      },
+      {
+        "Ukraine": 4.57
+      },
+      {
+        "Germany": 2.48
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.42
+      },
+      {
+        "Austria": 0.83
+      },
+      {
+        "Hungary": 0.63
+      },
+      {
+        "Czechia": 0.29
+      },
+      {
+        "Netherlands": 0.29
+      },
+      {
+        "Denmark": 0.28
+      },
+      {
+        "France": 0.26
+      },
+      {
+        "Finland": 0.22
+      },
+      {
+        "Italy": 0.14
+      },
+      {
+        "Spain": 0.14
+      },
+      {
+        "Belgium": 0.13
+      },
+      {
+        "Estonia": 0.11
+      },
+      {
+        "Norway": 0.1
+      },
+      {
+        "Latvia": 0.08
+      },
+      {
+        "Republic of Moldova": 0.06
+      },
+      {
+        "Sweden": 0.04
+      },
+      {
+        "Ireland": 0.03
+      },
+      {
+        "Slovakia": 0.02
+      },
+      {
+        "Switzerland": 0.02
+      },
+      {
+        "North Macedonia": 0.01
+      },
+      {
+        "Romania": 0.01
+      },
+      {
+        "Bulgaria": 0.0
+      },
+      {
+        "Slovenia": 0.0
+      }
+    ]
+  },
+  {
+    "Flax fibre and tow": [
+      {
+        "France": 78.47
+      },
+      {
+        "Belgium": 9.62
+      },
+      {
+        "Belarus": 4.7
+      },
+      {
+        "Russian Federation": 4.36
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.47
+      },
+      {
+        "Netherlands": 1.04
+      },
+      {
+        "Italy": 0.19
+      },
+      {
+        "Ukraine": 0.08
+      },
+      {
+        "Latvia": 0.02
+      },
+      {
+        "Bulgaria": 0.01
+      },
+      {
+        "Poland": 0.01
+      },
+      {
+        "Romania": 0.01
+      },
+      {
+        "Slovakia": 0.01
+      },
+      {
+        "Croatia": 0.0
+      },
+      {
+        "Czechia": 0.0
+      },
+      {
+        "Lithuania": 0.0
+      },
+      {
+        "Spain": 0.0
+      }
+    ]
+  },
+  {
+    "Gooseberries": [
+      {
+        "Germany": 49.04
+      },
+      {
+        "Russian Federation": 37.62
+      },
+      {
+        "Poland": 6.55
+      },
+      {
+        "Ukraine": 4.62
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.16
+      },
+      {
+        "Hungary": 0.38
+      },
+      {
+        "Switzerland": 0.25
+      },
+      {
+        "Belgium": 0.15
+      },
+      {
+        "Estonia": 0.06
+      },
+      {
+        "Austria": 0.05
+      },
+      {
+        "Republic of Moldova": 0.04
+      },
+      {
+        "Latvia": 0.03
+      },
+      {
+        "Finland": 0.02
+      },
+      {
+        "Spain": 0.02
+      },
+      {
+        "Czechia": 0.01
+      },
+      {
+        "Denmark": 0.0
+      },
+      {
+        "Lithuania": 0.0
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Grain, mixed": [
+      {
+        "Poland": 79.43
+      },
+      {
+        "France": 11.46
+      },
+      {
+        "Germany": 1.59
+      },
+      {
+        "Finland": 1.23
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 1.0
+      },
+      {
+        "Spain": 0.82
+      },
+      {
+        "Sweden": 0.7
+      },
+      {
+        "Lithuania": 0.64
+      },
+      {
+        "Denmark": 0.61
+      },
+      {
+        "Belgium": 0.47
+      },
+      {
+        "Serbia": 0.41
+      },
+      {
+        "Latvia": 0.33
+      },
+      {
+        "Austria": 0.27
+      },
+      {
+        "Croatia": 0.24
+      },
+      {
+        "Ukraine": 0.19
+      },
+      {
+        "Greece": 0.16
+      },
+      {
+        "Czechia": 0.15
+      },
+      {
+        "Slovenia": 0.14
+      },
+      {
+        "Republic of Moldova": 0.07
+      },
+      {
+        "Estonia": 0.04
+      },
+      {
+        "Switzerland": 0.04
+      },
+      {
+        "Luxembourg": 0.02
+      }
+    ]
+  },
+  {
+    "Hemp tow waste": [
+      {
+        "Netherlands": 47.81
+      },
+      {
+        "Italy": 15.98
+      },
+      {
+        "Austria": 11.69
+      },
+      {
+        "Romania": 9.91
+      },
+      {
+        "France": 4.43
+      },
+      {
+        "Russian Federation": 4.34
+      },
+      {
+        "Ukraine": 2.43
+      },
+      {
+        "Czechia": 2.17
+      },
+      {
+        "Hungary": 1.0
+      },
+      {
+        "Poland": 0.18
+      },
+      {
+        "Spain": 0.07
+      }
+    ]
+  },
+  {
+    "Linseed": [
+      {
+        "Russian Federation": 77.35
+      },
+      {
+        "France": 6.45
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 5.96
+      },
+      {
+        "Ukraine": 3.33
+      },
+      {
+        "Belgium": 1.53
+      },
+      {
+        "Poland": 0.97
+      },
+      {
+        "Belarus": 0.96
+      },
+      {
+        "Germany": 0.92
+      },
+      {
+        "Sweden": 0.55
+      },
+      {
+        "Romania": 0.44
+      },
+      {
+        "Italy": 0.28
+      },
+      {
+        "Czechia": 0.24
+      },
+      {
+        "Hungary": 0.23
+      },
+      {
+        "Austria": 0.21
+      },
+      {
+        "Netherlands": 0.21
+      },
+      {
+        "Slovakia": 0.17
+      },
+      {
+        "Lithuania": 0.09
+      },
+      {
+        "Switzerland": 0.05
+      },
+      {
+        "Denmark": 0.02
+      },
+      {
+        "Bulgaria": 0.01
+      },
+      {
+        "Estonia": 0.01
+      },
+      {
+        "Latvia": 0.01
+      },
+      {
+        "Spain": 0.0
+      }
+    ]
+  },
+  {
+    "Lupins": [
+      {
+        "Russian Federation": 39.87
+      },
+      {
+        "Poland": 36.35
+      },
+      {
+        "Germany": 6.52
+      },
+      {
+        "Greece": 5.45
+      },
+      {
+        "Ukraine": 4.4
+      },
+      {
+        "France": 2.05
+      },
+      {
+        "Belarus": 1.59
+      },
+      {
+        "Italy": 1.38
+      },
+      {
+        "Spain": 0.81
+      },
+      {
+        "Lithuania": 0.74
+      },
+      {
+        "Slovakia": 0.4
+      },
+      {
+        "Latvia": 0.15
+      },
+      {
+        "Hungary": 0.12
+      },
+      {
+        "Austria": 0.08
+      },
+      {
+        "Switzerland": 0.08
+      },
+      {
+        "Portugal": 0.0
+      }
+    ]
+  },
+  {
+    "Maize, green": [
+      {
+        "Croatia": 36.81
+      },
+      {
+        "Greece": 22.42
+      },
+      {
+        "Hungary": 17.94
+      },
+      {
+        "France": 16.14
+      },
+      {
+        "Ukraine": 2.08
+      },
+      {
+        "Poland": 1.77
+      },
+      {
+        "Serbia": 1.1
+      },
+      {
+        "Romania": 0.54
+      },
+      {
+        "Austria": 0.47
+      },
+      {
+        "Slovakia": 0.37
+      },
+      {
+        "Republic of Moldova": 0.16
+      },
+      {
+        "Bulgaria": 0.12
+      },
+      {
+        "Switzerland": 0.04
+      },
+      {
+        "Bosnia and Herzegovina": 0.03
+      },
+      {
+        "Norway": 0.01
+      },
+      {
+        "North Macedonia": 0.0
+      }
+    ]
+  },
+  {
+    "Millet": [
+      {
+        "Russian Federation": 53.56
+      },
+      {
+        "Ukraine": 19.84
+      },
+      {
+        "France": 10.09
+      },
+      {
+        "Poland": 5.41
+      },
+      {
+        "Belarus": 4.91
+      },
+      {
+        "Austria": 2.68
+      },
+      {
+        "Bulgaria": 1.21
+      },
+      {
+        "Hungary": 0.84
+      },
+      {
+        "Spain": 0.43
+      },
+      {
+        "Slovakia": 0.28
+      },
+      {
+        "Czechia": 0.25
+      },
+      {
+        "Switzerland": 0.23
+      },
+      {
+        "Slovenia": 0.14
+      },
+      {
+        "Croatia": 0.05
+      },
+      {
+        "Greece": 0.03
+      },
+      {
+        "Serbia": 0.03
+      },
+      {
+        "North Macedonia": 0.01
+      },
+      {
+        "Republic of Moldova": 0.0
+      }
+    ]
+  },
+  {
+    "Oilseeds nes": [
+      {
+        "Italy": 27.74
+      },
+      {
+        "Ukraine": 19.3
+      },
+      {
+        "Poland": 11.59
+      },
+      {
+        "Russian Federation": 11.31
+      },
+      {
+        "Portugal": 6.89
+      },
+      {
+        "Hungary": 5.77
+      },
+      {
+        "Austria": 5.34
+      },
+      {
+        "France": 4.71
+      },
+      {
+        "Lithuania": 2.77
+      },
+      {
+        "Croatia": 1.34
+      },
+      {
+        "Bulgaria": 1.27
+      },
+      {
+        "Serbia": 0.6
+      },
+      {
+        "Slovakia": 0.6
+      },
+      {
+        "Latvia": 0.55
+      },
+      {
+        "Czechia": 0.19
+      },
+      {
+        "Switzerland": 0.01
+      }
+    ]
+  },
+  {
+    "Peas, dry": [
+      {
+        "Russian Federation": 43.92
+      },
+      {
+        "Ukraine": 14.78
+      },
+      {
+        "France": 11.74
+      },
+      {
+        "Spain": 5.0
+      },
+      {
+        "Lithuania": 4.07
+      },
+      {
+        "Germany": 3.76
+      },
+      {
+        "Romania": 3.25
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.03
+      },
+      {
+        "Poland": 1.37
+      },
+      {
+        "Czechia": 1.34
+      },
+      {
+        "Belarus": 1.11
+      },
+      {
+        "Bulgaria": 1.03
+      },
+      {
+        "Estonia": 1.02
+      },
+      {
+        "Italy": 0.96
+      },
+      {
+        "Sweden": 0.92
+      },
+      {
+        "Hungary": 0.61
+      },
+      {
+        "Republic of Moldova": 0.61
+      },
+      {
+        "Latvia": 0.43
+      },
+      {
+        "Denmark": 0.39
+      },
+      {
+        "Finland": 0.38
+      },
+      {
+        "Austria": 0.31
+      },
+      {
+        "Slovakia": 0.31
+      },
+      {
+        "Switzerland": 0.31
+      },
+      {
+        "Belgium": 0.05
+      },
+      {
+        "Netherlands": 0.05
+      },
+      {
+        "North Macedonia": 0.05
+      },
+      {
+        "Norway": 0.05
+      },
+      {
+        "Bosnia and Herzegovina": 0.03
+      },
+      {
+        "Ireland": 0.03
+      },
+      {
+        "Montenegro": 0.03
+      },
+      {
+        "Luxembourg": 0.02
+      },
+      {
+        "Slovenia": 0.02
+      },
+      {
+        "Croatia": 0.01
+      },
+      {
+        "Greece": 0.01
+      }
+    ]
+  },
+  {
+    "Poppy seed": [
+      {
+        "Czechia": 28.54
+      },
+      {
+        "Spain": 25.82
+      },
+      {
+        "France": 9.43
+      },
+      {
+        "Hungary": 7.94
+      },
+      {
+        "Croatia": 6.27
+      },
+      {
+        "Germany": 6.0
+      },
+      {
+        "Slovakia": 5.64
+      },
+      {
+        "Austria": 3.29
+      },
+      {
+        "Romania": 2.77
+      },
+      {
+        "Serbia": 2.2
+      },
+      {
+        "Bulgaria": 1.29
+      },
+      {
+        "Netherlands": 0.74
+      },
+      {
+        "North Macedonia": 0.08
+      }
+    ]
+  },
+  {
+    "Rapeseed": [
+      {
+        "France": 19.4
+      },
+      {
+        "Germany": 14.4
+      },
+      {
+        "Ukraine": 10.79
+      },
+      {
+        "Poland": 8.64
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 7.89
+      },
+      {
+        "Russian Federation": 7.8
+      },
+      {
+        "Romania": 6.32
+      },
+      {
+        "Czechia": 5.53
+      },
+      {
+        "Hungary": 3.92
+      },
+      {
+        "Denmark": 1.92
+      },
+      {
+        "Slovakia": 1.88
+      },
+      {
+        "Bulgaria": 1.85
+      },
+      {
+        "Belarus": 1.79
+      },
+      {
+        "Lithuania": 1.7
+      },
+      {
+        "Latvia": 0.9
+      },
+      {
+        "Sweden": 0.85
+      },
+      {
+        "Spain": 0.69
+      },
+      {
+        "Croatia": 0.61
+      },
+      {
+        "Serbia": 0.53
+      },
+      {
+        "Austria": 0.47
+      },
+      {
+        "Estonia": 0.45
+      },
+      {
+        "Republic of Moldova": 0.34
+      },
+      {
+        "Switzerland": 0.32
+      },
+      {
+        "Finland": 0.28
+      },
+      {
+        "Belgium": 0.17
+      },
+      {
+        "Ireland": 0.16
+      },
+      {
+        "Italy": 0.15
+      },
+      {
+        "Greece": 0.06
+      },
+      {
+        "Bosnia and Herzegovina": 0.04
+      },
+      {
+        "Luxembourg": 0.04
+      },
+      {
+        "Norway": 0.03
+      },
+      {
+        "Slovenia": 0.03
+      },
+      {
+        "Netherlands": 0.02
+      },
+      {
+        "North Macedonia": 0.02
+      }
+    ]
+  },
+  {
+    "Raspberries": [
+      {
+        "Russian Federation": 27.92
+      },
+      {
+        "Serbia": 21.39
+      },
+      {
+        "Poland": 19.47
+      },
+      {
+        "Spain": 7.36
+      },
+      {
+        "Ukraine": 5.92
+      },
+      {
+        "Bosnia and Herzegovina": 4.63
+      },
+      {
+        "Portugal": 3.07
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 2.54
+      },
+      {
+        "Bulgaria": 1.25
+      },
+      {
+        "Germany": 1.15
+      },
+      {
+        "Netherlands": 1.14
+      },
+      {
+        "France": 0.84
+      },
+      {
+        "Switzerland": 0.53
+      },
+      {
+        "Norway": 0.44
+      },
+      {
+        "Republic of Moldova": 0.44
+      },
+      {
+        "Belgium": 0.39
+      },
+      {
+        "Italy": 0.34
+      },
+      {
+        "Lithuania": 0.27
+      },
+      {
+        "Hungary": 0.19
+      },
+      {
+        "Finland": 0.16
+      },
+      {
+        "Austria": 0.11
+      },
+      {
+        "Montenegro": 0.08
+      },
+      {
+        "Sweden": 0.08
+      },
+      {
+        "Estonia": 0.06
+      },
+      {
+        "Ireland": 0.05
+      },
+      {
+        "Latvia": 0.04
+      },
+      {
+        "North Macedonia": 0.04
+      },
+      {
+        "Denmark": 0.03
+      },
+      {
+        "Romania": 0.03
+      },
+      {
+        "Croatia": 0.02
+      },
+      {
+        "Czechia": 0.02
+      },
+      {
+        "Luxembourg": 0.0
+      },
+      {
+        "Slovakia": 0.0
+      },
+      {
+        "Slovenia": 0.0
+      }
+    ]
+  },
+  {
+    "Triticale": [
+      {
+        "Poland": 35.59
+      },
+      {
+        "Germany": 16.86
+      },
+      {
+        "France": 12.04
+      },
+      {
+        "Belarus": 8.84
+      },
+      {
+        "Spain": 5.65
+      },
+      {
+        "Russian Federation": 3.49
+      },
+      {
+        "Romania": 2.94
+      },
+      {
+        "Hungary": 2.88
+      },
+      {
+        "Austria": 2.43
+      },
+      {
+        "Czechia": 1.5
+      },
+      {
+        "Lithuania": 1.34
+      },
+      {
+        "Serbia": 0.99
+      },
+      {
+        "Sweden": 0.58
+      },
+      {
+        "Croatia": 0.54
+      },
+      {
+        "Italy": 0.52
+      },
+      {
+        "Bosnia and Herzegovina": 0.5
+      },
+      {
+        "Switzerland": 0.41
+      },
+      {
+        "United Kingdom of Great Britain and Northern Ireland": 0.37
+      },
+      {
+        "Bulgaria": 0.35
+      },
+      {
+        "Denmark": 0.33
+      },
+      {
+        "Greece": 0.33
+      },
+      {
+        "Belgium": 0.28
+      },
+      {
+        "Slovakia": 0.28
+      },
+      {
+        "Portugal": 0.25
+      },
+      {
+        "Luxembourg": 0.23
+      },
+      {
+        "Slovenia": 0.21
+      },
+      {
+        "Latvia": 0.12
+      },
+      {
+        "Estonia": 0.1
+      },
+      {
+        "Netherlands": 0.05
+      },
+      {
+        "Norway": 0.01
+      }
+    ]
+  },
+  {
+    "Walnuts, with shell": [
+      {
+        "Ukraine": 32.41
+      },
+      {
+        "Romania": 14.28
+      },
+      {
+        "France": 9.52
+      },
+      {
+        "Greece": 8.12
+      },
+      {
+        "Germany": 4.69
+      },
+      {
+        "Republic of Moldova": 4.65
+      },
+      {
+        "Belarus": 4.33
+      },
+      {
+        "Spain": 3.87
+      },
+      {
+        "Italy": 3.1
+      },
+      {
+        "Serbia": 2.49
+      },
+      {
+        "Poland": 2.16
+      },
+      {
+        "Bosnia and Herzegovina": 1.61
+      },
+      {
+        "Austria": 1.51
+      },
+      {
+        "Hungary": 1.47
+      },
+      {
+        "Bulgaria": 1.3
+      },
+      {
+        "North Macedonia": 1.23
+      },
+      {
+        "Portugal": 1.17
+      },
+      {
+        "Croatia": 0.94
+      },
+      {
+        "Switzerland": 0.65
+      },
+      {
+        "Slovenia": 0.19
+      },
+      {
+        "Montenegro": 0.17
+      },
+      {
+        "Belgium": 0.09
+      },
+      {
+        "Czechia": 0.04
+      },
+      {
+        "Luxembourg": 0.01
+      },
+      {
+        "Slovakia": 0.01
+      }
+    ]
+  },
+  {
+    "Cranberries": [
+      {
+        "Romania": 31.19
+      },
+      {
+        "Latvia": 18.46
+      },
+      {
+        "North Macedonia": 17.55
+      },
+      {
+        "Ukraine": 16.75
+      },
+      {
+        "Belarus": 11.49
+      },
+      {
+        "Bulgaria": 4.56
+      }
+    ]
+  },
+  {
+    "Fruit, pome nes": [
+      {
+        "Ukraine": 100.0
+      }
+    ]
+  },
+  {
+    "Hazelnuts, with shell": [
+      {
+        "Italy": 76.29
+      },
+      {
+        "France": 8.62
+      },
+      {
+        "Spain": 4.62
+      },
+      {
+        "Poland": 3.82
+      },
+      {
+        "Serbia": 3.12
+      },
+      {
+        "Croatia": 1.01
+      },
+      {
+        "Belarus": 0.73
+      },
+      {
+        "Romania": 0.6
+      },
+      {
+        "Greece": 0.47
+      },
+      {
+        "Bulgaria": 0.23
+      },
+      {
+        "Republic of Moldova": 0.15
+      },
+      {
+        "Portugal": 0.14
+      },
+      {
+        "Slovenia": 0.13
+      },
+      {
+        "Hungary": 0.08
+      },
+      {
+        "Ukraine": 0.01
+      },
+      {
+        "Denmark": 0.0
+      }
+    ]
+  },
+  {
+    "Lentils": [
+      {
+        "Russian Federation": 59.05
+      },
+      {
+        "France": 16.02
+      },
+      {
+        "Spain": 12.99
+      },
+      {
+        "Ukraine": 5.95
+      },
+      {
+        "Greece": 3.5
+      },
+      {
+        "Italy": 1.38
+      },
+      {
+        "Bulgaria": 0.97
+      },
+      {
+        "Slovakia": 0.08
+      },
+      {
+        "North Macedonia": 0.03
+      },
+      {
+        "Croatia": 0.02
+      },
+      {
+        "Hungary": 0.01
+      }
+    ]
+  },
+  {
+    "Mustard seed": [
+      {
+        "Russian Federation": 59.92
+      },
+      {
+        "Ukraine": 16.17
+      },
+      {
+        "France": 8.11
+      },
+      {
+        "Czechia": 5.65
+      },
+      {
+        "Germany": 3.94
+      },
+      {
+        "Hungary": 1.72
+      },
+      {
+        "Romania": 1.33
+      },
+      {
+        "Slovakia": 1.25
+      },
+      {
+        "Serbia": 1.14
+      },
+      {
+        "Bulgaria": 0.51
+      },
+      {
+        "Lithuania": 0.24
+      },
+      {
+        "Denmark": 0.01
+      }
+    ]
+  },
+  {
+    "Chicory roots": [
+      {
+        "Belgium": 72.55
+      },
+      {
+        "France": 13.38
+      },
+      {
+        "Netherlands": 9.08
+      },
+      {
+        "Poland": 2.43
+      },
+      {
+        "Ukraine": 0.87
+      },
+      {
+        "Croatia": 0.81
+      },
+      {
+        "Serbia": 0.6
+      },
+      {
+        "Spain": 0.26
+      },
+      {
+        "Bosnia and Herzegovina": 0.02
+      },
+      {
+        "Slovakia": 0.0
+      }
+    ]
+  },
+  {
+    "Vanilla": []
+  },
+  {
+    "Almonds, with shell": [
+      {
+        "Spain": 71.33
+      },
+      {
+        "Italy": 16.79
+      },
+      {
+        "Greece": 8.07
+      },
+      {
+        "Portugal": 3.01
+      },
+      {
+        "Bulgaria": 0.27
+      },
+      {
+        "France": 0.24
+      },
+      {
+        "North Macedonia": 0.12
+      },
+      {
+        "Republic of Moldova": 0.12
+      },
+      {
+        "Bosnia and Herzegovina": 0.02
+      },
+      {
+        "Hungary": 0.02
+      },
+      {
+        "Croatia": 0.01
+      },
+      {
+        "Slovenia": 0.0
+      },
+      {
+        "Ukraine": 0.0
+      }
+    ]
+  },
+  {
+    "Anise, badian, fennel, coriander": [
+      {
+        "Russian Federation": 29.39
+      },
+      {
+        "Bulgaria": 17.32
+      },
+      {
+        "Spain": 12.25
+      },
+      {
+        "Hungary": 11.87
+      },
+      {
+        "Lithuania": 10.39
+      },
+      {
+        "Romania": 6.25
+      },
+      {
+        "Serbia": 3.1
+      },
+      {
+        "Ukraine": 2.75
+      },
+      {
+        "Greece": 2.39
+      },
+      {
+        "Bosnia and Herzegovina": 2.33
+      },
+      {
+        "Netherlands": 0.98
+      },
+      {
+        "Slovakia": 0.81
+      },
+      {
+        "Denmark": 0.15
+      }
+    ]
+  },
+  {
+    "Avocados": [
+      {
+        "Spain": 94.51
+      },
+      {
+        "France": 2.66
+      },
+      {
+        "Greece": 1.73
+      },
+      {
+        "Bosnia and Herzegovina": 1.11
+      }
+    ]
+  },
+  {
+    "Chick peas": [
+      {
+        "Russian Federation": 73.35
+      },
+      {
+        "Spain": 10.81
+      },
+      {
+        "Bulgaria": 6.9
+      },
+      {
+        "Italy": 5.56
+      },
+      {
+        "Greece": 1.72
+      },
+      {
+        "Bosnia and Herzegovina": 0.67
+      },
+      {
+        "Republic of Moldova": 0.34
+      },
+      {
+        "Portugal": 0.24
+      },
+      {
+        "Romania": 0.21
+      },
+      {
+        "North Macedonia": 0.14
+      },
+      {
+        "Hungary": 0.05
+      },
+      {
+        "Slovakia": 0.03
+      }
+    ]
+  },
+  {
+    "Chillies and peppers, dry": [
+      {
+        "Romania": 43.77
+      },
+      {
+        "Bosnia and Herzegovina": 22.15
+      },
+      {
+        "Hungary": 17.17
+      },
+      {
+        "Spain": 5.54
+      },
+      {
+        "Serbia": 3.68
+      },
+      {
+        "North Macedonia": 3.13
+      },
+      {
+        "Czechia": 2.0
+      },
+      {
+        "Slovenia": 1.09
+      },
+      {
+        "Bulgaria": 1.07
+      },
+      {
+        "Greece": 0.41
+      }
+    ]
+  },
+  {
+    "Coconuts": [
+      {
+        "France": 100.0
+      }
+    ]
+  },
+  {
+    "Cow peas, dry": [
+      {
+        "Serbia": 59.42
+      },
+      {
+        "North Macedonia": 29.69
+      },
+      {
+        "Croatia": 8.26
+      },
+      {
+        "Bosnia and Herzegovina": 2.62
+      },
+      {
+        "Hungary": 0.02
+      }
+    ]
+  },
+  {
+    "Blueberries": [
+      {
+        "Spain": 36.39
+      },
+      {
+        "Poland": 21.16
+      },
+      {
+        "Germany": 10.67
+      },
+      {
+        "Portugal": 8.9
+      },
+      {
+        "Netherlands": 8.58
+      },
+      {
+        "France": 7.63
+      },
+      {
+        "Russian Federation": 2.76
+      },
+      {
+        "Italy": 1.4
+      },
+      {
+        "Ukraine": 0.99
+      },
+      {
+        "Romania": 0.57
+      },
+      {
+        "Latvia": 0.38
+      },
+      {
+        "Switzerland": 0.3
+      },
+      {
+        "Bulgaria": 0.08
+      },
+      {
+        "Lithuania": 0.08
+      },
+      {
+        "Sweden": 0.07
+      },
+      {
+        "Denmark": 0.03
+      },
+      {
+        "Norway": 0.0
+      }
+    ]
+  },
+  {
+    "Castor oil seed": [
+      {
+        "Russian Federation": 100.0
+      }
+    ]
+  },
+  {
+    "Groundnuts, with shell": [
+      {
+        "Greece": 71.56
+      },
+      {
+        "Spain": 15.48
+      },
+      {
+        "Bulgaria": 12.88
+      },
+      {
+        "Hungary": 0.08
+      }
+    ]
+  },
+  {
+    "Hempseed": [
+      {
+        "France": 96.93
+      },
+      {
+        "Russian Federation": 1.64
+      },
+      {
+        "Spain": 0.58
+      },
+      {
+        "Ukraine": 0.46
+      },
+      {
+        "Hungary": 0.3
+      },
+      {
+        "Romania": 0.06
+      },
+      {
+        "Poland": 0.02
+      }
+    ]
+  },
+  {
+    "Kiwi fruit": [
+      {
+        "Italy": 59.81
+      },
+      {
+        "Greece": 28.22
+      },
+      {
+        "France": 5.66
+      },
+      {
+        "Portugal": 3.62
+      },
+      {
+        "Spain": 2.54
+      },
+      {
+        "Montenegro": 0.05
+      },
+      {
+        "Slovenia": 0.04
+      },
+      {
+        "Switzerland": 0.04
+      },
+      {
+        "Bulgaria": 0.01
+      }
+    ]
+  },
+  {
+    "Melonseed": [
+      {
+        "Greece": 100.0
+      }
+    ]
+  },
+  {
+    "Pepper (piper spp.)": [
+      {
+        "Bulgaria": 100.0
+      }
+    ]
+  },
+  {
+    "Peppermint": [
+      {
+        "Bulgaria": 56.41
+      },
+      {
+        "Spain": 43.59
+      }
+    ]
+  },
+  {
+    "Roots and tubers nes": [
+      {
+        "France": 57.83
+      },
+      {
+        "Slovenia": 20.5
+      },
+      {
+        "Serbia": 10.99
+      },
+      {
+        "Spain": 10.68
+      },
+      {
+        "Estonia": 0.0
+      }
+    ]
+  },
+  {
+    "Sesame seed": [
+      {
+        "Greece": 69.09
+      },
+      {
+        "Italy": 27.36
+      },
+      {
+        "North Macedonia": 3.54
+      }
+    ]
+  },
+  {
+    "Carobs": [
+      {
+        "Portugal": 44.51
+      },
+      {
+        "Italy": 39.41
+      },
+      {
+        "Greece": 13.03
+      },
+      {
+        "Spain": 2.42
+      },
+      {
+        "Croatia": 0.49
+      },
+      {
+        "Ukraine": 0.14
+      }
+    ]
+  },
+  {
+    "Canary seed": [
+      {
+        "Hungary": 81.87
+      },
+      {
+        "Czechia": 12.06
+      },
+      {
+        "Spain": 6.07
+      }
+    ]
+  },
+  {
+    "Quinoa": []
+  },
+  {
+    "Artichokes": [
+      {
+        "Italy": 58.53
+      },
+      {
+        "Spain": 31.3
+      },
+      {
+        "France": 7.09
+      },
+      {
+        "Greece": 2.7
+      },
+      {
+        "Malta": 0.25
+      },
+      {
+        "Romania": 0.11
+      },
+      {
+        "Lithuania": 0.02
+      },
+      {
+        "Switzerland": 0.0
+      }
+    ]
+  },
+  {
+    "Fruit, tropical fresh nes": [
+      {
+        "Spain": 100.0
+      }
+    ]
+  },
+  {
+    "Grapefruit (inc. pomelos)": [
+      {
+        "Spain": 81.2
+      },
+      {
+        "France": 9.34
+      },
+      {
+        "Italy": 5.53
+      },
+      {
+        "Greece": 3.63
+      },
+      {
+        "Portugal": 0.27
+      },
+      {
+        "Malta": 0.02
+      }
+    ]
+  },
+  {
+    "String beans": [
+      {
+        "France": 86.76
+      },
+      {
+        "Poland": 13.24
+      }
+    ]
+  },
+  {
+    "Sugar cane": [
+      {
+        "France": 99.71
+      },
+      {
+        "Portugal": 0.24
+      },
+      {
+        "Spain": 0.05
+      }
+    ]
+  },
+  {
+    "Yams": [
+      {
+        "Portugal": 100.0
+      }
+    ]
+  },
+  {
+    "Bananas": [
+      {
+        "Spain": 93.91
+      },
+      {
+        "Portugal": 5.41
+      },
+      {
+        "Greece": 0.6
+      },
+      {
+        "Italy": 0.08
+      }
+    ]
+  },
+  {
+    "Pistachios": [
+      {
+        "Greece": 41.34
+      },
+      {
+        "Spain": 39.99
+      },
+      {
+        "Italy": 18.67
+      }
+    ]
+  },
+  {
+    "Sweet potatoes": [
+      {
+        "Spain": 64.07
+      },
+      {
+        "Portugal": 25.12
+      },
+      {
+        "Italy": 8.01
+      },
+      {
+        "Greece": 2.8
+      }
+    ]
+  },
+  {
+    "Safflower seed": [
+      {
+        "Russian Federation": 62.91
+      },
+      {
+        "Spain": 36.8
+      },
+      {
+        "Ukraine": 0.27
+      },
+      {
+        "Hungary": 0.02
+      }
+    ]
+  },
+  {
+    "Agave fibres nes": []
+  },
+  {
+    "Mangoes, mangosteens, guavas": []
+  },
+  {
+    "Persimmons": [
+      {
+        "Spain": 90.74
+      },
+      {
+        "Italy": 8.78
+      },
+      {
+        "Slovenia": 0.48
+      }
+    ]
+  },
+  {
+    "Pyrethrum, dried": [
+      {
+        "Italy": 100.0
+      }
+    ]
+  },
+  {
+    "Tea": [
+      {
+        "Russian Federation": 73.26
+      },
+      {
+        "Montenegro": 14.53
+      },
+      {
+        "Portugal": 12.21
+      }
+    ]
+  },
+  {
+    "Pineapples": [
+      {
+        "Portugal": 100.0
+      }
+    ]
+  },
+  {
+    "Bastfibres, other": [
+      {
+        "Russian Federation": 100.0
+      }
+    ]
+  },
+  {
+    "Coffee, green": []
+  }
+]
