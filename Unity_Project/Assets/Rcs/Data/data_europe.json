@@ -8,7 +8,7 @@
         "Italy": 12.33
       },
       {
-        "Russian Federation": 9.49
+        "Russia": 9.49
       },
       {
         "France": 8.87
@@ -26,7 +26,7 @@
         "Hungary": 3.44
       },
       {
-        "Republic of Moldova": 3.39
+        "Moldova": 3.39
       },
       {
         "Romania": 3.29
@@ -35,7 +35,7 @@
         "Spain": 2.87
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.57
+        "United-Kingdom": 2.57
       },
       {
         "Serbia": 2.35
@@ -59,13 +59,13 @@
         "Switzerland": 1.14
       },
       {
-        "Czechia": 0.77
+        "Czech-Republic": 0.77
       },
       {
-        "North Macedonia": 0.72
+        "Macedonia": 0.72
       },
       {
-        "Bosnia and Herzegovina": 0.57
+        "Bosnia-and-Herzegovina": 0.57
       },
       {
         "Albania": 0.55
@@ -135,7 +135,7 @@
         "Greece": 11.48
       },
       {
-        "Russian Federation": 7.01
+        "Russia": 7.01
       },
       {
         "Romania": 3.77
@@ -150,7 +150,7 @@
         "Bulgaria": 1.44
       },
       {
-        "Republic of Moldova": 1.01
+        "Moldova": 1.01
       },
       {
         "Austria": 0.98
@@ -165,19 +165,19 @@
         "Portugal": 0.47
       },
       {
-        "North Macedonia": 0.41
+        "Macedonia": 0.41
       },
       {
         "Poland": 0.38
       },
       {
-        "Czechia": 0.24
+        "Czech-Republic": 0.24
       },
       {
         "Slovenia": 0.13
       },
       {
-        "Bosnia and Herzegovina": 0.09
+        "Bosnia-and-Herzegovina": 0.09
       },
       {
         "Slovakia": 0.04
@@ -196,7 +196,7 @@
   {
     "Barley": [
       {
-        "Russian Federation": 20.44
+        "Russia": 20.44
       },
       {
         "France": 13.47
@@ -211,7 +211,7 @@
         "Ukraine": 8.84
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 7.83
+        "United-Kingdom": 7.83
       },
       {
         "Denmark": 4.19
@@ -223,7 +223,7 @@
         "Romania": 2.25
       },
       {
-        "Czechia": 1.93
+        "Czech-Republic": 1.93
       },
       {
         "Finland": 1.61
@@ -283,16 +283,16 @@
         "Switzerland": 0.22
       },
       {
-        "Republic of Moldova": 0.21
+        "Moldova": 0.21
       },
       {
-        "North Macedonia": 0.16
+        "Macedonia": 0.16
       },
       {
         "Slovenia": 0.11
       },
       {
-        "Bosnia and Herzegovina": 0.1
+        "Bosnia-and-Herzegovina": 0.1
       },
       {
         "Portugal": 0.06
@@ -353,7 +353,7 @@
         "Italy": 1.53
       },
       {
-        "Republic of Moldova": 1.52
+        "Moldova": 1.52
       },
       {
         "Serbia": 1.42
@@ -362,13 +362,13 @@
         "France": 1.41
       },
       {
-        "Bosnia and Herzegovina": 1.29
+        "Bosnia-and-Herzegovina": 1.29
       },
       {
-        "North Macedonia": 0.89
+        "Macedonia": 0.89
       },
       {
-        "Russian Federation": 0.69
+        "Russia": 0.69
       },
       {
         "Portugal": 0.39
@@ -435,13 +435,13 @@
         "Serbia": 3.51
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.52
+        "United-Kingdom": 2.52
       },
       {
         "Hungary": 2.05
       },
       {
-        "North Macedonia": 1.61
+        "Macedonia": 1.61
       },
       {
         "Albania": 1.58
@@ -468,7 +468,7 @@
         "Slovenia": 0.38
       },
       {
-        "Bosnia and Herzegovina": 0.25
+        "Bosnia-and-Herzegovina": 0.25
       },
       {
         "Bulgaria": 0.23
@@ -477,7 +477,7 @@
         "Ireland": 0.22
       },
       {
-        "Republic of Moldova": 0.2
+        "Moldova": 0.2
       },
       {
         "Norway": 0.15
@@ -486,7 +486,7 @@
         "Montenegro": 0.11
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Lithuania": 0.04
@@ -508,7 +508,7 @@
   {
     "Broad beans, horse beans, dry": [
       {
-        "United Kingdom of Great Britain and Northern Ireland": 43.23
+        "United-Kingdom": 43.23
       },
       {
         "Germany": 17.29
@@ -532,7 +532,7 @@
         "Ukraine": 0.83
       },
       {
-        "Russian Federation": 0.82
+        "Russia": 0.82
       },
       {
         "Belgium": 0.49
@@ -550,7 +550,7 @@
         "Netherlands": 0.18
       },
       {
-        "Czechia": 0.16
+        "Czech-Republic": 0.16
       },
       {
         "Malta": 0.08
@@ -584,7 +584,7 @@
   {
     "Cabbages and other brassicas": [
       {
-        "Russian Federation": 25.6
+        "Russia": 25.6
       },
       {
         "Ukraine": 17.15
@@ -605,7 +605,7 @@
         "Italy": 3.04
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.29
+        "United-Kingdom": 2.29
       },
       {
         "Spain": 2.19
@@ -617,7 +617,7 @@
         "Netherlands": 2.14
       },
       {
-        "North Macedonia": 1.78
+        "Macedonia": 1.78
       },
       {
         "France": 1.67
@@ -632,7 +632,7 @@
         "Greece": 0.88
       },
       {
-        "Bosnia and Herzegovina": 0.72
+        "Bosnia-and-Herzegovina": 0.72
       },
       {
         "Hungary": 0.58
@@ -662,7 +662,7 @@
         "Croatia": 0.41
       },
       {
-        "Czechia": 0.33
+        "Czech-Republic": 0.33
       },
       {
         "Norway": 0.32
@@ -677,7 +677,7 @@
         "Finland": 0.23
       },
       {
-        "Republic of Moldova": 0.19
+        "Moldova": 0.19
       },
       {
         "Estonia": 0.17
@@ -705,13 +705,13 @@
   {
     "Carrots and turnips": [
       {
-        "Russian Federation": 16.88
+        "Russia": 16.88
       },
       {
         "Ukraine": 10.09
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 9.89
+        "United-Kingdom": 9.89
       },
       {
         "Poland": 8.71
@@ -777,7 +777,7 @@
         "Latvia": 0.33
       },
       {
-        "Czechia": 0.32
+        "Czech-Republic": 0.32
       },
       {
         "Bulgaria": 0.31
@@ -789,13 +789,13 @@
         "Estonia": 0.21
       },
       {
-        "Republic of Moldova": 0.18
+        "Moldova": 0.18
       },
       {
         "Croatia": 0.14
       },
       {
-        "Bosnia and Herzegovina": 0.13
+        "Bosnia-and-Herzegovina": 0.13
       },
       {
         "Slovenia": 0.13
@@ -807,7 +807,7 @@
         "Slovakia": 0.11
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
         "Iceland": 0.01
@@ -835,7 +835,7 @@
         "France": 11.66
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 5.96
+        "United-Kingdom": 5.96
       },
       {
         "Germany": 5.12
@@ -856,7 +856,7 @@
         "Portugal": 2.25
       },
       {
-        "Russian Federation": 0.96
+        "Russia": 0.96
       },
       {
         "Hungary": 0.94
@@ -877,7 +877,7 @@
         "Sweden": 0.38
       },
       {
-        "Czechia": 0.28
+        "Czech-Republic": 0.28
       },
       {
         "Denmark": 0.25
@@ -907,10 +907,10 @@
         "Lithuania": 0.05
       },
       {
-        "Republic of Moldova": 0.04
+        "Moldova": 0.04
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Estonia": 0.01
@@ -953,7 +953,7 @@
         "Bulgaria": 6.4
       },
       {
-        "Russian Federation": 5.37
+        "Russia": 5.37
       },
       {
         "Germany": 5.12
@@ -971,10 +971,10 @@
         "Portugal": 2.02
       },
       {
-        "Republic of Moldova": 1.43
+        "Moldova": 1.43
       },
       {
-        "Bosnia and Herzegovina": 1.37
+        "Bosnia-and-Herzegovina": 1.37
       },
       {
         "Hungary": 1.37
@@ -986,7 +986,7 @@
         "Switzerland": 0.71
       },
       {
-        "North Macedonia": 0.67
+        "Macedonia": 0.67
       },
       {
         "Belgium": 0.64
@@ -995,10 +995,10 @@
         "Belarus": 0.45
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.41
+        "United-Kingdom": 0.41
       },
       {
-        "Czechia": 0.31
+        "Czech-Republic": 0.31
       },
       {
         "Montenegro": 0.24
@@ -1041,7 +1041,7 @@
   {
     "Cherries, sour": [
       {
-        "Russian Federation": 23.41
+        "Russia": 23.41
       },
       {
         "Ukraine": 22.05
@@ -1065,22 +1065,22 @@
         "Germany": 1.6
       },
       {
-        "North Macedonia": 1.06
+        "Macedonia": 1.06
       },
       {
         "Croatia": 0.84
       },
       {
-        "Republic of Moldova": 0.78
+        "Moldova": 0.78
       },
       {
         "Italy": 0.77
       },
       {
-        "Czechia": 0.69
+        "Czech-Republic": 0.69
       },
       {
-        "Bosnia and Herzegovina": 0.6
+        "Bosnia-and-Herzegovina": 0.6
       },
       {
         "Bulgaria": 0.48
@@ -1129,13 +1129,13 @@
         "Albania": 3.39
       },
       {
-        "Bosnia and Herzegovina": 0.76
+        "Bosnia-and-Herzegovina": 0.76
       },
       {
         "Bulgaria": 0.33
       },
       {
-        "North Macedonia": 0.26
+        "Macedonia": 0.26
       },
       {
         "Slovenia": 0.15
@@ -1172,7 +1172,7 @@
         "Romania": 7.13
       },
       {
-        "North Macedonia": 5.68
+        "Macedonia": 5.68
       },
       {
         "Ukraine": 5.47
@@ -1193,13 +1193,13 @@
         "Bulgaria": 1.61
       },
       {
-        "Bosnia and Herzegovina": 1.28
+        "Bosnia-and-Herzegovina": 1.28
       },
       {
         "France": 1.0
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.85
+        "United-Kingdom": 0.85
       },
       {
         "Belgium": 0.81
@@ -1214,10 +1214,10 @@
         "Germany": 0.46
       },
       {
-        "Czechia": 0.32
+        "Czech-Republic": 0.32
       },
       {
-        "Republic of Moldova": 0.29
+        "Moldova": 0.29
       },
       {
         "Montenegro": 0.17
@@ -1245,7 +1245,7 @@
   {
     "Cucumbers and gherkins": [
       {
-        "Russian Federation": 26.98
+        "Russia": 26.98
       },
       {
         "Ukraine": 16.57
@@ -1284,13 +1284,13 @@
         "Finland": 0.93
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.93
+        "United-Kingdom": 0.93
       },
       {
         "Italy": 0.91
       },
       {
-        "North Macedonia": 0.91
+        "Macedonia": 0.91
       },
       {
         "Austria": 0.75
@@ -1299,7 +1299,7 @@
         "Serbia": 0.72
       },
       {
-        "Bosnia and Herzegovina": 0.6
+        "Bosnia-and-Herzegovina": 0.6
       },
       {
         "Sweden": 0.6
@@ -1311,7 +1311,7 @@
         "Belgium": 0.41
       },
       {
-        "Republic of Moldova": 0.39
+        "Moldova": 0.39
       },
       {
         "Lithuania": 0.29
@@ -1323,7 +1323,7 @@
         "Denmark": 0.28
       },
       {
-        "Czechia": 0.24
+        "Czech-Republic": 0.24
       },
       {
         "Switzerland": 0.24
@@ -1406,7 +1406,7 @@
         "Portugal": 0.54
       },
       {
-        "Republic of Moldova": 0.52
+        "Moldova": 0.52
       },
       {
         "Lithuania": 0.23
@@ -1418,7 +1418,7 @@
         "Austria": 0.12
       },
       {
-        "North Macedonia": 0.11
+        "Macedonia": 0.11
       },
       {
         "Hungary": 0.09
@@ -1455,10 +1455,10 @@
         "Croatia": 1.08
       },
       {
-        "Bosnia and Herzegovina": 0.79
+        "Bosnia-and-Herzegovina": 0.79
       },
       {
-        "North Macedonia": 0.59
+        "Macedonia": 0.59
       },
       {
         "Malta": 0.05
@@ -1511,7 +1511,7 @@
         "Hungary": 4.78
       },
       {
-        "Czechia": 4.04
+        "Czech-Republic": 4.04
       },
       {
         "Greece": 3.87
@@ -1529,13 +1529,13 @@
         "Albania": 0.73
       },
       {
-        "North Macedonia": 0.27
+        "Macedonia": 0.27
       },
       {
         "Ukraine": 0.21
       },
       {
-        "Russian Federation": 0.17
+        "Russia": 0.17
       },
       {
         "Montenegro": 0.09
@@ -1544,7 +1544,7 @@
         "Malta": 0.08
       },
       {
-        "Bosnia and Herzegovina": 0.06
+        "Bosnia-and-Herzegovina": 0.06
       },
       {
         "Slovakia": 0.06
@@ -1600,7 +1600,7 @@
         "Spain": 31.69
       },
       {
-        "Russian Federation": 24.57
+        "Russia": 24.57
       },
       {
         "Ukraine": 21.67
@@ -1621,7 +1621,7 @@
         "Albania": 1.59
       },
       {
-        "Republic of Moldova": 1.1
+        "Moldova": 1.1
       },
       {
         "Hungary": 0.9
@@ -1630,10 +1630,10 @@
         "Greece": 0.71
       },
       {
-        "Bosnia and Herzegovina": 0.68
+        "Bosnia-and-Herzegovina": 0.68
       },
       {
-        "North Macedonia": 0.48
+        "Macedonia": 0.48
       },
       {
         "Serbia": 0.42
@@ -1645,7 +1645,7 @@
         "Portugal": 0.24
       },
       {
-        "Czechia": 0.2
+        "Czech-Republic": 0.2
       },
       {
         "Austria": 0.13
@@ -1709,10 +1709,10 @@
         "Portugal": 2.61
       },
       {
-        "Republic of Moldova": 2.45
+        "Moldova": 2.45
       },
       {
-        "Russian Federation": 2.1
+        "Russia": 2.1
       },
       {
         "Hungary": 1.81
@@ -1724,7 +1724,7 @@
         "Austria": 1.23
       },
       {
-        "North Macedonia": 0.99
+        "Macedonia": 0.99
       },
       {
         "Bulgaria": 0.65
@@ -1745,13 +1745,13 @@
         "Switzerland": 0.36
       },
       {
-        "Czechia": 0.35
+        "Czech-Republic": 0.35
       },
       {
         "Slovakia": 0.18
       },
       {
-        "Bosnia and Herzegovina": 0.14
+        "Bosnia-and-Herzegovina": 0.14
       },
       {
         "Montenegro": 0.08
@@ -1775,7 +1775,7 @@
         "Netherlands": 0.0
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.0
+        "United-Kingdom": 0.0
       }
     ]
   },
@@ -1785,7 +1785,7 @@
         "Germany": 66.43
       },
       {
-        "Czechia": 10.47
+        "Czech-Republic": 10.47
       },
       {
         "Slovenia": 6.29
@@ -1800,7 +1800,7 @@
         "Spain": 1.87
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.55
+        "United-Kingdom": 1.55
       },
       {
         "France": 1.52
@@ -1818,7 +1818,7 @@
         "Romania": 0.45
       },
       {
-        "Russian Federation": 0.29
+        "Russia": 0.29
       },
       {
         "Bulgaria": 0.28
@@ -1861,7 +1861,7 @@
         "Germany": 9.54
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 4.62
+        "United-Kingdom": 4.62
       },
       {
         "Albania": 4.35
@@ -1906,13 +1906,13 @@
         "Finland": 0.06
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
         "Latvia": 0.04
       },
       {
-        "Republic of Moldova": 0.04
+        "Moldova": 0.04
       },
       {
         "Lithuania": 0.03
@@ -1955,7 +1955,7 @@
         "Malta": 0.02
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       }
     ]
   },
@@ -1974,7 +1974,7 @@
         "France": 7.3
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 3.61
+        "United-Kingdom": 3.61
       },
       {
         "Netherlands": 3.4
@@ -2016,13 +2016,13 @@
         "Finland": 0.48
       },
       {
-        "Czechia": 0.37
+        "Czech-Republic": 0.37
       },
       {
         "Hungary": 0.29
       },
       {
-        "Bosnia and Herzegovina": 0.26
+        "Bosnia-and-Herzegovina": 0.26
       },
       {
         "Croatia": 0.23
@@ -2049,7 +2049,7 @@
         "Luxembourg": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Slovakia": 0.01
@@ -2068,7 +2068,7 @@
         "France": 9.85
       },
       {
-        "Russian Federation": 8.88
+        "Russia": 8.88
       },
       {
         "Hungary": 6.19
@@ -2098,13 +2098,13 @@
         "Austria": 1.66
       },
       {
-        "Republic of Moldova": 1.61
+        "Moldova": 1.61
       },
       {
         "Slovakia": 1.18
       },
       {
-        "Bosnia and Herzegovina": 0.99
+        "Bosnia-and-Herzegovina": 0.99
       },
       {
         "Greece": 0.94
@@ -2116,7 +2116,7 @@
         "Portugal": 0.56
       },
       {
-        "Czechia": 0.38
+        "Czech-Republic": 0.38
       },
       {
         "Belgium": 0.34
@@ -2128,7 +2128,7 @@
         "Slovenia": 0.27
       },
       {
-        "North Macedonia": 0.15
+        "Macedonia": 0.15
       },
       {
         "Switzerland": 0.1
@@ -2189,10 +2189,10 @@
         "Montenegro": 0.09
       },
       {
-        "Republic of Moldova": 0.09
+        "Moldova": 0.09
       },
       {
-        "North Macedonia": 0.06
+        "Macedonia": 0.06
       },
       {
         "Slovakia": 0.0
@@ -2214,7 +2214,7 @@
         "Spain": 12.55
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 7.44
+        "United-Kingdom": 7.44
       },
       {
         "France": 6.27
@@ -2232,7 +2232,7 @@
         "Belgium": 2.11
       },
       {
-        "Russian Federation": 1.92
+        "Russia": 1.92
       },
       {
         "Hungary": 1.89
@@ -2265,7 +2265,7 @@
         "Denmark": 0.3
       },
       {
-        "North Macedonia": 0.22
+        "Macedonia": 0.22
       },
       {
         "Slovakia": 0.15
@@ -2274,13 +2274,13 @@
         "Austria": 0.14
       },
       {
-        "Republic of Moldova": 0.14
+        "Moldova": 0.14
       },
       {
         "Finland": 0.1
       },
       {
-        "Bosnia and Herzegovina": 0.09
+        "Bosnia-and-Herzegovina": 0.09
       },
       {
         "Bulgaria": 0.08
@@ -2292,7 +2292,7 @@
         "Montenegro": 0.05
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Iceland": 0.04
@@ -2311,7 +2311,7 @@
   {
     "Nuts nes": [
       {
-        "Russian Federation": 53.05
+        "Russia": 53.05
       },
       {
         "Albania": 21.05
@@ -2329,7 +2329,7 @@
         "Bulgaria": 1.94
       },
       {
-        "Republic of Moldova": 1.61
+        "Moldova": 1.61
       },
       {
         "Slovenia": 0.26
@@ -2342,7 +2342,7 @@
   {
     "Oats": [
       {
-        "Russian Federation": 34.92
+        "Russia": 34.92
       },
       {
         "Spain": 11.0
@@ -2351,7 +2351,7 @@
         "Poland": 8.63
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 6.29
+        "United-Kingdom": 6.29
       },
       {
         "Finland": 6.05
@@ -2387,7 +2387,7 @@
         "Lithuania": 1.35
       },
       {
-        "Czechia": 1.13
+        "Czech-Republic": 1.13
       },
       {
         "Norway": 1.08
@@ -2423,7 +2423,7 @@
         "Slovakia": 0.22
       },
       {
-        "Bosnia and Herzegovina": 0.2
+        "Bosnia-and-Herzegovina": 0.2
       },
       {
         "Bulgaria": 0.18
@@ -2441,13 +2441,13 @@
         "Netherlands": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Slovenia": 0.03
       },
       {
-        "Republic of Moldova": 0.01
+        "Moldova": 0.01
       },
       {
         "Montenegro": 0.0
@@ -2485,13 +2485,13 @@
         "France": 0.16
       },
       {
-        "North Macedonia": 0.09
+        "Macedonia": 0.09
       },
       {
         "Slovenia": 0.03
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       },
       {
         "Malta": 0.0
@@ -2504,7 +2504,7 @@
   {
     "Onions, dry": [
       {
-        "Russian Federation": 18.34
+        "Russia": 18.34
       },
       {
         "Spain": 14.22
@@ -2531,7 +2531,7 @@
         "Romania": 3.91
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 3.72
+        "United-Kingdom": 3.72
       },
       {
         "Belarus": 2.41
@@ -2552,7 +2552,7 @@
         "Albania": 1.12
       },
       {
-        "North Macedonia": 0.66
+        "Macedonia": 0.66
       },
       {
         "Sweden": 0.59
@@ -2561,7 +2561,7 @@
         "Hungary": 0.53
       },
       {
-        "Republic of Moldova": 0.49
+        "Moldova": 0.49
       },
       {
         "Bulgaria": 0.47
@@ -2570,13 +2570,13 @@
         "Denmark": 0.47
       },
       {
-        "Bosnia and Herzegovina": 0.43
+        "Bosnia-and-Herzegovina": 0.43
       },
       {
         "Switzerland": 0.42
       },
       {
-        "Czechia": 0.41
+        "Czech-Republic": 0.41
       },
       {
         "Serbia": 0.31
@@ -2643,7 +2643,7 @@
         "Greece": 4.08
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 4.02
+        "United-Kingdom": 4.02
       },
       {
         "Spain": 3.93
@@ -2658,7 +2658,7 @@
         "Hungary": 0.64
       },
       {
-        "North Macedonia": 0.54
+        "Macedonia": 0.54
       }
     ]
   },
@@ -2692,10 +2692,10 @@
         "Malta": 0.01
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       },
       {
-        "Russian Federation": 0.0
+        "Russia": 0.0
       }
     ]
   },
@@ -2720,7 +2720,7 @@
         "Portugal": 1.33
       },
       {
-        "Russian Federation": 1.04
+        "Russia": 1.04
       },
       {
         "Bulgaria": 0.83
@@ -2729,7 +2729,7 @@
         "Ukraine": 0.75
       },
       {
-        "Republic of Moldova": 0.7
+        "Moldova": 0.7
       },
       {
         "Hungary": 0.67
@@ -2741,13 +2741,13 @@
         "Albania": 0.56
       },
       {
-        "North Macedonia": 0.38
+        "Macedonia": 0.38
       },
       {
         "Poland": 0.3
       },
       {
-        "Bosnia and Herzegovina": 0.27
+        "Bosnia-and-Herzegovina": 0.27
       },
       {
         "Slovenia": 0.13
@@ -2765,7 +2765,7 @@
         "Slovakia": 0.04
       },
       {
-        "Czechia": 0.03
+        "Czech-Republic": 0.03
       },
       {
         "Germany": 0.02
@@ -2811,7 +2811,7 @@
         "Greece": 2.53
       },
       {
-        "Russian Federation": 2.18
+        "Russia": 2.18
       },
       {
         "Romania": 1.98
@@ -2826,7 +2826,7 @@
         "Germany": 1.56
       },
       {
-        "Bosnia and Herzegovina": 1.21
+        "Bosnia-and-Herzegovina": 1.21
       },
       {
         "Switzerland": 1.2
@@ -2835,22 +2835,22 @@
         "Hungary": 0.85
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.84
+        "United-Kingdom": 0.84
       },
       {
         "Albania": 0.45
       },
       {
-        "North Macedonia": 0.26
+        "Macedonia": 0.26
       },
       {
-        "Czechia": 0.24
+        "Czech-Republic": 0.24
       },
       {
         "Denmark": 0.19
       },
       {
-        "Republic of Moldova": 0.17
+        "Moldova": 0.17
       },
       {
         "Slovenia": 0.15
@@ -2893,7 +2893,7 @@
         "France": 23.84
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 11.32
+        "United-Kingdom": 11.32
       },
       {
         "Spain": 10.38
@@ -2905,7 +2905,7 @@
         "Italy": 8.19
       },
       {
-        "Russian Federation": 7.59
+        "Russia": 7.59
       },
       {
         "Belgium": 5.9
@@ -2953,7 +2953,7 @@
         "Albania": 0.46
       },
       {
-        "Republic of Moldova": 0.46
+        "Moldova": 0.46
       },
       {
         "Belarus": 0.42
@@ -2962,13 +2962,13 @@
         "Croatia": 0.31
       },
       {
-        "Czechia": 0.29
+        "Czech-Republic": 0.29
       },
       {
         "Slovakia": 0.26
       },
       {
-        "North Macedonia": 0.2
+        "Macedonia": 0.2
       },
       {
         "Ireland": 0.19
@@ -3017,19 +3017,19 @@
         "Italy": 6.56
       },
       {
-        "Bosnia and Herzegovina": 6.32
+        "Bosnia-and-Herzegovina": 6.32
       },
       {
         "France": 6.04
       },
       {
-        "Russian Federation": 5.5
+        "Russia": 5.5
       },
       {
         "Spain": 5.08
       },
       {
-        "Republic of Moldova": 4.41
+        "Moldova": 4.41
       },
       {
         "Poland": 4.02
@@ -3047,7 +3047,7 @@
         "Albania": 1.37
       },
       {
-        "North Macedonia": 1.25
+        "Macedonia": 1.25
       },
       {
         "Greece": 0.96
@@ -3065,13 +3065,13 @@
         "Montenegro": 0.46
       },
       {
-        "Czechia": 0.43
+        "Czech-Republic": 0.43
       },
       {
         "Austria": 0.32
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.29
+        "United-Kingdom": 0.29
       },
       {
         "Switzerland": 0.21
@@ -3117,7 +3117,7 @@
         "Ukraine": 21.4
       },
       {
-        "Russian Federation": 21.29
+        "Russia": 21.29
       },
       {
         "Germany": 8.48
@@ -3135,7 +3135,7 @@
         "Belarus": 5.58
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 4.78
+        "United-Kingdom": 4.78
       },
       {
         "Belgium": 2.9
@@ -3162,7 +3162,7 @@
         "Finland": 0.57
       },
       {
-        "Czechia": 0.55
+        "Czech-Republic": 0.55
       },
       {
         "Serbia": 0.46
@@ -3180,7 +3180,7 @@
         "Switzerland": 0.4
       },
       {
-        "Bosnia and Herzegovina": 0.37
+        "Bosnia-and-Herzegovina": 0.37
       },
       {
         "Hungary": 0.31
@@ -3204,10 +3204,10 @@
         "Croatia": 0.17
       },
       {
-        "North Macedonia": 0.17
+        "Macedonia": 0.17
       },
       {
-        "Republic of Moldova": 0.17
+        "Moldova": 0.17
       },
       {
         "Slovakia": 0.16
@@ -3241,7 +3241,7 @@
         "Poland": 45.15
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 27.08
+        "United-Kingdom": 27.08
       },
       {
         "Spain": 8.11
@@ -3259,13 +3259,13 @@
         "Germany": 1.22
       },
       {
-        "Russian Federation": 1.02
+        "Russia": 1.02
       },
       {
         "Austria": 0.9
       },
       {
-        "Czechia": 0.72
+        "Czech-Republic": 0.72
       },
       {
         "France": 0.58
@@ -3304,7 +3304,7 @@
         "Estonia": 0.01
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Portugal": 0.0
@@ -3320,7 +3320,7 @@
         "Ukraine": 30.22
       },
       {
-        "Russian Federation": 26.86
+        "Russia": 26.86
       },
       {
         "Spain": 16.21
@@ -3338,7 +3338,7 @@
         "France": 2.17
       },
       {
-        "Republic of Moldova": 1.41
+        "Moldova": 1.41
       },
       {
         "Romania": 0.76
@@ -3402,7 +3402,7 @@
         "Ukraine": 10.19
       },
       {
-        "Russian Federation": 9.1
+        "Russia": 9.1
       },
       {
         "Romania": 8.89
@@ -3420,16 +3420,16 @@
         "Belgium": 4.68
       },
       {
-        "Republic of Moldova": 4.5
+        "Moldova": 4.5
       },
       {
         "Hungary": 3.73
       },
       {
-        "North Macedonia": 2.17
+        "Macedonia": 2.17
       },
       {
-        "Bosnia and Herzegovina": 1.98
+        "Bosnia-and-Herzegovina": 1.98
       },
       {
         "Italy": 1.29
@@ -3460,7 +3460,7 @@
         "Italy": 37.59
       },
       {
-        "Russian Federation": 25.81
+        "Russia": 25.81
       },
       {
         "Spain": 20.09
@@ -3484,7 +3484,7 @@
         "Romania": 1.08
       },
       {
-        "North Macedonia": 0.49
+        "Macedonia": 0.49
       },
       {
         "Hungary": 0.3
@@ -3500,7 +3500,7 @@
         "Italy": 37.59
       },
       {
-        "Russian Federation": 25.81
+        "Russia": 25.81
       },
       {
         "Spain": 20.09
@@ -3524,7 +3524,7 @@
         "Romania": 1.08
       },
       {
-        "North Macedonia": 0.49
+        "Macedonia": 0.49
       },
       {
         "Hungary": 0.3
@@ -3543,7 +3543,7 @@
         "Poland": 23.73
       },
       {
-        "Russian Federation": 20.98
+        "Russia": 20.98
       },
       {
         "Belarus": 5.5
@@ -3561,13 +3561,13 @@
         "Austria": 1.94
       },
       {
-        "Czechia": 1.32
+        "Czech-Republic": 1.32
       },
       {
         "France": 1.21
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.04
+        "United-Kingdom": 1.04
       },
       {
         "Sweden": 0.97
@@ -3606,7 +3606,7 @@
         "Serbia": 0.15
       },
       {
-        "Bosnia and Herzegovina": 0.12
+        "Bosnia-and-Herzegovina": 0.12
       },
       {
         "Italy": 0.12
@@ -3615,7 +3615,7 @@
         "Switzerland": 0.11
       },
       {
-        "North Macedonia": 0.1
+        "Macedonia": 0.1
       },
       {
         "Norway": 0.08
@@ -3642,7 +3642,7 @@
         "Ireland": 0.01
       },
       {
-        "Republic of Moldova": 0.01
+        "Moldova": 0.01
       },
       {
         "Montenegro": 0.0
@@ -3680,7 +3680,7 @@
         "Romania": 7.07
       },
       {
-        "Russian Federation": 4.55
+        "Russia": 4.55
       },
       {
         "Hungary": 3.6
@@ -3698,7 +3698,7 @@
         "Serbia": 0.74
       },
       {
-        "Republic of Moldova": 0.43
+        "Moldova": 0.43
       },
       {
         "Slovakia": 0.16
@@ -3713,7 +3713,7 @@
         "Greece": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       }
     ]
   },
@@ -3723,7 +3723,7 @@
         "Ukraine": 37.0
       },
       {
-        "Russian Federation": 33.4
+        "Russia": 33.4
       },
       {
         "Italy": 9.45
@@ -3753,13 +3753,13 @@
         "Germany": 0.49
       },
       {
-        "Republic of Moldova": 0.48
+        "Moldova": 0.48
       },
       {
-        "Czechia": 0.21
+        "Czech-Republic": 0.21
       },
       {
-        "Bosnia and Herzegovina": 0.19
+        "Bosnia-and-Herzegovina": 0.19
       },
       {
         "Poland": 0.09
@@ -3783,7 +3783,7 @@
         "Albania": 0.01
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       }
     ]
   },
@@ -3802,7 +3802,7 @@
         "Albania": 3.37
       },
       {
-        "North Macedonia": 1.72
+        "Macedonia": 1.72
       },
       {
         "Portugal": 0.0
@@ -3854,7 +3854,7 @@
         "Denmark": 0.26
       },
       {
-        "Czechia": 0.24
+        "Czech-Republic": 0.24
       },
       {
         "Slovakia": 0.13
@@ -3878,7 +3878,7 @@
         "Lithuania": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       },
       {
         "Ukraine": 0.01
@@ -3891,7 +3891,7 @@
         "Spain": 20.51
       },
       {
-        "Russian Federation": 11.84
+        "Russia": 11.84
       },
       {
         "Poland": 11.64
@@ -3900,7 +3900,7 @@
         "Germany": 8.43
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 7.83
+        "United-Kingdom": 7.83
       },
       {
         "Italy": 7.1
@@ -3942,10 +3942,10 @@
         "Portugal": 0.63
       },
       {
-        "Republic of Moldova": 0.6
+        "Moldova": 0.6
       },
       {
-        "Bosnia and Herzegovina": 0.58
+        "Bosnia-and-Herzegovina": 0.58
       },
       {
         "Switzerland": 0.55
@@ -3957,7 +3957,7 @@
         "Denmark": 0.4
       },
       {
-        "North Macedonia": 0.36
+        "Macedonia": 0.36
       },
       {
         "Ireland": 0.34
@@ -3975,7 +3975,7 @@
         "Croatia": 0.16
       },
       {
-        "Czechia": 0.14
+        "Czech-Republic": 0.14
       },
       {
         "Lithuania": 0.14
@@ -4003,7 +4003,7 @@
   {
     "Sugar beet": [
       {
-        "Russian Federation": 22.72
+        "Russia": 22.72
       },
       {
         "France": 21.38
@@ -4018,7 +4018,7 @@
         "Ukraine": 7.55
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 4.12
+        "United-Kingdom": 4.12
       },
       {
         "Netherlands": 3.52
@@ -4030,7 +4030,7 @@
         "Belarus": 2.6
       },
       {
-        "Czechia": 2.01
+        "Czech-Republic": 2.01
       },
       {
         "Spain": 1.55
@@ -4069,7 +4069,7 @@
         "Croatia": 0.42
       },
       {
-        "Republic of Moldova": 0.38
+        "Moldova": 0.38
       },
       {
         "Finland": 0.19
@@ -4084,13 +4084,13 @@
         "Albania": 0.01
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       },
       {
         "Latvia": 0.0
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       },
       {
         "Portugal": 0.0
@@ -4103,7 +4103,7 @@
         "Ukraine": 36.86
       },
       {
-        "Russian Federation": 33.19
+        "Russia": 33.19
       },
       {
         "Romania": 7.97
@@ -4121,7 +4121,7 @@
         "Spain": 2.47
       },
       {
-        "Republic of Moldova": 2.05
+        "Moldova": 2.05
       },
       {
         "Serbia": 1.91
@@ -4142,7 +4142,7 @@
         "Austria": 0.16
       },
       {
-        "Czechia": 0.12
+        "Czech-Republic": 0.12
       },
       {
         "Germany": 0.08
@@ -4157,7 +4157,7 @@
         "Switzerland": 0.03
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Albania": 0.0
@@ -4166,7 +4166,7 @@
         "Belarus": 0.0
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       },
       {
         "Slovenia": 0.0
@@ -4200,7 +4200,7 @@
         "Montenegro": 0.1
       },
       {
-        "Bosnia and Herzegovina": 0.0
+        "Bosnia-and-Herzegovina": 0.0
       },
       {
         "Malta": 0.0
@@ -4219,7 +4219,7 @@
         "Spain": 11.89
       },
       {
-        "North Macedonia": 11.69
+        "Macedonia": 11.69
       },
       {
         "Greece": 10.4
@@ -4243,7 +4243,7 @@
         "Hungary": 2.74
       },
       {
-        "Bosnia and Herzegovina": 1.24
+        "Bosnia-and-Herzegovina": 1.24
       },
       {
         "Albania": 0.77
@@ -4258,7 +4258,7 @@
         "Switzerland": 0.46
       },
       {
-        "Republic of Moldova": 0.32
+        "Moldova": 0.32
       },
       {
         "Montenegro": 0.11
@@ -4273,7 +4273,7 @@
         "Austria": 0.05
       },
       {
-        "Russian Federation": 0.0
+        "Russia": 0.0
       },
       {
         "Slovakia": 0.0
@@ -4289,7 +4289,7 @@
         "Spain": 20.47
       },
       {
-        "Russian Federation": 12.45
+        "Russia": 12.45
       },
       {
         "Ukraine": 9.98
@@ -4325,7 +4325,7 @@
         "Hungary": 0.88
       },
       {
-        "North Macedonia": 0.69
+        "Macedonia": 0.69
       },
       {
         "Bulgaria": 0.64
@@ -4337,16 +4337,16 @@
         "Germany": 0.44
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.29
+        "United-Kingdom": 0.29
       },
       {
         "Austria": 0.25
       },
       {
-        "Republic of Moldova": 0.22
+        "Moldova": 0.22
       },
       {
-        "Bosnia and Herzegovina": 0.19
+        "Bosnia-and-Herzegovina": 0.19
       },
       {
         "Switzerland": 0.19
@@ -4376,7 +4376,7 @@
         "Norway": 0.05
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Slovenia": 0.04
@@ -4404,7 +4404,7 @@
   {
     "Vegetables, fresh nes": [
       {
-        "Russian Federation": 21.32
+        "Russia": 21.32
       },
       {
         "Italy": 19.91
@@ -4419,7 +4419,7 @@
         "Poland": 8.28
       },
       {
-        "Bosnia and Herzegovina": 5.3
+        "Bosnia-and-Herzegovina": 5.3
       },
       {
         "Germany": 3.91
@@ -4428,7 +4428,7 @@
         "Belarus": 3.46
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 3.16
+        "United-Kingdom": 3.16
       },
       {
         "Netherlands": 3.08
@@ -4455,7 +4455,7 @@
         "Lithuania": 0.47
       },
       {
-        "Czechia": 0.46
+        "Czech-Republic": 0.46
       },
       {
         "Bulgaria": 0.41
@@ -4476,10 +4476,10 @@
         "Serbia": 0.28
       },
       {
-        "North Macedonia": 0.27
+        "Macedonia": 0.27
       },
       {
-        "Republic of Moldova": 0.26
+        "Moldova": 0.26
       },
       {
         "Finland": 0.23
@@ -4531,7 +4531,7 @@
         "Poland": 7.93
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 7.88
+        "United-Kingdom": 7.88
       },
       {
         "Portugal": 7.71
@@ -4564,10 +4564,10 @@
         "Austria": 0.23
       },
       {
-        "Czechia": 0.21
+        "Czech-Republic": 0.21
       },
       {
-        "Russian Federation": 0.18
+        "Russia": 0.18
       },
       {
         "Slovakia": 0.1
@@ -4589,7 +4589,7 @@
   {
     "Vetches": [
       {
-        "Russian Federation": 39.5
+        "Russia": 39.5
       },
       {
         "Spain": 34.31
@@ -4610,7 +4610,7 @@
         "Greece": 1.38
       },
       {
-        "Bosnia and Herzegovina": 1.28
+        "Bosnia-and-Herzegovina": 1.28
       },
       {
         "Poland": 1.24
@@ -4619,7 +4619,7 @@
         "Austria": 0.83
       },
       {
-        "North Macedonia": 0.73
+        "Macedonia": 0.73
       },
       {
         "Albania": 0.51
@@ -4640,10 +4640,10 @@
         "Latvia": 0.05
       },
       {
-        "Czechia": 0.02
+        "Czech-Republic": 0.02
       },
       {
-        "Republic of Moldova": 0.02
+        "Moldova": 0.02
       },
       {
         "Hungary": 0.0
@@ -4653,7 +4653,7 @@
   {
     "Watermelons": [
       {
-        "Russian Federation": 31.75
+        "Russia": 31.75
       },
       {
         "Spain": 17.61
@@ -4680,13 +4680,13 @@
         "Hungary": 2.84
       },
       {
-        "North Macedonia": 2.13
+        "Macedonia": 2.13
       },
       {
         "Bulgaria": 1.53
       },
       {
-        "Republic of Moldova": 0.72
+        "Moldova": 0.72
       },
       {
         "Croatia": 0.52
@@ -4695,7 +4695,7 @@
         "Portugal": 0.42
       },
       {
-        "Bosnia and Herzegovina": 0.37
+        "Bosnia-and-Herzegovina": 0.37
       },
       {
         "Montenegro": 0.29
@@ -4717,7 +4717,7 @@
   {
     "Wheat": [
       {
-        "Russian Federation": 29.79
+        "Russia": 29.79
       },
       {
         "France": 14.78
@@ -4729,7 +4729,7 @@
         "Germany": 8.37
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 5.6
+        "United-Kingdom": 5.6
       },
       {
         "Romania": 4.19
@@ -4750,7 +4750,7 @@
         "Hungary": 2.17
       },
       {
-        "Czechia": 1.82
+        "Czech-Republic": 1.82
       },
       {
         "Serbia": 1.21
@@ -4780,7 +4780,7 @@
         "Austria": 0.57
       },
       {
-        "Republic of Moldova": 0.48
+        "Moldova": 0.48
       },
       {
         "Greece": 0.44
@@ -4804,13 +4804,13 @@
         "Estonia": 0.19
       },
       {
-        "Bosnia and Herzegovina": 0.12
+        "Bosnia-and-Herzegovina": 0.12
       },
       {
         "Albania": 0.1
       },
       {
-        "North Macedonia": 0.1
+        "Macedonia": 0.1
       },
       {
         "Norway": 0.05
@@ -4862,7 +4862,7 @@
         "Belgium": 1.61
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.5
+        "United-Kingdom": 1.5
       },
       {
         "Austria": 0.93
@@ -4871,13 +4871,13 @@
         "Poland": 0.87
       },
       {
-        "North Macedonia": 0.24
+        "Macedonia": 0.24
       },
       {
         "Switzerland": 0.24
       },
       {
-        "Czechia": 0.18
+        "Czech-Republic": 0.18
       },
       {
         "Lithuania": 0.15
@@ -4905,7 +4905,7 @@
         "Italy": 29.61
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 6.51
+        "United-Kingdom": 6.51
       },
       {
         "Spain": 5.52
@@ -4917,7 +4917,7 @@
         "Germany": 4.27
       },
       {
-        "Russian Federation": 2.33
+        "Russia": 2.33
       },
       {
         "Romania": 1.79
@@ -4947,13 +4947,13 @@
         "Portugal": 0.66
       },
       {
-        "Czechia": 0.62
+        "Czech-Republic": 0.62
       },
       {
         "Greece": 0.49
       },
       {
-        "Bosnia and Herzegovina": 0.46
+        "Bosnia-and-Herzegovina": 0.46
       },
       {
         "Montenegro": 0.29
@@ -4996,7 +4996,7 @@
   {
     "Buckwheat": [
       {
-        "Russian Federation": 63.9
+        "Russia": 63.9
       },
       {
         "France": 12.9
@@ -5020,13 +5020,13 @@
         "Slovenia": 0.22
       },
       {
-        "Czechia": 0.15
+        "Czech-Republic": 0.15
       },
       {
         "Estonia": 0.1
       },
       {
-        "Bosnia and Herzegovina": 0.09
+        "Bosnia-and-Herzegovina": 0.09
       },
       {
         "Hungary": 0.06
@@ -5041,7 +5041,7 @@
         "Austria": 0.0
       },
       {
-        "Republic of Moldova": 0.0
+        "Moldova": 0.0
       }
     ]
   },
@@ -5063,7 +5063,7 @@
         "Belarus": 4.11
       },
       {
-        "Russian Federation": 3.85
+        "Russia": 3.85
       },
       {
         "Spain": 3.08
@@ -5075,7 +5075,7 @@
         "Hungary": 1.76
       },
       {
-        "Czechia": 1.68
+        "Czech-Republic": 1.68
       },
       {
         "Poland": 1.56
@@ -5118,7 +5118,7 @@
   {
     "Currants": [
       {
-        "Russian Federation": 61.41
+        "Russia": 61.41
       },
       {
         "Poland": 25.4
@@ -5130,7 +5130,7 @@
         "Germany": 2.48
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.42
+        "United-Kingdom": 2.42
       },
       {
         "Austria": 0.83
@@ -5139,7 +5139,7 @@
         "Hungary": 0.63
       },
       {
-        "Czechia": 0.29
+        "Czech-Republic": 0.29
       },
       {
         "Netherlands": 0.29
@@ -5172,7 +5172,7 @@
         "Latvia": 0.08
       },
       {
-        "Republic of Moldova": 0.06
+        "Moldova": 0.06
       },
       {
         "Sweden": 0.04
@@ -5187,7 +5187,7 @@
         "Switzerland": 0.02
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
         "Romania": 0.01
@@ -5212,10 +5212,10 @@
         "Belarus": 4.7
       },
       {
-        "Russian Federation": 4.36
+        "Russia": 4.36
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.47
+        "United-Kingdom": 1.47
       },
       {
         "Netherlands": 1.04
@@ -5245,7 +5245,7 @@
         "Croatia": 0.0
       },
       {
-        "Czechia": 0.0
+        "Czech-Republic": 0.0
       },
       {
         "Lithuania": 0.0
@@ -5261,7 +5261,7 @@
         "Germany": 49.04
       },
       {
-        "Russian Federation": 37.62
+        "Russia": 37.62
       },
       {
         "Poland": 6.55
@@ -5270,7 +5270,7 @@
         "Ukraine": 4.62
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.16
+        "United-Kingdom": 1.16
       },
       {
         "Hungary": 0.38
@@ -5288,7 +5288,7 @@
         "Austria": 0.05
       },
       {
-        "Republic of Moldova": 0.04
+        "Moldova": 0.04
       },
       {
         "Latvia": 0.03
@@ -5300,7 +5300,7 @@
         "Spain": 0.02
       },
       {
-        "Czechia": 0.01
+        "Czech-Republic": 0.01
       },
       {
         "Denmark": 0.0
@@ -5328,7 +5328,7 @@
         "Finland": 1.23
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 1.0
+        "United-Kingdom": 1.0
       },
       {
         "Spain": 0.82
@@ -5364,13 +5364,13 @@
         "Greece": 0.16
       },
       {
-        "Czechia": 0.15
+        "Czech-Republic": 0.15
       },
       {
         "Slovenia": 0.14
       },
       {
-        "Republic of Moldova": 0.07
+        "Moldova": 0.07
       },
       {
         "Estonia": 0.04
@@ -5401,13 +5401,13 @@
         "France": 4.43
       },
       {
-        "Russian Federation": 4.34
+        "Russia": 4.34
       },
       {
         "Ukraine": 2.43
       },
       {
-        "Czechia": 2.17
+        "Czech-Republic": 2.17
       },
       {
         "Hungary": 1.0
@@ -5423,13 +5423,13 @@
   {
     "Linseed": [
       {
-        "Russian Federation": 77.35
+        "Russia": 77.35
       },
       {
         "France": 6.45
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 5.96
+        "United-Kingdom": 5.96
       },
       {
         "Ukraine": 3.33
@@ -5456,7 +5456,7 @@
         "Italy": 0.28
       },
       {
-        "Czechia": 0.24
+        "Czech-Republic": 0.24
       },
       {
         "Hungary": 0.23
@@ -5496,7 +5496,7 @@
   {
     "Lupins": [
       {
-        "Russian Federation": 39.87
+        "Russia": 39.87
       },
       {
         "Poland": 36.35
@@ -5578,7 +5578,7 @@
         "Slovakia": 0.37
       },
       {
-        "Republic of Moldova": 0.16
+        "Moldova": 0.16
       },
       {
         "Bulgaria": 0.12
@@ -5587,20 +5587,20 @@
         "Switzerland": 0.04
       },
       {
-        "Bosnia and Herzegovina": 0.03
+        "Bosnia-and-Herzegovina": 0.03
       },
       {
         "Norway": 0.01
       },
       {
-        "North Macedonia": 0.0
+        "Macedonia": 0.0
       }
     ]
   },
   {
     "Millet": [
       {
-        "Russian Federation": 53.56
+        "Russia": 53.56
       },
       {
         "Ukraine": 19.84
@@ -5630,7 +5630,7 @@
         "Slovakia": 0.28
       },
       {
-        "Czechia": 0.25
+        "Czech-Republic": 0.25
       },
       {
         "Switzerland": 0.23
@@ -5648,10 +5648,10 @@
         "Serbia": 0.03
       },
       {
-        "North Macedonia": 0.01
+        "Macedonia": 0.01
       },
       {
-        "Republic of Moldova": 0.0
+        "Moldova": 0.0
       }
     ]
   },
@@ -5667,7 +5667,7 @@
         "Poland": 11.59
       },
       {
-        "Russian Federation": 11.31
+        "Russia": 11.31
       },
       {
         "Portugal": 6.89
@@ -5700,7 +5700,7 @@
         "Latvia": 0.55
       },
       {
-        "Czechia": 0.19
+        "Czech-Republic": 0.19
       },
       {
         "Switzerland": 0.01
@@ -5710,7 +5710,7 @@
   {
     "Peas, dry": [
       {
-        "Russian Federation": 43.92
+        "Russia": 43.92
       },
       {
         "Ukraine": 14.78
@@ -5731,13 +5731,13 @@
         "Romania": 3.25
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.03
+        "United-Kingdom": 2.03
       },
       {
         "Poland": 1.37
       },
       {
-        "Czechia": 1.34
+        "Czech-Republic": 1.34
       },
       {
         "Belarus": 1.11
@@ -5758,7 +5758,7 @@
         "Hungary": 0.61
       },
       {
-        "Republic of Moldova": 0.61
+        "Moldova": 0.61
       },
       {
         "Latvia": 0.43
@@ -5785,13 +5785,13 @@
         "Netherlands": 0.05
       },
       {
-        "North Macedonia": 0.05
+        "Macedonia": 0.05
       },
       {
         "Norway": 0.05
       },
       {
-        "Bosnia and Herzegovina": 0.03
+        "Bosnia-and-Herzegovina": 0.03
       },
       {
         "Ireland": 0.03
@@ -5816,7 +5816,7 @@
   {
     "Poppy seed": [
       {
-        "Czechia": 28.54
+        "Czech-Republic": 28.54
       },
       {
         "Spain": 25.82
@@ -5852,7 +5852,7 @@
         "Netherlands": 0.74
       },
       {
-        "North Macedonia": 0.08
+        "Macedonia": 0.08
       }
     ]
   },
@@ -5871,16 +5871,16 @@
         "Poland": 8.64
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 7.89
+        "United-Kingdom": 7.89
       },
       {
-        "Russian Federation": 7.8
+        "Russia": 7.8
       },
       {
         "Romania": 6.32
       },
       {
-        "Czechia": 5.53
+        "Czech-Republic": 5.53
       },
       {
         "Hungary": 3.92
@@ -5922,7 +5922,7 @@
         "Estonia": 0.45
       },
       {
-        "Republic of Moldova": 0.34
+        "Moldova": 0.34
       },
       {
         "Switzerland": 0.32
@@ -5943,7 +5943,7 @@
         "Greece": 0.06
       },
       {
-        "Bosnia and Herzegovina": 0.04
+        "Bosnia-and-Herzegovina": 0.04
       },
       {
         "Luxembourg": 0.04
@@ -5958,14 +5958,14 @@
         "Netherlands": 0.02
       },
       {
-        "North Macedonia": 0.02
+        "Macedonia": 0.02
       }
     ]
   },
   {
     "Raspberries": [
       {
-        "Russian Federation": 27.92
+        "Russia": 27.92
       },
       {
         "Serbia": 21.39
@@ -5980,13 +5980,13 @@
         "Ukraine": 5.92
       },
       {
-        "Bosnia and Herzegovina": 4.63
+        "Bosnia-and-Herzegovina": 4.63
       },
       {
         "Portugal": 3.07
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 2.54
+        "United-Kingdom": 2.54
       },
       {
         "Bulgaria": 1.25
@@ -6007,7 +6007,7 @@
         "Norway": 0.44
       },
       {
-        "Republic of Moldova": 0.44
+        "Moldova": 0.44
       },
       {
         "Belgium": 0.39
@@ -6043,7 +6043,7 @@
         "Latvia": 0.04
       },
       {
-        "North Macedonia": 0.04
+        "Macedonia": 0.04
       },
       {
         "Denmark": 0.03
@@ -6055,7 +6055,7 @@
         "Croatia": 0.02
       },
       {
-        "Czechia": 0.02
+        "Czech-Republic": 0.02
       },
       {
         "Luxembourg": 0.0
@@ -6086,7 +6086,7 @@
         "Spain": 5.65
       },
       {
-        "Russian Federation": 3.49
+        "Russia": 3.49
       },
       {
         "Romania": 2.94
@@ -6098,7 +6098,7 @@
         "Austria": 2.43
       },
       {
-        "Czechia": 1.5
+        "Czech-Republic": 1.5
       },
       {
         "Lithuania": 1.34
@@ -6116,13 +6116,13 @@
         "Italy": 0.52
       },
       {
-        "Bosnia and Herzegovina": 0.5
+        "Bosnia-and-Herzegovina": 0.5
       },
       {
         "Switzerland": 0.41
       },
       {
-        "United Kingdom of Great Britain and Northern Ireland": 0.37
+        "United-Kingdom": 0.37
       },
       {
         "Bulgaria": 0.35
@@ -6180,7 +6180,7 @@
         "Germany": 4.69
       },
       {
-        "Republic of Moldova": 4.65
+        "Moldova": 4.65
       },
       {
         "Belarus": 4.33
@@ -6198,7 +6198,7 @@
         "Poland": 2.16
       },
       {
-        "Bosnia and Herzegovina": 1.61
+        "Bosnia-and-Herzegovina": 1.61
       },
       {
         "Austria": 1.51
@@ -6210,7 +6210,7 @@
         "Bulgaria": 1.3
       },
       {
-        "North Macedonia": 1.23
+        "Macedonia": 1.23
       },
       {
         "Portugal": 1.17
@@ -6231,7 +6231,7 @@
         "Belgium": 0.09
       },
       {
-        "Czechia": 0.04
+        "Czech-Republic": 0.04
       },
       {
         "Luxembourg": 0.01
@@ -6250,7 +6250,7 @@
         "Latvia": 18.46
       },
       {
-        "North Macedonia": 17.55
+        "Macedonia": 17.55
       },
       {
         "Ukraine": 16.75
@@ -6303,7 +6303,7 @@
         "Bulgaria": 0.23
       },
       {
-        "Republic of Moldova": 0.15
+        "Moldova": 0.15
       },
       {
         "Portugal": 0.14
@@ -6325,7 +6325,7 @@
   {
     "Lentils": [
       {
-        "Russian Federation": 59.05
+        "Russia": 59.05
       },
       {
         "France": 16.02
@@ -6349,7 +6349,7 @@
         "Slovakia": 0.08
       },
       {
-        "North Macedonia": 0.03
+        "Macedonia": 0.03
       },
       {
         "Croatia": 0.02
@@ -6362,7 +6362,7 @@
   {
     "Mustard seed": [
       {
-        "Russian Federation": 59.92
+        "Russia": 59.92
       },
       {
         "Ukraine": 16.17
@@ -6371,7 +6371,7 @@
         "France": 8.11
       },
       {
-        "Czechia": 5.65
+        "Czech-Republic": 5.65
       },
       {
         "Germany": 3.94
@@ -6426,7 +6426,7 @@
         "Spain": 0.26
       },
       {
-        "Bosnia and Herzegovina": 0.02
+        "Bosnia-and-Herzegovina": 0.02
       },
       {
         "Slovakia": 0.0
@@ -6457,13 +6457,13 @@
         "France": 0.24
       },
       {
-        "North Macedonia": 0.12
+        "Macedonia": 0.12
       },
       {
-        "Republic of Moldova": 0.12
+        "Moldova": 0.12
       },
       {
-        "Bosnia and Herzegovina": 0.02
+        "Bosnia-and-Herzegovina": 0.02
       },
       {
         "Hungary": 0.02
@@ -6482,7 +6482,7 @@
   {
     "Anise, badian, fennel, coriander": [
       {
-        "Russian Federation": 29.39
+        "Russia": 29.39
       },
       {
         "Bulgaria": 17.32
@@ -6509,7 +6509,7 @@
         "Greece": 2.39
       },
       {
-        "Bosnia and Herzegovina": 2.33
+        "Bosnia-and-Herzegovina": 2.33
       },
       {
         "Netherlands": 0.98
@@ -6534,14 +6534,14 @@
         "Greece": 1.73
       },
       {
-        "Bosnia and Herzegovina": 1.11
+        "Bosnia-and-Herzegovina": 1.11
       }
     ]
   },
   {
     "Chick peas": [
       {
-        "Russian Federation": 73.35
+        "Russia": 73.35
       },
       {
         "Spain": 10.81
@@ -6556,10 +6556,10 @@
         "Greece": 1.72
       },
       {
-        "Bosnia and Herzegovina": 0.67
+        "Bosnia-and-Herzegovina": 0.67
       },
       {
-        "Republic of Moldova": 0.34
+        "Moldova": 0.34
       },
       {
         "Portugal": 0.24
@@ -6568,7 +6568,7 @@
         "Romania": 0.21
       },
       {
-        "North Macedonia": 0.14
+        "Macedonia": 0.14
       },
       {
         "Hungary": 0.05
@@ -6584,7 +6584,7 @@
         "Romania": 43.77
       },
       {
-        "Bosnia and Herzegovina": 22.15
+        "Bosnia-and-Herzegovina": 22.15
       },
       {
         "Hungary": 17.17
@@ -6596,10 +6596,10 @@
         "Serbia": 3.68
       },
       {
-        "North Macedonia": 3.13
+        "Macedonia": 3.13
       },
       {
-        "Czechia": 2.0
+        "Czech-Republic": 2.0
       },
       {
         "Slovenia": 1.09
@@ -6625,13 +6625,13 @@
         "Serbia": 59.42
       },
       {
-        "North Macedonia": 29.69
+        "Macedonia": 29.69
       },
       {
         "Croatia": 8.26
       },
       {
-        "Bosnia and Herzegovina": 2.62
+        "Bosnia-and-Herzegovina": 2.62
       },
       {
         "Hungary": 0.02
@@ -6659,7 +6659,7 @@
         "France": 7.63
       },
       {
-        "Russian Federation": 2.76
+        "Russia": 2.76
       },
       {
         "Italy": 1.4
@@ -6696,7 +6696,7 @@
   {
     "Castor oil seed": [
       {
-        "Russian Federation": 100.0
+        "Russia": 100.0
       }
     ]
   },
@@ -6722,7 +6722,7 @@
         "France": 96.93
       },
       {
-        "Russian Federation": 1.64
+        "Russia": 1.64
       },
       {
         "Spain": 0.58
@@ -6824,7 +6824,7 @@
         "Italy": 27.36
       },
       {
-        "North Macedonia": 3.54
+        "Macedonia": 3.54
       }
     ]
   },
@@ -6856,7 +6856,7 @@
         "Hungary": 81.87
       },
       {
-        "Czechia": 12.06
+        "Czech-Republic": 12.06
       },
       {
         "Spain": 6.07
@@ -7001,7 +7001,7 @@
   {
     "Safflower seed": [
       {
-        "Russian Federation": 62.91
+        "Russia": 62.91
       },
       {
         "Spain": 36.8
@@ -7043,7 +7043,7 @@
   {
     "Tea": [
       {
-        "Russian Federation": 73.26
+        "Russia": 73.26
       },
       {
         "Montenegro": 14.53
@@ -7063,7 +7063,7 @@
   {
     "Bastfibres, other": [
       {
-        "Russian Federation": 100.0
+        "Russia": 100.0
       }
     ]
   },

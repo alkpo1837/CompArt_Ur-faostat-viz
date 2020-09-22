@@ -222,7 +222,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -109, y: 157}
+  m_AnchoredPosition: {x: 0, y: 157}
   m_SizeDelta: {x: 648, y: 648}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &208776381
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1300f24f52d589f42ab6bba44a384507, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DataJSON: {fileID: 4900000, guid: fedfa6d2e6a26584789998e9555c8ac8, type: 3}
+  DataJSON: {fileID: 4900000, guid: d9057684d4c295e4f9596dd2cd8a9c40, type: 3}
   FlagSlotsParent: {fileID: 2117400616}
   FlagIconsParent: {fileID: 2129851283}
   NbrLines: 20
@@ -907,5 +907,5 @@ MonoBehaviour:
   StatsPoster: {fileID: 208776383}
   StatsLayoutGroup: {fileID: 145356399}
   StatEntryPrefab: {fileID: 2698905624045513783, guid: 7458389b550c9b94caae2331e067b9da, type: 3}
-  DataJSON: {fileID: 4900000, guid: fedfa6d2e6a26584789998e9555c8ac8, type: 3}
-  Crop: Potatoes
+  DataJSON: {fileID: 4900000, guid: d9057684d4c295e4f9596dd2cd8a9c40, type: 3}
+  Crop: Fruit, citrus nes
