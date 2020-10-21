@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,17 +7,17 @@ using UnityEngine.UI;
 public class PosterSceneManager : MonoBehaviour
 {
     [Header("Elements")]
-    public Text Title;
+    //public Text Title;
+    public GameObject CropButtonsParent;
     public StatsPoster StatsPoster;
-    public VerticalLayoutGroup StatsLayoutGroup;
 
     [Header("Prefab")]
+    public GameObject CropButtonPrefab;
     public GameObject StatEntryPrefab;
 
     [Header("Values")]
     public TextAsset DataJSON;
-    public string Crop = "Tomatoes";
-
+    
     private JSONObject _jsonObject;
 
     private void Awake()
@@ -26,50 +27,64 @@ public class PosterSceneManager : MonoBehaviour
 
     void Start()
     {
-        Title.text = string.Format("Production quantity of {0} per countries, as of 2018", Crop);
+        CropButtonsParent.SetActive(true);
+        StatsPoster.gameObject.SetActive(false);
 
-        StatsPoster.DrawCropStats(Crop);
+        CreateCropButtons();
+        //StatsPoster.DrawCropStats(Crop);
 
         //DisplayListStats(Crop);
     }
 
-    public void DisplayListStats(string crop)
+    private void CreateCropButtons()
     {
-        List<JSONObject> dataCropList = GetDataCrop(crop);
+        List<JSONObject> crops = _jsonObject.list;
 
-        foreach (JSONObject statJSON in dataCropList)
+        foreach (JSONObject crop in crops)
         {
-            string country = statJSON.keys[0];
-            float percentage = statJSON[country].f;
+            GameObject button = Instantiate(CropButtonPrefab, CropButtonsParent.transform);
+            CropButtonBehaviour cropButtonBehaviour = button.GetComponent<CropButtonBehaviour>();
 
-            if (percentage > 1.0f)
-            {
-                GameObject statEntryGo = Instantiate(StatEntryPrefab, StatsLayoutGroup.transform);
-                StatEntry statEntry = statEntryGo.GetComponent<StatEntry>();
-
-                statEntry.Init(country, percentage);
-            }
+            cropButtonBehaviour.SetText(crop.keys[0]);
+            cropButtonBehaviour.Button.onClick.AddListener(() => ClickOnCropButton(cropButtonBehaviour.Text.text));
         }
     }
 
-    public List<JSONObject> GetDataCrop(string crop)
+    private void ClickOnCropButton(string crop)
     {
-        List<JSONObject> dataCrop = null;
-        List<JSONObject> _cropsJSON = _jsonObject.list;
+        CropButtonsParent.SetActive(false);
+        StatsPoster.gameObject.SetActive(true);
 
-        foreach (JSONObject jsonObject in _cropsJSON)
+        StatsPoster.DrawCropStats(crop);
+    }
+
+    //public List<JSONObject> GetDataCrop(string crop)
+    //{
+    //    List<JSONObject> dataCrop = null;
+    //    List<JSONObject> _cropsJSON = _jsonObject.list;
+
+    //    foreach (JSONObject jsonObject in _cropsJSON)
+    //    {
+    //        if (jsonObject.HasField(crop))
+    //        {
+    //            dataCrop = jsonObject.GetField(crop).list;
+
+    //            break;
+    //        }
+    //    }
+
+    //    if (dataCrop == null)
+    //        Debug.LogErrorFormat("Error : crop {0} does not exist", crop);
+
+    //    return dataCrop;
+    //}
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (jsonObject.HasField(crop))
-            {
-                dataCrop = jsonObject.GetField(crop).list;
-
-                break;
-            }
+            CropButtonsParent.SetActive(true);
+            StatsPoster.gameObject.SetActive(false);
         }
-
-        if (dataCrop == null)
-            Debug.LogErrorFormat("Error : crop {0} does not exist", crop);
-
-        return dataCrop;
     }
 }
