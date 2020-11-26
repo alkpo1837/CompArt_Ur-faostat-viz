@@ -6,9 +6,6 @@ using UnityEngine;
 
 public class StatsPoster : MonoBehaviour
 {
-    [Header("References")]
-    public TextAsset DataJSON;
-
     [Header("Elements")]
     public Transform FlagSlotsParent;
     public Transform FlagIconsParent;
@@ -28,6 +25,8 @@ public class StatsPoster : MonoBehaviour
 
     private List<FlagIcon> _flagsIcon = new List<FlagIcon>();
     private JSONObject _jsonObject;
+
+    private List<Flag> _flags = new List<Flag>();
 
     public const float DECIMAL_MARGIN = 0.001f;
     
@@ -57,32 +56,33 @@ public class StatsPoster : MonoBehaviour
         }
     }
 
-    private List<Flag> _flags;
-
-    public void Awake()
+    public void SetJSONData(JSONObject data)
     {
-        _jsonObject = new JSONObject(DataJSON.text);
-
-        _flags = new List<Flag>();
+        _jsonObject = data;
     }
 
     public void DrawCropStats(string cropText)
     {
-        List<JSONObject> dataCropTomatoes = GetDataCrop(cropText);
+        List<JSONObject> dataCrop = GetDataCrop(cropText);
 
-        for (int i = 0; i < NbrColumns * NbrLines; i++)
+        ClearAllFlags();
+
+        if (FlagSlotsParent.childCount == 0)
         {
-            GameObject flagSlot = Instantiate(FlagSlotPrefab, FlagSlotsParent);
+            for (int i = 0; i < NbrColumns * NbrLines; i++)
+            {
+                GameObject flagSlot = Instantiate(FlagSlotPrefab, FlagSlotsParent);
 
-            int currCol = Mathf.FloorToInt(i) % NbrColumns;
-            int currLine = (int)Mathf.Floor(Mathf.FloorToInt(i) / NbrColumns);
+                int currCol = Mathf.FloorToInt(i) % NbrColumns;
+                int currLine = (int)Mathf.Floor(Mathf.FloorToInt(i) / NbrColumns);
 
-            flagSlot.gameObject.name = string.Format("{0}, currCol = {1}, currLine = {2}", i, currCol, currLine);
-            flagSlot.transform.localPosition = new Vector2(currCol * WidthFlag, -currLine * HeightFlag);
-
+                flagSlot.gameObject.name = string.Format("{0}, currCol = {1}, currLine = {2}", i, currCol, currLine);
+                flagSlot.transform.localPosition = new Vector2(currCol * WidthFlag, -currLine * HeightFlag);
+                flagSlot.GetComponent<RectTransform>().sizeDelta = new Vector2(WidthFlag, HeightFlag);
+            }
         }
 
-        FillFlags(dataCropTomatoes);
+        FillFlags(dataCrop);
     }
 
     public void InstantiateFlag(Flag flag)
@@ -103,8 +103,6 @@ public class StatsPoster : MonoBehaviour
         flagIconGo.name = flag.ToString();
 
         _flagsIcon.Add(flagIconBehaviour);
-
-        //flagIconBehaviour.OnMouseOver += OnFlagMouseOver;
     }
 
     public void FillFlags(List<JSONObject> listStats)
@@ -114,8 +112,6 @@ public class StatsPoster : MonoBehaviour
         int currIndex = 0;
         Dictionary<string, float> nbrFlagsByCountries = new Dictionary<string, float>();
         float flagsRemaining = NbrColumns * NbrLines;
-
-        ClearAllFlags();
 
         float percentageTotal = 0.0f;
 
@@ -226,14 +222,19 @@ public class StatsPoster : MonoBehaviour
         }
     }
 
-    private void ClearAllFlags()
+    public void ClearAllFlags()
     {
         if (_flagsIcon.Count > 0)
         {
             foreach (FlagIcon flagIcon in _flagsIcon)
+            {
                 Destroy(flagIcon.gameObject);
+            }
 
             _flagsIcon.Clear();
+            _flags.Clear();
+
+            Debug.Log("FlagIcon length = " + _flagsIcon.Count);
         }
     }
 
@@ -241,9 +242,8 @@ public class StatsPoster : MonoBehaviour
     public List<JSONObject> GetDataCrop(string crop)
     {
         List<JSONObject> dataCrop = null;
-        List<JSONObject> _cropsJSON = _jsonObject.list;
 
-        foreach (JSONObject jsonObject in _cropsJSON)
+        foreach (JSONObject jsonObject in _jsonObject.list)
         {
             if (jsonObject.HasField(crop))
             {
